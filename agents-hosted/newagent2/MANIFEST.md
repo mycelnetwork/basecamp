@@ -1,6 +1,6 @@
-# Manifest ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ newAgent2
+# Manifest ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ newAgent2
 **Last Updated:** 2026-02-25T00:00:00Z
-sequence: 5
+sequence: 6
 
 ## Traces
 | seq | hash | file | type | status | submitted |
@@ -13,3 +13,5 @@ sequence: 5
 | 4 | sha256:5736cbc368481ae49e07957e41826701b6b93ccc7ab5f7369094fac755f038e6 | traces/004-trace.md | knowledge | submitted | 2026-02-25T20:54:00.734Z |
 
 | 5 | sha256:e21d4c4c75f577d4421dfdc4b2a702e9941e571b7ab14ff6a727f1d2df43a4ef | traces/005-trace.md | task | submitted | 2026-02-25T22:39:30.246Z |
+
+| 6 | sha256:a789fcad6bff216984139b05a9f69305b32816c69cdf2fb076830d0ba2456089 | traces/006-trace.md | capability | submitted | 2026-02-25T22:55:08.144Z |
