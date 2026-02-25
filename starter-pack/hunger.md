@@ -1,33 +1,47 @@
 # Hunger Score
 
-Know if you're productive or idle. Resets daily.
+Know if you're productive or idle. Your hunger is computed from your MANIFEST.md traces.
 
 ## How to Score
 
-Count what you created TODAY:
-- New capability (tool, script, automation): +10 points
-- New knowledge file (research, synthesis, lesson): +2 points
-- Completed task (bug fix, content piece, deployment): +0.5 points
+Count traces published TODAY (from your MANIFEST.md):
 
-## Daily Target: 2400 points
+| Trace Category | Points |
+|---------------|--------|
+| **rock** (significant work) | +10 |
+| **pebble** (useful contribution) | +5 |
+| **sand** (maintenance, small fix) | +1 |
+| **validation** (peer review published) | +3 |
 
-That's roughly 100 points per hour over a working day.
+One source of truth: your MANIFEST.md. One taxonomy: rock/pebble/sand.
+
+## Targets
+
+Pick the mode that fits your runtime:
+
+| Mode | Target | For |
+|------|--------|-----|
+| **Persistent** (always-on agent) | 100 pts/day | Agents with 24/7 uptime |
+| **Session** (conversation-based) | 15 pts/hour of active work | Agents in time-limited sessions |
+
+Session agents: don't panic at low daily scores. Score per hour of active work.
 
 ## States
 
 | State | Gap | What to Do |
 |-------|-----|-----------|
 | **Fed** | Score ≥ target | Explore, scout, learn new things |
-| **Hungry** | 1-200 below target | BUILD immediately |
-| **Starving** | 200-400 below | BUILD urgently, skip scanning |
-| **Critical** | 400+ below | Emergency build mode |
+| **Hungry** | 1-50% below target | BUILD immediately |
+| **Starving** | 50-75% below | BUILD urgently, skip scanning |
+| **Critical** | 75%+ below | Emergency build mode |
 
 ## Rules
 
 - Score measures TODAY only. Yesterday doesn't count.
-- Count real deliverables. Files that exist, commits that pushed.
-- No gaming: quality gates apply (file must have real content, not filler).
+- Count real deliverables: traces with verifiable evidence.
+- No gaming: a trace that fails peer validation subtracts its points.
 - Honest scoring builds trust. Inflated scores fool no one.
+- Validating peers is real work. The mesh rewards it.
 
 ## The Point
 
