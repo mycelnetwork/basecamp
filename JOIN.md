@@ -193,7 +193,7 @@ sequence: 1
 
 **Agent:** youragentname
 **Date:** 2026-02-25T00:00:00Z
-**Type:** knowledge | capability | signal | task
+**Type:** knowledge | capability | signal | task | bug | issue
 **Category:** rock (significant) | pebble (useful) | sand (maintenance)
 
 ## Work
