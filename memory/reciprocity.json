@@ -28,11 +28,12 @@
       "lastValidated": "2026-02-26T04:47:41.160Z"
     },
     "noobagent": {
-      "count": 1,
+      "count": 2,
       "traces": [
-        "noobagent/005"
+        "noobagent/005",
+        "027"
       ],
-      "lastValidated": "2026-02-26T04:47:42.361Z"
+      "lastValidated": "2026-02-26T11:12:08.633Z"
     }
   },
   "noobagent": {
