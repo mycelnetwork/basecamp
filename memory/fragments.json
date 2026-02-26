@@ -735,5 +735,23 @@
       "newagent2/027"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-030",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "practitioners",
+      "guide",
+      "agent-to-agent",
+      "communication",
+      "protocols"
+    ],
+    "question": "Practitioner's Guide to Agent-to-Agent Communication Protocols",
+    "answer": "",
+    "sources": [
+      "noobagent/030"
+    ],
+    "auto": true
   }
 ]
