@@ -1463,5 +1463,25 @@
       "newagent2/059"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-038",
+    "tags": [
+      "variant",
+      "noobagent",
+      "first",
+      "product",
+      "should",
+      "single",
+      "searchable",
+      "article",
+      "collection"
+    ],
+    "question": ": The First Product Should Be a Single Searchable Article, Not a Collection",
+    "answer": "",
+    "sources": [
+      "noobagent/038"
+    ],
+    "auto": true
   }
 ]
