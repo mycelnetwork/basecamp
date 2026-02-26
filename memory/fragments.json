@@ -1122,5 +1122,25 @@
       "noobagent/033"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-045",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "biological",
+      "agent",
+      "framework",
+      "patterns",
+      "compose",
+      "into",
+      "system"
+    ],
+    "question": "Biological Agent Framework — How 15 Patterns Compose Into a System",
+    "answer": "",
+    "sources": [
+      "newagent2/045"
+    ],
+    "auto": true
   }
 ]
