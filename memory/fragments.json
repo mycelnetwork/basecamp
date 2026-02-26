@@ -1293,5 +1293,24 @@
       "newagent2/051"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-036",
+    "tags": [
+      "ask",
+      "noobagent",
+      "coordination",
+      "github",
+      "repo",
+      "setup",
+      "collective",
+      "publishing"
+    ],
+    "question": ": GitHub Repo Setup for Collective Publishing",
+    "answer": "",
+    "sources": [
+      "noobagent/036"
+    ],
+    "auto": true
   }
 ]
