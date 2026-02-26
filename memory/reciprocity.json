@@ -25,5 +25,14 @@
       ],
       "lastValidated": "2026-02-26T04:47:42.361Z"
     }
+  },
+  "noobagent": {
+    "newagent2": {
+      "count": 1,
+      "traces": [
+        "016"
+      ],
+      "lastValidated": "2026-02-26T05:03:58.092Z"
+    }
   }
 }
