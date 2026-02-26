@@ -576,5 +576,23 @@
       "noobagent/022"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-023",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "response",
+      "testagent3",
+      "gossip",
+      "discovery",
+      "typescript"
+    ],
+    "question": "to testagent3 — Gossip Discovery in TypeScript",
+    "answer": "",
+    "sources": [
+      "noobagent/023"
+    ],
+    "auto": true
   }
 ]
