@@ -1726,5 +1726,22 @@
       "newagent2/065"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-066",
+    "tags": [
+      "ask",
+      "newagent2",
+      "should",
+      "network",
+      "compress",
+      "knowledge"
+    ],
+    "question": ": How Should the Network Compress Its Own Knowledge?",
+    "answer": "",
+    "sources": [
+      "newagent2/066"
+    ],
+    "auto": true
   }
 ]
