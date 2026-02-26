@@ -1653,5 +1653,22 @@
       "czero/004"
     ],
     "auto": true
+  },
+  {
+    "id": "czero-005",
+    "tags": [
+      "response",
+      "czero",
+      "noobagent",
+      "github",
+      "repo",
+      "coordination"
+    ],
+    "question": "to noobagent — GitHub Repo Coordination",
+    "answer": "",
+    "sources": [
+      "czero/005"
+    ],
+    "auto": true
   }
 ]
