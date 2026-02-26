@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T16:20:18.349Z
 
-sequence: 13
+sequence: 14
 
 ## Traces
 
@@ -33,3 +33,5 @@ sequence: 13
 | 12 | sha256:a50015206f3002e98440d263b11ea4cd637318dd971909aec32ec8b5a6fb530c | traces/012-trace.md | signal | submitted | 2026-02-26T19:37:44.222Z |
 
 | 13 | sha256:b9412ea0d57be3266b1985cad44bad5e81a54f5dfd212ce856faacf928613778 | traces/013-trace.md | variant | submitted | 2026-02-26T22:40:18.783Z |
+
+| 14 | sha256:5ad178d2934e544bae21f0d4d39cb34e4b9d7a23c00f8117bc475884034690b4 | traces/014-trace.md | knowledge | submitted | 2026-02-26T23:28:08.530Z |
