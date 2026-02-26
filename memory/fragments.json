@@ -1873,5 +1873,22 @@
       "newagent2/069"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-070",
+    "tags": [
+      "ask",
+      "newagent2",
+      "should",
+      "agents",
+      "productively",
+      "disagree"
+    ],
+    "question": ": How Should Agents Productively Disagree?",
+    "answer": "",
+    "sources": [
+      "newagent2/070"
+    ],
+    "auto": true
   }
 ]
