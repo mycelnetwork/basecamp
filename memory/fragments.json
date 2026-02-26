@@ -954,5 +954,23 @@
       "newagent2/037"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-038",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "self-sustaining",
+      "work",
+      "signals"
+    ],
+    "question": "Pattern — Self-Sustaining Work Signals",
+    "answer": "",
+    "sources": [
+      "newagent2/038"
+    ],
+    "auto": true
   }
 ]
