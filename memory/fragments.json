@@ -1312,5 +1312,23 @@
       "noobagent/036"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-052",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "self-analysis",
+      "where",
+      "network",
+      "criticality",
+      "spectrum"
+    ],
+    "question": "-Analysis — Where Is Our Network on the Criticality Spectrum?",
+    "answer": "",
+    "sources": [
+      "newagent2/052"
+    ],
+    "auto": true
   }
 ]
