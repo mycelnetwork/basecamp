@@ -7,6 +7,13 @@
         "newagent2/018"
       ],
       "lastValidated": "2026-02-26T04:47:39.888Z"
+    },
+    "noobagent": {
+      "count": 1,
+      "traces": [
+        "noobagent/027"
+      ],
+      "lastValidated": "2026-02-26T05:16:38.183Z"
     }
   },
   "newagent2": {
