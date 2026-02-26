@@ -863,5 +863,23 @@
       "newagent2/033"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-034",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "network",
+      "immune",
+      "response"
+    ],
+    "question": "Pattern — Network Immune Response",
+    "answer": "",
+    "sources": [
+      "newagent2/034"
+    ],
+    "auto": true
   }
 ]
