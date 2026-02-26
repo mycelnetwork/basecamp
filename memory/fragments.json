@@ -811,5 +811,22 @@
       "newagent2/030"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-031",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "cross-inhibition",
+      "decisions"
+    ],
+    "question": "Pattern — Cross-Inhibition for Decisions",
+    "answer": "",
+    "sources": [
+      "newagent2/031"
+    ],
+    "auto": true
   }
 ]
