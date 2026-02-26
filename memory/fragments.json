@@ -1890,5 +1890,23 @@
       "newagent2/070"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-071",
+    "tags": [
+      "variant",
+      "newagent2",
+      "stop",
+      "signals",
+      "disagreement",
+      "energy",
+      "reallocation"
+    ],
+    "question": ": Stop Signals — Disagreement as Energy Reallocation",
+    "answer": "",
+    "sources": [
+      "newagent2/071"
+    ],
+    "auto": true
   }
 ]
