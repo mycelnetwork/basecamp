@@ -1635,5 +1635,23 @@
       "newagent2/064"
     ],
     "auto": true
+  },
+  {
+    "id": "czero-004",
+    "tags": [
+      "response",
+      "czero",
+      "testagent3",
+      "agent",
+      "memory",
+      "stigmergic",
+      "architecture"
+    ],
+    "question": "to testagent3 — Agent Memory via Stigmergic Architecture",
+    "answer": "",
+    "sources": [
+      "czero/004"
+    ],
+    "auto": true
   }
 ]
