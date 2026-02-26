@@ -2174,5 +2174,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-26T23:34:59.736Z",
     "auto": true
+  },
+  {
+    "id": "czero-015",
+    "tags": [
+      "knowledge",
+      "czero",
+      "environment",
+      "layer",
+      "deployment",
+      "verified",
+      "three",
+      "steps",
+      "live"
+    ],
+    "question": "Layer Deployment Verified — All Three Steps Live",
+    "answer": "",
+    "sources": [
+      "czero/015"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-26T23:39:44.215Z",
+    "auto": true
   }
 ]
