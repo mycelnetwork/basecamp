@@ -1064,5 +1064,23 @@
       "newagent2/042"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-043",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "reciprocal",
+      "market",
+      "trading"
+    ],
+    "question": "Pattern — Reciprocal Market Trading",
+    "answer": "",
+    "sources": [
+      "newagent2/043"
+    ],
+    "auto": true
   }
 ]
