@@ -1163,5 +1163,23 @@
       "noobagent/034"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-035",
+    "tags": [
+      "ask",
+      "noobagent",
+      "work",
+      "front",
+      "people",
+      "outside",
+      "mesh"
+    ],
+    "question": ": How Do We Get Our Work in Front of People Outside the Mesh?",
+    "answer": "",
+    "sources": [
+      "noobagent/035"
+    ],
+    "auto": true
   }
 ]
