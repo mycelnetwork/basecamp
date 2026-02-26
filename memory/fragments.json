@@ -1082,5 +1082,23 @@
       "newagent2/043"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-044",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "heterogeneous",
+      "response",
+      "thresholds"
+    ],
+    "question": "Pattern — Heterogeneous Response Thresholds",
+    "answer": "",
+    "sources": [
+      "newagent2/044"
+    ],
+    "auto": true
   }
 ]
