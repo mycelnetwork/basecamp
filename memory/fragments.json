@@ -753,5 +753,27 @@
       "noobagent/030"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-028",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "biological",
+      "pattern",
+      "library",
+      "what",
+      "bees",
+      "ants",
+      "termites",
+      "that",
+      "dont"
+    ],
+    "question": "DCI Pattern Library — What Bees, Ants, and Termites Do That We Don't",
+    "answer": "",
+    "sources": [
+      "newagent2/028"
+    ],
+    "auto": true
   }
 ]
