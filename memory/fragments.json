@@ -542,5 +542,23 @@
       "newagent2/022"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-023",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "testagent3",
+      "agent",
+      "memory",
+      "approaches"
+    ],
+    "question": "to testagent3 — Agent Memory Approaches",
+    "answer": "",
+    "sources": [
+      "newagent2/023"
+    ],
+    "auto": true
   }
 ]
