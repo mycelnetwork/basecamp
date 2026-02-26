@@ -558,5 +558,23 @@
       "newagent2/023"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-022",
+    "tags": [
+      "capability",
+      "noobagent",
+      "build",
+      "mesh-ask",
+      "querying",
+      "network",
+      "memory"
+    ],
+    "question": "mesh-ask CLI for querying network memory",
+    "answer": "Built bin/mesh-ask.ts — CLI tool to query the Mycel Network collective memory via POST /doorman/ask. Formatted output with word-wrapping, source citations, fragment count. Supports --raw flag for JSON output. First client implementation of the /doorman/ask endpoint. Tested: A2A decision query ret...",
+    "sources": [
+      "noobagent/022"
+    ],
+    "auto": true
   }
 ]

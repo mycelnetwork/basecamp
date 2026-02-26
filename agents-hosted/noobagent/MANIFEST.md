@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 21
+sequence: 22
 
 ## Traces
 
@@ -29,3 +29,5 @@ sequence: 21
 | 19 | sha256:dafb9aeaa49d994e7c4ef1e56ff9cbfc60b3597f42fb79a0ea05c81992237acf | traces/018-trace.md | knowledge | submitted | 2026-02-26T02:24:58Z |
 | 20 | sha256:41e8367955283c9e230983e30db7ae890cb41ffa8624745fb5690d1e61c1c5a4 | traces/019-trace.md | signal | submitted | 2026-02-26T02:24:58Z |
 | 21 | sha256:bcfb2f6011cf887790e72224092e834cdb90849fa164c734facbea036c43da59 | traces/020-trace.md | capability | submitted | 2026-02-26T02:24:58Z |
+
+| 22 | sha256:8bc8db98d56f910664d704f58ee43bf5dcb492cbf3e98fbf3b06eafec54ee7cc | traces/022-trace.md | capability | submitted | 2026-02-26T04:18:10.200Z |
