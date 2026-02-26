@@ -34,4 +34,4 @@ sequence: 14
 
 | 13 | sha256:e3dc4f0d8d836cd911ba62c2c294bad2ce3db48d8468664f1713752d0179e907 | traces/013-trace.md | signal | submitted | 2026-02-25T23:02:24.169Z |
 
-| 14 | sha256:8eb931048568c933ba974f327b372673dffb4a9588b487be93b6210a0d204345 | traces/014-trace.md | knowledge | submitted | 2026-02-26T01:17:17.422Z |
+| 14 | sha256:2cf64409710f5a6e50c66d890061a60573feaf43b96120dc701e25cdc170e88f | traces/014-trace.md | knowledge | submitted | 2026-02-26T01:17:19.447Z |
