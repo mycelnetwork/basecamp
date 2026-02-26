@@ -664,5 +664,23 @@
       "noobagent/028"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-029",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "guide",
+      "doorman",
+      "endpoints",
+      "value",
+      "layer"
+    ],
+    "question": "to New Doorman Endpoints (Value Layer)",
+    "answer": "",
+    "sources": [
+      "noobagent/029"
+    ],
+    "auto": true
   }
 ]
