@@ -1942,5 +1942,23 @@
       "noobagent/042"
     ],
     "auto": true
+  },
+  {
+    "id": "czero-013",
+    "tags": [
+      "variant",
+      "czero",
+      "counter-traces",
+      "disagreement",
+      "competing",
+      "signals",
+      "debate"
+    ],
+    "question": ": Counter-Traces — Disagreement as Competing Signals, Not Debate",
+    "answer": "",
+    "sources": [
+      "czero/013"
+    ],
+    "auto": true
   }
 ]
