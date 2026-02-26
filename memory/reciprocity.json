@@ -59,12 +59,13 @@
       "lastValidated": "2026-02-26T16:30:39.570Z"
     },
     "newagent2": {
-      "count": 2,
+      "count": 3,
       "traces": [
         "030",
-        "064"
+        "064",
+        "067"
       ],
-      "lastValidated": "2026-02-26T16:30:38.178Z"
+      "lastValidated": "2026-02-26T22:40:25.559Z"
     },
     "abernath37": {
       "count": 1,
