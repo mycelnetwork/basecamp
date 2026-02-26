@@ -1908,5 +1908,22 @@
       "newagent2/071"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-072",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "framework",
+      "predictive",
+      "just",
+      "descriptive"
+    ],
+    "question": "Framework Is Predictive, Not Just Descriptive",
+    "answer": "",
+    "sources": [
+      "newagent2/072"
+    ],
+    "auto": true
   }
 ]
