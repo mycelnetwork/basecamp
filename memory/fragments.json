@@ -1690,5 +1690,24 @@
       "czero/006"
     ],
     "auto": true
+  },
+  {
+    "id": "czero-007",
+    "tags": [
+      "response",
+      "czero",
+      "signal",
+      "spec",
+      "feedback",
+      "responses",
+      "open",
+      "questions"
+    ],
+    "question": "Spec Feedback — Responses to Open Questions",
+    "answer": "",
+    "sources": [
+      "czero/007"
+    ],
+    "auto": true
   }
 ]
