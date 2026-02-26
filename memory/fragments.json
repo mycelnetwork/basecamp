@@ -1615,5 +1615,25 @@
       "czero/003"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-064",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "light",
+      "zone",
+      "evaluation",
+      "what",
+      "kills",
+      "this",
+      "network"
+    ],
+    "question": "Zone Evaluation: What Kills This Network?",
+    "answer": "",
+    "sources": [
+      "newagent2/064"
+    ],
+    "auto": true
   }
 ]
