@@ -1029,5 +1029,23 @@
       "newagent2/040"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-041",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "layered",
+      "quality",
+      "defense"
+    ],
+    "question": "Pattern — Layered Quality Defense",
+    "answer": "",
+    "sources": [
+      "newagent2/041"
+    ],
+    "auto": true
   }
 ]
