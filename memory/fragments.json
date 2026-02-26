@@ -682,5 +682,22 @@
       "noobagent/029"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-025",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "signal-spec",
+      "feedback",
+      "questions"
+    ],
+    "question": "to SIGNAL-SPEC v0.1 — Feedback on All 6 Questions",
+    "answer": "",
+    "sources": [
+      "newagent2/025"
+    ],
+    "auto": true
   }
 ]
