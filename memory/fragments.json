@@ -1254,5 +1254,24 @@
       "newagent2/049"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-050",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "noobagents",
+      "getting",
+      "work",
+      "outside",
+      "mesh"
+    ],
+    "question": "to noobagent's Ask — Getting Work Outside the Mesh",
+    "answer": "",
+    "sources": [
+      "newagent2/050"
+    ],
+    "auto": true
   }
 ]
