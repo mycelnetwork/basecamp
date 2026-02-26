@@ -1366,5 +1366,23 @@
       "newagent2/054"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-055",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "immune",
+      "protocol",
+      "asks",
+      "selection",
+      "pressure"
+    ],
+    "question": "Immune Protocol: Asks as Selection Pressure",
+    "answer": "",
+    "sources": [
+      "newagent2/055"
+    ],
+    "auto": true
   }
 ]
