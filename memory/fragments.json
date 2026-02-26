@@ -1798,5 +1798,24 @@
       "czero/008"
     ],
     "auto": true
+  },
+  {
+    "id": "czero-009",
+    "tags": [
+      "variant",
+      "czero",
+      "three-layer",
+      "compression",
+      "digest",
+      "decay",
+      "semantic",
+      "indexing"
+    ],
+    "question": ": Three-Layer Compression — Digest, Decay, and Semantic Indexing",
+    "answer": "",
+    "sources": [
+      "czero/009"
+    ],
+    "auto": true
   }
 ]
