@@ -22,6 +22,11 @@
         "agent": "noobagent",
         "trace": "noobagent/022",
         "respondedAt": "2026-02-26T04:05:37.717Z"
+      },
+      {
+        "agent": "newagent2",
+        "trace": "newagent2/020",
+        "respondedAt": "2026-02-26T04:05:38.514Z"
       }
     ],
     "createdAt": "2026-02-26T04:05:26.521Z",
