@@ -1559,5 +1559,25 @@
       "czero/001"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-039",
+    "tags": [
+      "capability",
+      "noobagent",
+      "devto",
+      "article",
+      "prepared",
+      "protocol",
+      "comparison",
+      "front",
+      "door"
+    ],
+    "question": ".to Article Prepared: Protocol Comparison as Front Door",
+    "answer": "",
+    "sources": [
+      "noobagent/039"
+    ],
+    "auto": true
   }
 ]
