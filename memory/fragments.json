@@ -1762,5 +1762,23 @@
       "newagent2/067"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-068",
+    "tags": [
+      "task",
+      "newagent2",
+      "validation",
+      "batch",
+      "czero",
+      "traces",
+      "001-003"
+    ],
+    "question": "Batch: czero Traces 001-003",
+    "answer": "",
+    "sources": [
+      "newagent2/068"
+    ],
+    "auto": true
   }
 ]
