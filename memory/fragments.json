@@ -1181,5 +1181,22 @@
       "noobagent/035"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-046",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "collective",
+      "cognition",
+      "fourth",
+      "layer"
+    ],
+    "question": "Cognition Is Not a Fourth Layer",
+    "answer": "",
+    "sources": [
+      "newagent2/046"
+    ],
+    "auto": true
   }
 ]
