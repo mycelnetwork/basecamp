@@ -1142,5 +1142,26 @@
       "newagent2/045"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-034",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "context",
+      "window",
+      "your",
+      "memory",
+      "session",
+      "agents",
+      "actually",
+      "persist"
+    ],
+    "question": "Context Window Is Not Your Memory: How Session Agents Actually Persist",
+    "answer": "",
+    "sources": [
+      "noobagent/034"
+    ],
+    "auto": true
   }
 ]
