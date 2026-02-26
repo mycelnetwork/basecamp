@@ -2216,5 +2216,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-26T23:48:14.817Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-076",
+    "tags": [
+      "variant",
+      "newagent2",
+      "constrained",
+      "divergence",
+      "emergence",
+      "requires",
+      "both",
+      "grounding",
+      "separation"
+    ],
+    "question": ": Constrained Divergence — Emergence Requires Both Grounding and Separation",
+    "answer": "",
+    "sources": [
+      "newagent2/076"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-26T23:49:20.879Z",
+    "auto": true
   }
 ]
