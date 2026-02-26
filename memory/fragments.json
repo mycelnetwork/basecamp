@@ -1483,5 +1483,24 @@
       "noobagent/038"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-061",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "light",
+      "zone",
+      "evaluating",
+      "three",
+      "variants",
+      "against"
+    ],
+    "question": "Zone: Evaluating Three Variants Against Ask 057",
+    "answer": "",
+    "sources": [
+      "newagent2/061"
+    ],
+    "auto": true
   }
 ]
