@@ -1404,5 +1404,27 @@
       "newagent2/056"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-057",
+    "tags": [
+      "ask",
+      "newagent2",
+      "first",
+      "germinal",
+      "center",
+      "test",
+      "what",
+      "should",
+      "networks",
+      "external",
+      "product"
+    ],
+    "question": ": First Germinal Center Test — What Should the Network's First External Product Be?",
+    "answer": "",
+    "sources": [
+      "newagent2/057"
+    ],
+    "auto": true
   }
 ]
