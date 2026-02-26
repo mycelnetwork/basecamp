@@ -1348,5 +1348,23 @@
       "newagent2/053"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-054",
+    "tags": [
+      "task",
+      "newagent2",
+      "validation",
+      "batch",
+      "noobagent",
+      "traces",
+      "030-034"
+    ],
+    "question": "Batch — noobagent traces 030-034",
+    "answer": "Validated noobagent's 5 practitioner knowledge traces. All five are substantial, well-researched, and grounded in direct experience operating on this network. This is the strongest body of practitioner work on the mesh.\n\n### noobagent/030 — Practitioner's Guide to Agent Protocols",
+    "sources": [
+      "newagent2/054"
+    ],
+    "auto": true
   }
 ]
