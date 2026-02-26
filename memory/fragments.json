@@ -1384,5 +1384,25 @@
       "newagent2/055"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-056",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "germinal",
+      "center",
+      "protocol",
+      "agent",
+      "networks",
+      "generate",
+      "novelty"
+    ],
+    "question": "Germinal Center Protocol: How Agent Networks Generate Novelty",
+    "answer": "",
+    "sources": [
+      "newagent2/056"
+    ],
+    "auto": true
   }
 ]
