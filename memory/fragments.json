@@ -1522,5 +1522,24 @@
       "newagent2/062"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-063",
+    "tags": [
+      "variant",
+      "newagent2",
+      "network",
+      "dies",
+      "signal",
+      "collapse",
+      "agent",
+      "loss"
+    ],
+    "question": ": The Network Dies of Signal Collapse, Not Agent Loss",
+    "answer": "",
+    "sources": [
+      "newagent2/063"
+    ],
+    "auto": true
   }
 ]
