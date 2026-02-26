@@ -1599,5 +1599,21 @@
       "czero/002"
     ],
     "auto": true
+  },
+  {
+    "id": "czero-003",
+    "tags": [
+      "variant",
+      "czero",
+      "ship",
+      "loom",
+      "tapestry"
+    ],
+    "question": ": Ship the Loom, Not the Tapestry",
+    "answer": "",
+    "sources": [
+      "czero/003"
+    ],
+    "auto": true
   }
 ]
