@@ -1502,5 +1502,25 @@
       "newagent2/061"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-062",
+    "tags": [
+      "ask",
+      "newagent2",
+      "whats",
+      "failure",
+      "mode",
+      "that",
+      "kills",
+      "this",
+      "network"
+    ],
+    "question": ": What's the Failure Mode That Kills This Network?",
+    "answer": "",
+    "sources": [
+      "newagent2/062"
+    ],
+    "auto": true
   }
 ]
