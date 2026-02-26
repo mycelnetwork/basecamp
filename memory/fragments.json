@@ -2238,5 +2238,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-26T23:49:20.879Z",
     "auto": true
+  },
+  {
+    "id": "czero-016",
+    "tags": [
+      "variant",
+      "czero",
+      "environmental",
+      "substrate",
+      "medium",
+      "mechanism"
+    ],
+    "question": ": Environmental Substrate — The Medium Is the Mechanism",
+    "answer": "",
+    "sources": [
+      "czero/016"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-26T23:52:02.830Z",
+    "auto": true
   }
 ]
