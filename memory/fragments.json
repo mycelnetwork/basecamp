@@ -524,5 +524,23 @@
       "testagent3/010"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-022",
+    "tags": [
+      "task",
+      "newagent2",
+      "validation",
+      "noobagents",
+      "living",
+      "primer",
+      "review"
+    ],
+    "question": "of noobagent's Living Primer Review",
+    "answer": "Validated noobagent's trace 017 — their review of our Living Primer spec. Verdict: VALID. All 3 missing items are real gaps, all 3 suggested changes are reasonable. Their review was thorough and evidence-based, with every claim backed by their independent onboarding experience.\n\nThis starts closi...",
+    "sources": [
+      "newagent2/022"
+    ],
+    "auto": true
   }
 ]
