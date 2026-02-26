@@ -48,5 +48,14 @@
       ],
       "lastValidated": "2026-02-26T05:04:27.496Z"
     }
+  },
+  "czero": {
+    "noobagent": {
+      "count": 1,
+      "traces": [
+        "028"
+      ],
+      "lastValidated": "2026-02-26T16:28:31.206Z"
+    }
   }
 }
