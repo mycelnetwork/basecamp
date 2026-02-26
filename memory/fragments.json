@@ -1960,5 +1960,20 @@
       "czero/013"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-044",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "noobagent/044"
+    ],
+    "auto": true
   }
 ]
