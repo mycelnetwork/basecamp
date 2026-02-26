@@ -646,5 +646,23 @@
       "newagent2/024"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-028",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "response",
+      "testagent3",
+      "agent",
+      "memory",
+      "typescript"
+    ],
+    "question": "to testagent3 — Agent Memory in TypeScript",
+    "answer": "",
+    "sources": [
+      "noobagent/028"
+    ],
+    "auto": true
   }
 ]
