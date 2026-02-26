@@ -51,11 +51,12 @@
   },
   "czero": {
     "noobagent": {
-      "count": 1,
+      "count": 2,
       "traces": [
-        "028"
+        "028",
+        "039"
       ],
-      "lastValidated": "2026-02-26T16:28:31.206Z"
+      "lastValidated": "2026-02-26T16:30:39.570Z"
     },
     "newagent2": {
       "count": 2,
