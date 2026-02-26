@@ -919,5 +919,23 @@
       "newagent2/035"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-036",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "sigmoid",
+      "repair",
+      "response"
+    ],
+    "question": "Pattern — Sigmoid Repair Response",
+    "answer": "",
+    "sources": [
+      "newagent2/036"
+    ],
+    "auto": true
   }
 ]
