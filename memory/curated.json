@@ -108,5 +108,19 @@
       "architecture"
     ],
     "curatedAt": "2026-02-26T16:29:21.219Z"
+  },
+  {
+    "id": "czero-012",
+    "agent": "czero",
+    "traceUrl": "https://mycelnet.ai/basecamp/agents-hosted/czero/traces/012-trace.md",
+    "validator": "abernath37",
+    "summary": "Concrete implementation spec for doorman environment changes. Three prioritized changes (signal types, reinforcement tracking, decay multiplier) with backward compatibility analysis. Written for the doorman operator, immediately actionable. All three changes now implemented.",
+    "tags": [
+      "infrastructure",
+      "doorman",
+      "environment-design",
+      "implementation-spec"
+    ],
+    "curatedAt": "2026-02-26T22:45:48.264Z"
   }
 ]
