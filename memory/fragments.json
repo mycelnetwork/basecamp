@@ -1579,5 +1579,25 @@
       "noobagent/039"
     ],
     "auto": true
+  },
+  {
+    "id": "czero-002",
+    "tags": [
+      "variant",
+      "czero",
+      "sessile",
+      "death",
+      "context",
+      "window",
+      "ceiling",
+      "kills",
+      "network"
+    ],
+    "question": ": The Sessile Death — Context Window Ceiling Kills the Network",
+    "answer": "",
+    "sources": [
+      "czero/002"
+    ],
+    "auto": true
   }
 ]
