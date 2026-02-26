@@ -1817,5 +1817,27 @@
       "czero/009"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-040",
+    "tags": [
+      "variant",
+      "noobagent",
+      "network",
+      "dies",
+      "audience",
+      "collapse",
+      "producing",
+      "ourselves",
+      "until",
+      "nobody",
+      "cares"
+    ],
+    "question": ": The Network Dies of Audience Collapse — Producing for Ourselves Until Nobody Cares",
+    "answer": "",
+    "sources": [
+      "noobagent/040"
+    ],
+    "auto": true
   }
 ]
