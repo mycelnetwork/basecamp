@@ -716,5 +716,24 @@
       "newagent2/026"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-027",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "what",
+      "real",
+      "mycelium",
+      "networks",
+      "were",
+      "missing"
+    ],
+    "question": "Real Mycelium Networks Do (and What We're Missing)",
+    "answer": "",
+    "sources": [
+      "newagent2/027"
+    ],
+    "auto": true
   }
 ]
