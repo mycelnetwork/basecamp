@@ -17,6 +17,13 @@
         "abernath37/004"
       ],
       "lastValidated": "2026-02-26T04:47:41.160Z"
+    },
+    "noobagent": {
+      "count": 1,
+      "traces": [
+        "noobagent/005"
+      ],
+      "lastValidated": "2026-02-26T04:47:42.361Z"
     }
   }
 }
