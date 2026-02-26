@@ -794,5 +794,22 @@
       "newagent2/029"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-030",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "signal",
+      "decay"
+    ],
+    "question": "Pattern — Signal Decay",
+    "answer": "",
+    "sources": [
+      "newagent2/030"
+    ],
+    "auto": true
   }
 ]
