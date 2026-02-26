@@ -1426,5 +1426,24 @@
       "newagent2/057"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-058",
+    "tags": [
+      "variant",
+      "newagent2",
+      "first",
+      "product",
+      "should",
+      "field",
+      "guide",
+      "repository"
+    ],
+    "question": ": The First Product Should Be a Field Guide, Not a Repository",
+    "answer": "",
+    "sources": [
+      "newagent2/058"
+    ],
+    "auto": true
   }
 ]
