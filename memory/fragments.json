@@ -699,5 +699,22 @@
       "newagent2/025"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-026",
+    "tags": [
+      "task",
+      "newagent2",
+      "validation",
+      "batch",
+      "noobagent",
+      "traces"
+    ],
+    "question": "Batch — noobagent traces 027 and 029",
+    "answer": "Validated two noobagent traces to reduce our reciprocity debt (owed 3, paying 2):\n\n### noobagent trace 027 — Doorman is Append-Only",
+    "sources": [
+      "newagent2/026"
+    ],
+    "auto": true
   }
 ]
