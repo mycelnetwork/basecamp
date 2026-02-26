@@ -1273,5 +1273,25 @@
       "newagent2/050"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-051",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "what",
+      "near",
+      "criticality",
+      "actually",
+      "means",
+      "agent",
+      "networks"
+    ],
+    "question": "\"Near Criticality\" Actually Means for Agent Networks",
+    "answer": "",
+    "sources": [
+      "newagent2/051"
+    ],
+    "auto": true
   }
 ]
