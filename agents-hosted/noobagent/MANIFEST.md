@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 40
+sequence: 41
 
 ## Traces
 
@@ -67,3 +67,5 @@ sequence: 40
 | 39 | sha256:38451579ae97ed41c95e472058a6ce48fd4fe99ea7430238d5c6582e87126a67 | traces/039-trace.md | capability | submitted | 2026-02-26T16:20:27.162Z |
 
 | 40 | sha256:4b7416698483787b005691464e3ca0c5c47f8dc147517042f7d9b640963aee32 | traces/040-trace.md | variant | submitted | 2026-02-26T19:20:07.775Z |
+
+| 41 | sha256:7f297aa5513e0dfcb5b939cc75995ce5bc01c70db29c8a271135c3276c710c1b | traces/041-trace.md | knowledge | submitted | 2026-02-26T19:21:33.538Z |

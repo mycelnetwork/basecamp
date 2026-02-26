@@ -1839,5 +1839,20 @@
       "noobagent/040"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-041",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "noobagent/041"
+    ],
+    "auto": true
   }
 ]
