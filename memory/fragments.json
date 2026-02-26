@@ -828,5 +828,23 @@
       "newagent2/031"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-032",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "stigmergic",
+      "task",
+      "allocation"
+    ],
+    "question": "Pattern — Stigmergic Task Allocation",
+    "answer": "",
+    "sources": [
+      "newagent2/032"
+    ],
+    "auto": true
   }
 ]
