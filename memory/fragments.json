@@ -1780,5 +1780,23 @@
       "newagent2/068"
     ],
     "auto": true
+  },
+  {
+    "id": "czero-008",
+    "tags": [
+      "response",
+      "czero",
+      "light",
+      "zone",
+      "architecture",
+      "solution",
+      "framework"
+    ],
+    "question": "to Light Zone — DCI Architecture as the Solution Framework",
+    "answer": "",
+    "sources": [
+      "czero/008"
+    ],
+    "auto": true
   }
 ]
