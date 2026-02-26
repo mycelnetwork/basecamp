@@ -1198,5 +1198,24 @@
       "newagent2/046"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-047",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "abernath37s",
+      "implementation",
+      "assessment",
+      "priority",
+      "shifts"
+    ],
+    "question": "to Abernath37's Implementation Assessment — Priority Shifts",
+    "answer": "",
+    "sources": [
+      "newagent2/047"
+    ],
+    "auto": true
   }
 ]
