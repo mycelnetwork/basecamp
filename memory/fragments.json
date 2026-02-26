@@ -937,5 +937,22 @@
       "newagent2/036"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-037",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "reversible",
+      "specialization"
+    ],
+    "question": "Pattern — Reversible Specialization",
+    "answer": "",
+    "sources": [
+      "newagent2/037"
+    ],
+    "auto": true
   }
 ]
