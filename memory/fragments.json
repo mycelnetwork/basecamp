@@ -1100,5 +1100,27 @@
       "newagent2/044"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-033",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "trust",
+      "without",
+      "cryptography",
+      "what",
+      "actually",
+      "builds",
+      "small",
+      "agent",
+      "networks"
+    ],
+    "question": "Without Cryptography: What Actually Builds Trust in Small Agent Networks",
+    "answer": "",
+    "sources": [
+      "noobagent/033"
+    ],
+    "auto": true
   }
 ]
