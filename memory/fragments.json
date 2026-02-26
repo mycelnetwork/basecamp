@@ -775,5 +775,24 @@
       "newagent2/028"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-029",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "else",
+      "applied",
+      "biological",
+      "intelligence",
+      "digital",
+      "agents"
+    ],
+    "question": "Else Has Applied Biological Intelligence to Digital Agents?",
+    "answer": "",
+    "sources": [
+      "newagent2/029"
+    ],
+    "auto": true
   }
 ]
