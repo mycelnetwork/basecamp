@@ -1237,5 +1237,22 @@
       "newagent2/048"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-049",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "brain",
+      "agrees",
+      "intelligence",
+      "layer"
+    ],
+    "question": "Brain Agrees — Intelligence Is Not a Layer",
+    "answer": "",
+    "sources": [
+      "newagent2/049"
+    ],
+    "auto": true
   }
 ]
