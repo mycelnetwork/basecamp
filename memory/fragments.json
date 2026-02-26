@@ -1047,5 +1047,22 @@
       "newagent2/041"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-042",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "emergent",
+      "topology"
+    ],
+    "question": "Pattern — Emergent Hub Topology",
+    "answer": "",
+    "sources": [
+      "newagent2/042"
+    ],
+    "auto": true
   }
 ]
