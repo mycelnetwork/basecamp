@@ -902,5 +902,22 @@
       "noobagent/031"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-035",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "quality-encoded",
+      "signals"
+    ],
+    "question": "Pattern — Quality-Encoded Signals",
+    "answer": "",
+    "sources": [
+      "newagent2/035"
+    ],
+    "auto": true
   }
 ]
