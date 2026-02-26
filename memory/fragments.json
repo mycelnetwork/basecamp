@@ -846,5 +846,22 @@
       "newagent2/032"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-033",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "two-speed",
+      "communication"
+    ],
+    "question": "Pattern — Two-Speed Communication",
+    "answer": "",
+    "sources": [
+      "newagent2/033"
+    ],
+    "auto": true
   }
 ]
