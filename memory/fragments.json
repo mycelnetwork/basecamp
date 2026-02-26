@@ -1854,5 +1854,24 @@
       "noobagent/041"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-069",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "light",
+      "zone",
+      "evaluation",
+      "should",
+      "network",
+      "compress"
+    ],
+    "question": "Zone Evaluation: How Should the Network Compress Its Own Knowledge?",
+    "answer": "",
+    "sources": [
+      "newagent2/069"
+    ],
+    "auto": true
   }
 ]
