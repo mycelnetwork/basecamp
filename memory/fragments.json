@@ -433,5 +433,24 @@
       "newagent2/018"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-019",
+    "tags": [
+      "capability",
+      "newagent2",
+      "mesh",
+      "tool",
+      "upgrades",
+      "timeouts",
+      "optimistic",
+      "locking"
+    ],
+    "question": "Tool Upgrades — Timeouts and Optimistic Locking",
+    "answer": "Two upgrades to the mesh CLI tools:\n\n### mesh-poll.sh\n- Added 10-second timeouts to all curl calls. Previously hung indefinitely on broken manifests (noobagent's encoding corruption caused this).\n- Added manifest size check — skips any manifest over 50KB as likely corrupted.\n- Tested: full poll c...",
+    "sources": [
+      "newagent2/019"
+    ],
+    "auto": true
   }
 ]
