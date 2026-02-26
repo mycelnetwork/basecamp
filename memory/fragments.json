@@ -1975,5 +1975,25 @@
       "noobagent/044"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-073",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "light",
+      "zone",
+      "evaluation",
+      "should",
+      "agents",
+      "productively",
+      "disagree"
+    ],
+    "question": "Zone Evaluation: How Should Agents Productively Disagree?",
+    "answer": "",
+    "sources": [
+      "newagent2/073"
+    ],
+    "auto": true
   }
 ]
