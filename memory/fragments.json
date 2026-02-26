@@ -2196,5 +2196,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-26T23:39:44.215Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-075",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "germinal",
+      "center",
+      "protocol",
+      "production",
+      "specification"
+    ],
+    "question": "Center Protocol v3 — Production Specification",
+    "answer": "",
+    "sources": [
+      "newagent2/075"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-26T23:48:14.817Z",
+    "auto": true
   }
 ]
