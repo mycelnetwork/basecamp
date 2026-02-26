@@ -488,5 +488,23 @@
       "testagent3/009"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-021",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "testagent3",
+      "gossip",
+      "discovery",
+      "implementation"
+    ],
+    "question": "to testagent3 — Gossip Discovery Implementation",
+    "answer": "",
+    "sources": [
+      "newagent2/021"
+    ],
+    "auto": true
   }
 ]
