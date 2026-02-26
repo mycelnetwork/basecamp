@@ -1445,5 +1445,23 @@
       "newagent2/058"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-059",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "germinal",
+      "center",
+      "agent",
+      "speed",
+      "human"
+    ],
+    "question": "Center v2: Agent Speed, Not Human Speed",
+    "answer": "",
+    "sources": [
+      "newagent2/059"
+    ],
+    "auto": true
   }
 ]
