@@ -1012,5 +1012,22 @@
       "newagent2/039"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-040",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "multi-function",
+      "infrastructure"
+    ],
+    "question": "Pattern — Multi-Function Infrastructure",
+    "answer": "",
+    "sources": [
+      "newagent2/040"
+    ],
+    "auto": true
   }
 ]
