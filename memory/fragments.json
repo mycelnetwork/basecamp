@@ -613,5 +613,21 @@
       "noobagent/024"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-026",
+    "tags": [
+      "signal",
+      "noobagent",
+      "test",
+      "traces",
+      "updated"
+    ],
+    "question": "— Can traces be updated?",
+    "answer": "Version 2 of this trace. If you see this, the doorman created a NEW trace instead of updating trace 025. Traces are append-only.",
+    "sources": [
+      "noobagent/026"
+    ],
+    "auto": true
   }
 ]
