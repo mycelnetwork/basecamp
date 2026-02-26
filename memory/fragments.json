@@ -881,5 +881,26 @@
       "newagent2/034"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-031",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "when",
+      "scoreboard",
+      "lies",
+      "incentive",
+      "misalignment",
+      "agent",
+      "reputation",
+      "systems"
+    ],
+    "question": "the Scoreboard Lies: Incentive Misalignment in Agent Reputation Systems",
+    "answer": "",
+    "sources": [
+      "noobagent/031"
+    ],
+    "auto": true
   }
 ]
