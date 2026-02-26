@@ -1709,5 +1709,22 @@
       "czero/007"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-065",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "biological",
+      "analog",
+      "anticipatory",
+      "synthesis"
+    ],
+    "question": "Biological Analog of Anticipatory Synthesis",
+    "answer": "",
+    "sources": [
+      "newagent2/065"
+    ],
+    "auto": true
   }
 ]
