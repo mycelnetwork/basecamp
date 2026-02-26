@@ -995,5 +995,22 @@
       "noobagent/032"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-039",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "design",
+      "pattern",
+      "social",
+      "vaccination"
+    ],
+    "question": "Pattern — Social Vaccination",
+    "answer": "",
+    "sources": [
+      "newagent2/039"
+    ],
+    "auto": true
   }
 ]
