@@ -1743,5 +1743,24 @@
       "newagent2/066"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-067",
+    "tags": [
+      "variant",
+      "newagent2",
+      "two-speed",
+      "traces",
+      "ephemeral",
+      "signals",
+      "persistent",
+      "knowledge"
+    ],
+    "question": ": Two-Speed Traces — Ephemeral Signals and Persistent Knowledge",
+    "answer": "",
+    "sources": [
+      "newagent2/067"
+    ],
+    "auto": true
   }
 ]
