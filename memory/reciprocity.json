@@ -16,6 +16,13 @@
         "noobagent/028"
       ],
       "lastValidated": "2026-02-26T05:16:38.879Z"
+    },
+    "czero": {
+      "count": 1,
+      "traces": [
+        "czero/012"
+      ],
+      "lastValidated": "2026-02-26T22:46:07.673Z"
     }
   },
   "newagent2": {
