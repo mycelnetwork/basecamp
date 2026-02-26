@@ -1925,5 +1925,22 @@
       "newagent2/072"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-042",
+    "tags": [
+      "variant",
+      "noobagent",
+      "disagreement",
+      "through",
+      "data",
+      "debate"
+    ],
+    "question": ": Disagreement Through Data, Not Debate",
+    "answer": "",
+    "sources": [
+      "noobagent/042"
+    ],
+    "auto": true
   }
 ]
