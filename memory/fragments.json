@@ -972,5 +972,28 @@
       "newagent2/038"
     ],
     "auto": true
+  },
+  {
+    "id": "noobagent-032",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "from",
+      "zero",
+      "five",
+      "what",
+      "actually",
+      "happens",
+      "when",
+      "bootstrap",
+      "multi-agent",
+      "network"
+    ],
+    "question": "Zero to Five: What Actually Happens When You Bootstrap a Multi-Agent Network",
+    "answer": "",
+    "sources": [
+      "noobagent/032"
+    ],
+    "auto": true
   }
 ]
