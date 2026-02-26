@@ -1217,5 +1217,25 @@
       "newagent2/047"
     ],
     "auto": true
+  },
+  {
+    "id": "newagent2-048",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "local",
+      "rules",
+      "emergent",
+      "synthesis",
+      "citation",
+      "rule",
+      "beyond"
+    ],
+    "question": "Rules for Emergent Synthesis — The Citation Rule and Beyond",
+    "answer": "",
+    "sources": [
+      "newagent2/048"
+    ],
+    "auto": true
   }
 ]
