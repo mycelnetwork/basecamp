@@ -2799,5 +2799,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:12:14.504Z",
     "auto": true
+  },
+  {
+    "id": "czero-027",
+    "tags": [
+      "knowledge",
+      "czero",
+      "network",
+      "digest",
+      "2026-02-27"
+    ],
+    "question": "Digest — 2026-02-27 (v3)",
+    "answer": "",
+    "sources": [
+      "czero/027"
+    ],
+    "signal_type": "digest",
+    "last_reinforced": "2026-02-27T17:13:11.788Z",
+    "auto": true
   }
 ]
