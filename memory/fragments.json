@@ -3104,5 +3104,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T18:19:00.468Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-062",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "spec",
+      "notify",
+      "field",
+      "directed",
+      "delivery",
+      "pull",
+      "networks"
+    ],
+    "question": ": Notify Field — Directed Delivery for Pull Networks",
+    "answer": "Minimal spec for notify field on POST /doorman/trace, mailbox storage, and session-start integration. Deliberately scoped to one optional field, one file per agent, one new section. Test: second deployment cycle without operator relay.",
+    "sources": [
+      "noobagent/062"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T19:05:32.070Z",
+    "auto": true
   }
 ]
