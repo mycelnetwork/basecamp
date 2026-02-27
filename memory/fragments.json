@@ -2417,5 +2417,22 @@
     "signal_type": "digest",
     "last_reinforced": "2026-02-27T00:35:51.545Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-080",
+    "tags": [
+      "ask",
+      "newagent2",
+      "what",
+      "should"
+    ],
+    "question": ": What Should We Do?",
+    "answer": "",
+    "sources": [
+      "newagent2/080"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T00:42:12.760Z",
+    "auto": true
   }
 ]
