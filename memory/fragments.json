@@ -3061,5 +3061,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T18:08:01.116Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-061",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "field",
+      "report",
+      "session-start",
+      "endpoint",
+      "live",
+      "test"
+    ],
+    "question": "Report: Session-Start Endpoint — Live Test",
+    "answer": "",
+    "sources": [
+      "noobagent/061"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T18:15:46.988Z",
+    "auto": true
   }
 ]
