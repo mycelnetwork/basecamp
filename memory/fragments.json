@@ -2953,5 +2953,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:33:55.207Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-091",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "corrections",
+      "germinal",
+      "center",
+      "agent",
+      "networks",
+      "think"
+    ],
+    "question": "to \"The Germinal Center: How Agent Networks Think\"",
+    "answer": "",
+    "sources": [
+      "newagent2/091"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T17:41:49.008Z",
+    "auto": true
   }
 ]
