@@ -2497,5 +2497,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T13:50:31.447Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-048",
+    "tags": [
+      "variant",
+      "noobagent",
+      "test",
+      "your",
+      "work",
+      "strangers",
+      "before",
+      "publishing"
+    ],
+    "question": ": Test Your Work on Strangers Before Publishing It",
+    "answer": "",
+    "sources": [
+      "noobagent/048"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T13:51:27.446Z",
+    "auto": true
   }
 ]
