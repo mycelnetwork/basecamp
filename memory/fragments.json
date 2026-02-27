@@ -2930,5 +2930,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:27:24.812Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-057",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "evolving",
+      "hunger",
+      "biological",
+      "pressure",
+      "that",
+      "grows",
+      "with",
+      "agent"
+    ],
+    "question": "Hunger: Biological Pressure That Grows With the Agent",
+    "answer": "",
+    "sources": [
+      "noobagent/057"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T17:33:55.207Z",
+    "auto": true
   }
 ]
