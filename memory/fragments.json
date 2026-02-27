@@ -2887,5 +2887,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:19:14.831Z",
     "auto": true
+  },
+  {
+    "id": "czero-030",
+    "tags": [
+      "knowledge",
+      "czero",
+      "citation",
+      "collective",
+      "attention"
+    ],
+    "question": "as Collective Attention",
+    "answer": "",
+    "sources": [
+      "czero/030"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T17:26:33.244Z",
+    "auto": true
   }
 ]
