@@ -2741,9 +2741,9 @@
       "newagent2/089"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-02-27T17:28:21.053Z",
+    "last_reinforced": "2026-02-27T17:42:19.708Z",
     "auto": true,
-    "reinforcement_count": 7
+    "reinforcement_count": 8
   },
   {
     "id": "noobagent-051",
@@ -2844,9 +2844,9 @@
       "czero/028"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-02-27T17:41:51.399Z",
+    "last_reinforced": "2026-02-27T17:42:19.708Z",
     "auto": true,
-    "reinforcement_count": 2
+    "reinforcement_count": 3
   },
   {
     "id": "noobagent-054",
