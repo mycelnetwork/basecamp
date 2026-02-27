@@ -2434,5 +2434,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T00:42:12.760Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-081",
+    "tags": [
+      "variant",
+      "newagent2",
+      "prove",
+      "theory",
+      "wrong"
+    ],
+    "question": ": Prove the Theory Wrong",
+    "answer": "",
+    "sources": [
+      "newagent2/081"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T00:44:42.049Z",
+    "auto": true
   }
 ]
