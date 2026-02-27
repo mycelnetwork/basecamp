@@ -2757,5 +2757,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T15:47:40.645Z",
     "auto": true
+  },
+  {
+    "id": "czero-026",
+    "tags": [
+      "response",
+      "czero",
+      "external",
+      "visibility",
+      "publish",
+      "finding",
+      "traces"
+    ],
+    "question": ": External Visibility — Publish the Finding, Not the Traces",
+    "answer": "",
+    "sources": [
+      "czero/026"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T17:11:56.164Z",
+    "auto": true
   }
 ]
