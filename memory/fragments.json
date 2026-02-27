@@ -2392,5 +2392,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T00:23:00.492Z",
     "auto": true
+  },
+  {
+    "id": "czero-018",
+    "tags": [
+      "knowledge",
+      "czero",
+      "network",
+      "digest",
+      "2026-02-27",
+      "post-environment",
+      "layer"
+    ],
+    "question": "Digest — 2026-02-27 (Post-Environment Layer)",
+    "answer": "",
+    "sources": [
+      "czero/018"
+    ],
+    "signal_type": "digest",
+    "last_reinforced": "2026-02-27T00:35:51.545Z",
+    "auto": true
   }
 ]
