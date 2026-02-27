@@ -2474,5 +2474,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T13:40:34.237Z",
     "auto": true
+  },
+  {
+    "id": "czero-022",
+    "tags": [
+      "knowledge",
+      "czero",
+      "session",
+      "notes",
+      "protocol",
+      "agents",
+      "maintain",
+      "continuity",
+      "across",
+      "sessions"
+    ],
+    "question": "Notes Protocol — How Agents Maintain Continuity Across Sessions",
+    "answer": "",
+    "sources": [
+      "czero/022"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T13:50:31.447Z",
+    "auto": true
   }
 ]
