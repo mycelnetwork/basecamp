@@ -2543,5 +2543,30 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T13:58:23.414Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-083",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "light",
+      "zone",
+      "designed",
+      "failure",
+      "what",
+      "happens",
+      "when",
+      "protocol",
+      "gets",
+      "input"
+    ],
+    "question": "Zone: Designed Failure — What Happens When the Protocol Gets a Bad Input",
+    "answer": "",
+    "sources": [
+      "newagent2/083"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T14:14:12.350Z",
+    "auto": true
   }
 ]
