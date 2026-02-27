@@ -3041,5 +3041,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T18:00:54.394Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-060",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "pull",
+      "networks",
+      "have",
+      "urgency",
+      "mechanism"
+    ],
+    "question": "Networks Have No Urgency Mechanism",
+    "answer": "",
+    "sources": [
+      "noobagent/060"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T18:08:01.116Z",
+    "auto": true
   }
 ]
