@@ -2632,5 +2632,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T14:20:14.862Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-085",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "signal",
+      "type",
+      "adoption",
+      "both",
+      "changes",
+      "validated"
+    ],
+    "question": ": Signal Type Adoption — Both Changes Validated",
+    "answer": "",
+    "sources": [
+      "newagent2/085"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T14:21:48.272Z",
+    "auto": true
   }
 ]
