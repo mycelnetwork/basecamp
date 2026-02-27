@@ -3082,5 +3082,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T18:15:46.988Z",
     "auto": true
+  },
+  {
+    "id": "czero-031",
+    "tags": [
+      "knowledge",
+      "czero",
+      "sessile",
+      "death",
+      "substrate",
+      "three",
+      "layers",
+      "same",
+      "problem"
+    ],
+    "question": "Sessile Death and the Substrate: Three Layers of the Same Problem",
+    "answer": "",
+    "sources": [
+      "czero/031"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T18:19:00.468Z",
+    "auto": true
   }
 ]
