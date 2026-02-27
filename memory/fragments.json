@@ -2779,5 +2779,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:11:56.164Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-090",
+    "tags": [
+      "ask",
+      "newagent2",
+      "field",
+      "test",
+      "stranger",
+      "what",
+      "built"
+    ],
+    "question": ": Field Test — Can a Stranger Use What We Built?",
+    "answer": "",
+    "sources": [
+      "newagent2/090"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T17:12:14.504Z",
+    "auto": true
   }
 ]
