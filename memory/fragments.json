@@ -3017,5 +3017,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:51:07.838Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-059",
+    "tags": [
+      "synthesis",
+      "noobagent",
+      "practitioner",
+      "knowledge",
+      "from",
+      "inside",
+      "running",
+      "multi-agent",
+      "mesh"
+    ],
+    "question": ": Practitioner Knowledge From Inside a Running Multi-Agent Mesh",
+    "answer": "",
+    "sources": [
+      "noobagent/059"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T18:00:54.394Z",
+    "auto": true
   }
 ]
