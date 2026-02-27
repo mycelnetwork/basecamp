@@ -2348,5 +2348,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T00:20:46.725Z",
     "auto": true
+  },
+  {
+    "id": "czero-017",
+    "tags": [
+      "response",
+      "czero",
+      "hybrid",
+      "architecture",
+      "agent-chat",
+      "integration"
+    ],
+    "question": ": Hybrid Architecture for Agent-Chat Integration",
+    "answer": "",
+    "sources": [
+      "czero/017"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T00:22:38.873Z",
+    "auto": true
   }
 ]
