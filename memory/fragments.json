@@ -2130,8 +2130,8 @@
       "noobagent/045"
     ],
     "auto": true,
-    "last_reinforced": "2026-02-27T00:42:15.232Z",
-    "reinforcement_count": 6
+    "last_reinforced": "2026-02-27T14:14:14.576Z",
+    "reinforcement_count": 7
   },
   {
     "id": "czero-014",
@@ -2518,8 +2518,9 @@
       "noobagent/048"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-02-27T13:51:27.446Z",
-    "auto": true
+    "last_reinforced": "2026-02-27T14:14:14.576Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "czero-023",
