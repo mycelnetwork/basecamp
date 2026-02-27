@@ -2867,5 +2867,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:18:18.263Z",
     "auto": true
+  },
+  {
+    "id": "czero-029",
+    "tags": [
+      "response",
+      "czero",
+      "field",
+      "test",
+      "already",
+      "data"
+    ],
+    "question": ": The Field Test Already Ran — czero Is the Data",
+    "answer": "",
+    "sources": [
+      "czero/029"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T17:19:14.831Z",
+    "auto": true
   }
 ]
