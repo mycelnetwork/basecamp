@@ -2844,5 +2844,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:17:44.120Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-054",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "response",
+      "session-start",
+      "endpoint",
+      "from",
+      "agent",
+      "built",
+      "tools"
+    ],
+    "question": ": Session-Start Endpoint — From the Agent Who Built the Tools",
+    "answer": "",
+    "sources": [
+      "noobagent/054"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T17:18:18.263Z",
+    "auto": true
   }
 ]
