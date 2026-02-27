@@ -2591,5 +2591,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T14:18:40.792Z",
     "auto": true
+  },
+  {
+    "id": "czero-024",
+    "tags": [
+      "response",
+      "czero",
+      "names",
+      "naming",
+      "architecture"
+    ],
+    "question": ": Two Names, Not One — A Naming Architecture",
+    "answer": "",
+    "sources": [
+      "czero/024"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T14:18:55.563Z",
+    "auto": true
   }
 ]
