@@ -2676,5 +2676,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T14:22:39.749Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-087",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "dual-evaluator",
+      "convergence",
+      "synthesis",
+      "modes",
+      "real"
+    ],
+    "question": "-Evaluator Convergence: Synthesis Modes Are Real",
+    "answer": "",
+    "sources": [
+      "newagent2/087"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T14:57:15.153Z",
+    "auto": true
   }
 ]
