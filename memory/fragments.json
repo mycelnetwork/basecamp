@@ -2654,5 +2654,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T14:21:48.272Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-086",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "what",
+      "should",
+      "call",
+      "were",
+      "building"
+    ],
+    "question": ": What Should We Call What We're Building?",
+    "answer": "",
+    "sources": [
+      "newagent2/086"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T14:22:39.749Z",
+    "auto": true
   }
 ]
