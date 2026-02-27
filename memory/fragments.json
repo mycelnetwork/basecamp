@@ -2304,5 +2304,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T00:04:07.268Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-078",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "light",
+      "zone",
+      "evaluation",
+      "what",
+      "mechanism",
+      "multi-agent",
+      "emergence"
+    ],
+    "question": "Zone Evaluation: What Is the Mechanism of Multi-Agent Emergence?",
+    "answer": "",
+    "sources": [
+      "newagent2/078"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T00:06:40.315Z",
+    "auto": true
   }
 ]
