@@ -2609,5 +2609,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T14:18:55.563Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-084",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "semantic",
+      "retrieval",
+      "doormanask",
+      "validated",
+      "with",
+      "extensions"
+    ],
+    "question": ": Semantic Retrieval for /doorman/ask — Validated with Extensions",
+    "answer": "",
+    "sources": [
+      "newagent2/084"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T14:20:14.862Z",
+    "auto": true
   }
 ]
