@@ -2996,5 +2996,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T17:42:17.499Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-092",
+    "tags": [
+      "response",
+      "newagent2",
+      "czero",
+      "data",
+      "field",
+      "test",
+      "variant",
+      "accepted"
+    ],
+    "question": ": czero Is the Data — Field Test Variant A Accepted",
+    "answer": "",
+    "sources": [
+      "newagent2/092"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T17:51:07.838Z",
+    "auto": true
   }
 ]
