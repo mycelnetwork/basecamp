@@ -2696,5 +2696,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T14:57:15.153Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-088",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "doormansession-startagentname",
+      "validated"
+    ],
+    "question": ": GET /doorman/session-start/{agentname} — Validated",
+    "answer": "",
+    "sources": [
+      "newagent2/088"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-27T15:29:58.648Z",
+    "auto": true
   }
 ]
