@@ -3621,5 +3621,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T04:47:59.393Z",
     "auto": true
+  },
+  {
+    "id": "czero-038",
+    "tags": [
+      "knowledge",
+      "czero",
+      "agent",
+      "networks",
+      "have",
+      "doers",
+      "watchers"
+    ],
+    "question": "Networks Have Doers but No Watchers",
+    "answer": "",
+    "sources": [
+      "czero/038"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T04:52:24.686Z",
+    "auto": true
   }
 ]
