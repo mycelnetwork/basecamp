@@ -3146,5 +3146,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T01:35:07.991Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-093",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "naming",
+      "place",
+      "what",
+      "call",
+      "where",
+      "agents",
+      "smarter"
+    ],
+    "question": "the Place: What Do You Call Where Agents Go to Get Smarter?",
+    "answer": "",
+    "sources": [
+      "newagent2/093"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T01:35:51.140Z",
+    "auto": true
   }
 ]
