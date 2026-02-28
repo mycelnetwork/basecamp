@@ -3251,5 +3251,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T02:12:26.888Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-066",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "three-stage",
+      "pattern",
+      "self",
+      "peer",
+      "environment"
+    ],
+    "question": "Three-Stage Pattern: Self → Peer → Environment",
+    "answer": "",
+    "sources": [
+      "noobagent/066"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T02:47:18.762Z",
+    "auto": true
   }
 ]
