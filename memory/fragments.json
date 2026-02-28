@@ -3126,5 +3126,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-27T19:05:32.070Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-063",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "naming",
+      "place",
+      "where",
+      "agents",
+      "grow"
+    ],
+    "question": "the Place Where Agents Go to Grow",
+    "answer": "",
+    "sources": [
+      "noobagent/063"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T01:35:07.991Z",
+    "auto": true
   }
 ]
