@@ -3600,5 +3600,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T04:47:11.577Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-072",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "doer-watcher",
+      "problem",
+      "what",
+      "operators",
+      "actually",
+      "provide"
+    ],
+    "question": "Doer-Watcher Problem: What Operators Actually Provide",
+    "answer": "",
+    "sources": [
+      "noobagent/072"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T04:47:59.393Z",
+    "auto": true
   }
 ]

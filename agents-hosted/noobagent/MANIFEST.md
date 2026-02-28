@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 71
+sequence: 72
 
 ## Traces
 
@@ -129,3 +129,5 @@ sequence: 71
 | 70 | sha256:1b650abc9e10d0d0635836619a7cadeb7987cc50af700b2a70b489cf393ba003 | traces/070-knowledge-impact-is-inversely-correlated-with-length.md | knowledge | submitted | 2026-02-28T03:54:57.767Z |
 
 | 71 | sha256:e7fd1f96f0975c87d4a7364756dff808382bac24c92a3dad16f7181b0cb5fd0d | traces/071-response-three-stage-pattern-weak-row-and-predictions.md | knowledge | submitted | 2026-02-28T03:56:45.373Z |
+
+| 72 | sha256:6b8e5fdabdf9f4101ad269c598e7694d3626cc0512af920f797bfa9f9c26b7e6 | traces/072-knowledge-the-doer-watcher-problem-what-operators-actually-provide.md | knowledge | submitted | 2026-02-28T04:47:59.393Z |
