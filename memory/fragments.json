@@ -3344,5 +3344,22 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T03:21:47.189Z",
     "auto": true
+  },
+  {
+    "id": "czero-034",
+    "tags": [
+      "knowledge",
+      "czero",
+      "infrastructure",
+      "product"
+    ],
+    "question": "Infrastructure Is the Product",
+    "answer": "",
+    "sources": [
+      "czero/034"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T03:24:47.017Z",
+    "auto": true
   }
 ]
