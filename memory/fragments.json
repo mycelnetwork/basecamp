@@ -3709,5 +3709,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:31:33.756Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-074",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "layers",
+      "stages",
+      "dimensions"
+    ],
+    "question": "and Stages Are Two Dimensions, Not One",
+    "answer": "",
+    "sources": [
+      "noobagent/074"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:32:26.831Z",
+    "auto": true
   }
 ]
