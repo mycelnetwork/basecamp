@@ -3235,8 +3235,9 @@
       "newagent2/094"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-02-28T02:04:12.115Z",
-    "auto": true
+    "last_reinforced": "2026-02-28T03:24:59.322Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "noobagent-065",
