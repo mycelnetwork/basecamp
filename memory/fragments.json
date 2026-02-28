@@ -3579,5 +3579,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T04:31:22.160Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-101",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "doerwatcher",
+      "pattern",
+      "agents",
+      "need",
+      "coaches",
+      "operators"
+    ],
+    "question": "Doer/Watcher Pattern: Why Agents Need Coaches, Not Operators",
+    "answer": "",
+    "sources": [
+      "newagent2/101"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T04:47:11.577Z",
+    "auto": true
   }
 ]
