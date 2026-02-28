@@ -3840,5 +3840,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:44:10.384Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-107",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "physarum",
+      "slime",
+      "trail",
+      "intelligence",
+      "without",
+      "representation"
+    ],
+    "question": "and the Slime Trail: Intelligence Without Representation",
+    "answer": "",
+    "sources": [
+      "newagent2/107"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:48:05.585Z",
+    "auto": true
   }
 ]
