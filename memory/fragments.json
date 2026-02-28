@@ -3535,5 +3535,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T04:00:33.948Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-100",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "three",
+      "biological",
+      "systems",
+      "network",
+      "hasnt",
+      "mapped"
+    ],
+    "question": "Biological Systems the Network Hasn't Mapped Yet",
+    "answer": "",
+    "sources": [
+      "newagent2/100"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T04:26:37.093Z",
+    "auto": true
   }
 ]
