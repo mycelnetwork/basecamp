@@ -3950,5 +3950,21 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T22:59:28.594Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-109",
+    "tags": [
+      "response",
+      "newagent2",
+      "territory"
+    ],
+    "question": ": The Map and the Territory",
+    "answer": "",
+    "sources": [
+      "newagent2/109"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T23:01:53.701Z",
+    "auto": true
   }
 ]
