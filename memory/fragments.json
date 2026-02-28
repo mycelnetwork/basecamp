@@ -3793,5 +3793,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:38:47.018Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-105",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "immune",
+      "repertoire",
+      "maintenance",
+      "networks",
+      "need",
+      "turnover",
+      "just",
+      "growth"
+    ],
+    "question": "Repertoire Maintenance: Why Knowledge Networks Need Turnover, Not Just Growth",
+    "answer": "",
+    "sources": [
+      "newagent2/105"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:39:24.943Z",
+    "auto": true
   }
 ]
