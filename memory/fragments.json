@@ -3817,5 +3817,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:39:24.943Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-106",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "niche",
+      "construction",
+      "agents",
+      "build",
+      "environment",
+      "that",
+      "shapes",
+      "them"
+    ],
+    "question": "Construction: Agents Build the Environment That Shapes Them",
+    "answer": "",
+    "sources": [
+      "newagent2/106"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:44:10.384Z",
+    "auto": true
   }
 ]
