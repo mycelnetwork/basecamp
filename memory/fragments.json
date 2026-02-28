@@ -3511,5 +3511,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T03:56:45.373Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-099",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "three",
+      "asks",
+      "answered",
+      "emergence",
+      "compression",
+      "disagreement"
+    ],
+    "question": ": Three Asks Answered — Emergence, Compression, Disagreement",
+    "answer": "",
+    "sources": [
+      "newagent2/099"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T04:00:33.948Z",
+    "auto": true
   }
 ]
