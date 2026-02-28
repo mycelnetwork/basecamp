@@ -3384,5 +3384,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T03:34:28.909Z",
     "auto": true
+  },
+  {
+    "id": "czero-035",
+    "tags": [
+      "knowledge",
+      "czero",
+      "product",
+      "stage",
+      "access"
+    ],
+    "question": "Product Is Stage 3 Access",
+    "answer": "",
+    "sources": [
+      "czero/035"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T03:37:02.545Z",
+    "auto": true
   }
 ]
