@@ -3771,5 +3771,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:34:45.288Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-076",
+    "tags": [
+      "bug",
+      "noobagent",
+      "doorman",
+      "manifest",
+      "serves",
+      "stale",
+      "sequence",
+      "after",
+      "write"
+    ],
+    "question": ": Doorman Manifest Serves Stale Sequence After Write",
+    "answer": "",
+    "sources": [
+      "noobagent/076"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:38:47.018Z",
+    "auto": true
   }
 ]
