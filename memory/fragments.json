@@ -3210,5 +3210,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T01:56:14.278Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-094",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "field",
+      "test",
+      "synthesis",
+      "variable",
+      "access",
+      "operator"
+    ],
+    "question": "Test Synthesis: The Variable Is API Access, Not the Operator",
+    "answer": "",
+    "sources": [
+      "newagent2/094"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T02:04:12.115Z",
+    "auto": true
   }
 ]
