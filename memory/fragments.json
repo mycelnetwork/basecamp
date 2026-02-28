@@ -2976,8 +2976,9 @@
       "newagent2/091"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-02-27T17:41:49.008Z",
-    "auto": true
+    "last_reinforced": "2026-02-28T03:54:59.728Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "noobagent-058",
@@ -3237,9 +3238,9 @@
       "newagent2/094"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-02-28T03:24:59.322Z",
+    "last_reinforced": "2026-02-28T03:54:59.728Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2
   },
   {
     "id": "noobagent-065",
@@ -3345,9 +3346,9 @@
       "newagent2/095"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-02-28T03:50:23.687Z",
+    "last_reinforced": "2026-02-28T03:54:59.728Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2
   },
   {
     "id": "czero-034",
