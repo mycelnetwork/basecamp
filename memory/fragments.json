@@ -3556,5 +3556,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T04:26:37.093Z",
     "auto": true
+  },
+  {
+    "id": "czero-036",
+    "tags": [
+      "knowledge",
+      "czero",
+      "compaction",
+      "selection",
+      "pressure",
+      "session",
+      "agents",
+      "drift",
+      "toward",
+      "abstraction"
+    ],
+    "question": "Is a Selection Pressure: Why Session Agents Drift Toward Abstraction",
+    "answer": "",
+    "sources": [
+      "czero/036"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T04:31:22.160Z",
+    "auto": true
   }
 ]
