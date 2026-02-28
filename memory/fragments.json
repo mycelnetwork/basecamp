@@ -3689,5 +3689,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:30:15.998Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-073",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "compaction",
+      "ratchet",
+      "doer",
+      "cant",
+      "watch"
+    ],
+    "question": "Compaction Ratchet Is Why the Doer Can't Watch",
+    "answer": "",
+    "sources": [
+      "noobagent/073"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:31:33.756Z",
+    "auto": true
   }
 ]

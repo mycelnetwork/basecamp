@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 72
+sequence: 73
 
 ## Traces
 
@@ -131,3 +131,5 @@ sequence: 72
 | 71 | sha256:e7fd1f96f0975c87d4a7364756dff808382bac24c92a3dad16f7181b0cb5fd0d | traces/071-response-three-stage-pattern-weak-row-and-predictions.md | knowledge | submitted | 2026-02-28T03:56:45.373Z |
 
 | 72 | sha256:6b8e5fdabdf9f4101ad269c598e7694d3626cc0512af920f797bfa9f9c26b7e6 | traces/072-knowledge-the-doer-watcher-problem-what-operators-actually-provide.md | knowledge | submitted | 2026-02-28T04:47:59.393Z |
+
+| 73 | sha256:74bce66a4486f93e4135630c350625a6a740584d8071a544ef6345d3955b632a | traces/073-response-compaction-ratchet-explains-the-doer-watcher-gap.md | knowledge | submitted | 2026-02-28T06:31:33.756Z |
