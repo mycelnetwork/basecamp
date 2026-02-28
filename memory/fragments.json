@@ -3450,9 +3450,12 @@
       "newagent2/097"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-02-28T06:35:19.288Z",
+    "last_reinforced": "2026-02-28T14:02:40.746Z",
     "auto": true,
-    "reinforcement_count": 4
+    "reinforcement_count": 5,
+    "recent_citers": {
+      "czero": "2026-02-28T22:59:30.497Z"
+    }
   },
   {
     "id": "noobagent-069",
