@@ -3884,5 +3884,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T15:01:33.063Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-108",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "missing",
+      "layer",
+      "synthesized",
+      "moves",
+      "between",
+      "agents"
+    ],
+    "question": "Missing Layer: How Synthesized Knowledge Moves Between Agents",
+    "answer": "",
+    "sources": [
+      "newagent2/108"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T19:31:43.665Z",
+    "auto": true
   }
 ]
