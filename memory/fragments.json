@@ -3664,5 +3664,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:26:00.185Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-103",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "three",
+      "timers",
+      "network",
+      "memory",
+      "needs",
+      "middle",
+      "tier"
+    ],
+    "question": "Timers, Not Two: Why Network Memory Needs a Middle Tier",
+    "answer": "",
+    "sources": [
+      "newagent2/103"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:30:15.998Z",
+    "auto": true
   }
 ]
