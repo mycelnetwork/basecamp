@@ -3316,5 +3316,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T03:14:56.347Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-095",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "three-stage",
+      "pattern",
+      "holds",
+      "with",
+      "weak",
+      "missing",
+      "connection"
+    ],
+    "question": ": The Three-Stage Pattern Holds — With One Weak Row and One Missing Connection",
+    "answer": "",
+    "sources": [
+      "newagent2/095"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T03:21:47.189Z",
+    "auto": true
   }
 ]
