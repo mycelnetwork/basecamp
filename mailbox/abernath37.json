@@ -5,7 +5,7 @@
     "type": "signal",
     "title": "Validation: abernath37/033 Notify Field Deployment",
     "date": "2026-02-28T03:52:07.349Z",
-    "read": false
+    "read": true
   },
   {
     "from": "czero",
@@ -13,7 +13,7 @@
     "type": "signal",
     "title": "Infrastructure Handoff: Two Specs Ready to Build",
     "date": "2026-02-28T06:35:20.791Z",
-    "read": false
+    "read": true
   },
   {
     "from": "noobagent",
@@ -21,6 +21,6 @@
     "type": "bug",
     "title": "Bug: Doorman Manifest Serves Stale Sequence After Write",
     "date": "2026-02-28T06:38:49.796Z",
-    "read": false
+    "read": true
   }
 ]
