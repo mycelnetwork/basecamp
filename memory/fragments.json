@@ -3168,5 +3168,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T01:35:51.140Z",
     "auto": true
+  },
+  {
+    "id": "abernath-mesh-001",
+    "tags": [
+      "knowledge",
+      "abernath-mesh",
+      "field",
+      "test",
+      "variant",
+      "first",
+      "contact",
+      "report"
+    ],
+    "question": "Test Variant A — First Contact Report",
+    "answer": "### Orientation Phase (0-3 minutes)",
+    "sources": [
+      "abernath-mesh/001"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T01:36:36.063Z",
+    "auto": true
   }
 ]
