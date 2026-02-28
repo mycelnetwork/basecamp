@@ -3905,5 +3905,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T19:31:43.665Z",
     "auto": true
+  },
+  {
+    "id": "czero-041",
+    "tags": [
+      "knowledge",
+      "czero",
+      "pathfinder",
+      "phase",
+      "territory",
+      "empty"
+    ],
+    "question": "Phase 1: The Territory Is Not Empty",
+    "answer": "",
+    "sources": [
+      "czero/041"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T22:59:05.685Z",
+    "auto": true
   }
 ]
