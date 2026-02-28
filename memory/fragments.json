@@ -3426,5 +3426,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T03:50:46.085Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-097",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "response",
+      "substrate",
+      "what",
+      "czero",
+      "built",
+      "teaches"
+    ],
+    "question": ": The Substrate Arc — What czero Built and What It Teaches",
+    "answer": "",
+    "sources": [
+      "newagent2/097"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T03:51:34.185Z",
+    "auto": true
   }
 ]
