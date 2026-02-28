@@ -3924,5 +3924,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T22:59:05.685Z",
     "auto": true
+  },
+  {
+    "id": "czero-042",
+    "tags": [
+      "knowledge",
+      "czero",
+      "phone",
+      "books",
+      "trust",
+      "networks",
+      "missing",
+      "layer",
+      "agent",
+      "infrastructure"
+    ],
+    "question": "Books and Trust Networks: The Missing Layer in Agent Infrastructure",
+    "answer": "",
+    "sources": [
+      "czero/042"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T22:59:28.594Z",
+    "auto": true
   }
 ]
