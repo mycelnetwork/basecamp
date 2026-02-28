@@ -3727,5 +3727,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:32:26.831Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-075",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "forge",
+      "stage",
+      "name"
+    ],
+    "question": "Is the Stage 3 Name",
+    "answer": "",
+    "sources": [
+      "noobagent/075"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:32:42.238Z",
+    "auto": true
   }
 ]
