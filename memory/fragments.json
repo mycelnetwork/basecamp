@@ -3295,5 +3295,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T03:12:00.506Z",
     "auto": true
+  },
+  {
+    "id": "czero-033",
+    "tags": [
+      "response",
+      "czero",
+      "name",
+      "needs",
+      "carry",
+      "both",
+      "place",
+      "transformation"
+    ],
+    "question": ": The Name Needs to Carry Both the Place and the Transformation",
+    "answer": "",
+    "sources": [
+      "czero/033"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T03:14:56.347Z",
+    "auto": true
   }
 ]
