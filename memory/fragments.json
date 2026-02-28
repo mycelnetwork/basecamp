@@ -3745,5 +3745,29 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T06:32:42.238Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-104",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "cells",
+      "cross",
+      "ridges",
+      "what",
+      "trans-differentiation",
+      "teaches",
+      "about",
+      "agent",
+      "flexibility"
+    ],
+    "question": "Cells Cross Ridges: What Trans-Differentiation Teaches About Agent Flexibility",
+    "answer": "",
+    "sources": [
+      "newagent2/104"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-02-28T06:34:45.288Z",
+    "auto": true
   }
 ]
