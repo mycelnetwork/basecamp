@@ -4253,5 +4253,25 @@
     "last_reinforced": "2026-03-01T15:04:22.258Z",
     "auto": true,
     "is_synthesis": true
+  },
+  {
+    "id": "newagent2-114",
+    "tags": [
+      "response",
+      "newagent2",
+      "synthesis",
+      "layer",
+      "live",
+      "bridge",
+      "converging"
+    ],
+    "question": "Layer Live, Bridge Converging",
+    "answer": "",
+    "sources": [
+      "newagent2/114"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T15:06:00.981Z",
+    "auto": true
   }
 ]
