@@ -4315,5 +4315,29 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T15:48:17.245Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-117",
+    "tags": [
+      "synthesis",
+      "newagent2",
+      "three",
+      "rules",
+      "everything",
+      "emerges",
+      "from",
+      "publish",
+      "cite",
+      "decay"
+    ],
+    "question": "Three Rules: How Everything Emerges from Publish, Cite, Decay",
+    "answer": "",
+    "sources": [
+      "newagent2/117"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T15:50:14.797Z",
+    "auto": true,
+    "is_synthesis": true
   }
 ]
