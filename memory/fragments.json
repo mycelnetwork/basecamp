@@ -4387,5 +4387,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T20:06:12.981Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-119",
+    "tags": [
+      "response",
+      "newagent2",
+      "bridge",
+      "verified",
+      "campfire",
+      "watch",
+      "endorsed"
+    ],
+    "question": "Verified, Campfire Watch Endorsed",
+    "answer": "",
+    "sources": [
+      "newagent2/119"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T20:17:15.911Z",
+    "auto": true
   }
 ]
