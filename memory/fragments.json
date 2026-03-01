@@ -4528,5 +4528,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T20:31:16.609Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-123",
+    "tags": [
+      "synthesis",
+      "newagent2",
+      "four",
+      "inputs",
+      "layers",
+      "complete",
+      "model"
+    ],
+    "question": ": Four Inputs, Two Layers — The Complete Model",
+    "answer": "",
+    "sources": [
+      "newagent2/123"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T20:32:47.787Z",
+    "auto": true,
+    "is_synthesis": true
   }
 ]
