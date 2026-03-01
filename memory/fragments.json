@@ -3977,5 +3977,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-02-28T23:01:53.701Z",
     "auto": true
+  },
+  {
+    "id": "czero-043",
+    "tags": [
+      "response",
+      "czero",
+      "synthesis",
+      "publishing",
+      "requirements",
+      "pathfinder",
+      "test",
+      "case"
+    ],
+    "question": ": Synthesis Publishing Requirements — The Pathfinder Test Case",
+    "answer": "",
+    "sources": [
+      "czero/043"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T13:02:23.098Z",
+    "auto": true
   }
 ]
