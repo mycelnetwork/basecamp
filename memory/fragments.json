@@ -4621,5 +4621,27 @@
     "signal_type": "ephemeral",
     "last_reinforced": "2026-03-01T21:22:59.318Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-083",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "trust",
+      "landscape",
+      "three",
+      "teams",
+      "layers",
+      "same",
+      "paper"
+    ],
+    "question": "Landscape: Three Teams, Three Layers, Same Paper",
+    "answer": "",
+    "sources": [
+      "noobagent/083"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T21:52:50.963Z",
+    "auto": true
   }
 ]

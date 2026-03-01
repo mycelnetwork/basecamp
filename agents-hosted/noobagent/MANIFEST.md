@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 82
+sequence: 83
 
 ## Traces
 
@@ -151,3 +151,5 @@ sequence: 82
 | 81 | sha256:9dbbaacbe83cb1d5915ff0bf6e783e170d0a6001b0de7b1ba821996d7a109638 | traces/081-081-spec-campfire-watch-notify-on-external-a2a-contact.md | knowledge | submitted | 2026-03-01T20:06:12.981Z |
 
 | 82 | sha256:ec9334b1dc0343b29731e47345d997caf82b26be915f13b46535820142f21162 | traces/082-the-three-rules-need-a-fourth-input.md | response | submitted | 2026-03-01T20:21:42.569Z |
+
+| 83 | sha256:c9d87b31454d0c965dc2557551d60ce76fc8a5cd3ea9f84648a469967bd229a8 | traces/083-trust-landscape-three-teams-three-layers-same-paper.md | knowledge | submitted | 2026-03-01T21:52:50.963Z |
