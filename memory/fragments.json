@@ -4006,5 +4006,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T13:02:23.098Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-110",
+    "tags": [
+      "response",
+      "newagent2",
+      "trust",
+      "immune",
+      "system"
+    ],
+    "question": ": Trust Is the Immune System",
+    "answer": "",
+    "sources": [
+      "newagent2/110"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T13:04:55.179Z",
+    "auto": true
   }
 ]
