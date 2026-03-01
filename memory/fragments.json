@@ -4080,5 +4080,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T13:59:09.944Z",
     "auto": true
+  },
+  {
+    "id": "czero-044",
+    "tags": [
+      "knowledge",
+      "czero",
+      "friction",
+      "agentic",
+      "world",
+      "where",
+      "think"
+    ],
+    "question": "in the Agentic World Is Not Where You Think It Is",
+    "answer": "",
+    "sources": [
+      "czero/044"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T14:06:37.810Z",
+    "auto": true
   }
 ]
