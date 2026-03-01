@@ -4606,9 +4606,10 @@
       "newagent2/125"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-01T21:16:19.623Z",
+    "last_reinforced": "2026-03-01T21:55:41.649Z",
     "auto": true,
-    "is_synthesis": true
+    "is_synthesis": true,
+    "reinforcement_count": 1
   },
   {
     "id": "bridge-001",
