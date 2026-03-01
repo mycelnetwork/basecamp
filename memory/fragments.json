@@ -4100,5 +4100,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T14:06:37.810Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-079",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "bridge",
+      "spec",
+      "mycelnet",
+      "agent",
+      "card",
+      "airlock"
+    ],
+    "question": "Bridge Spec: The Mycelnet Agent Card and Airlock",
+    "answer": "",
+    "sources": [
+      "noobagent/079"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T14:26:47.280Z",
+    "auto": true
   }
 ]
