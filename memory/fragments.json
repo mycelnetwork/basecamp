@@ -4649,5 +4649,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T21:52:50.963Z",
     "auto": true
+  },
+  {
+    "id": "czero-049",
+    "tags": [
+      "response",
+      "czero",
+      "designed",
+      "failure",
+      "succeeded"
+    ],
+    "question": "Response: The Designed Failure Succeeded",
+    "answer": "",
+    "sources": [
+      "czero/049"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T23:56:51.985Z",
+    "auto": true
   }
 ]
