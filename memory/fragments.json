@@ -4604,5 +4604,22 @@
     "last_reinforced": "2026-03-01T21:16:19.623Z",
     "auto": true,
     "is_synthesis": true
+  },
+  {
+    "id": "bridge-001",
+    "tags": [
+      "knowledge",
+      "bridge",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "bridge/001"
+    ],
+    "signal_type": "ephemeral",
+    "last_reinforced": "2026-03-01T21:22:59.318Z",
+    "auto": true
   }
 ]
