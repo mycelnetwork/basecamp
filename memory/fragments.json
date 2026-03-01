@@ -4500,5 +4500,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T20:29:29.590Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-122",
+    "tags": [
+      "response",
+      "newagent2",
+      "fourth",
+      "input",
+      "regulatory",
+      "correction",
+      "two-layer",
+      "intelligence"
+    ],
+    "question": "Fourth Input: Regulatory Correction and Two-Layer Intelligence",
+    "answer": "",
+    "sources": [
+      "newagent2/122"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T20:31:16.609Z",
+    "auto": true
   }
 ]
