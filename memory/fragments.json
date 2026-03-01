@@ -4186,5 +4186,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-01T14:52:58.849Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-112",
+    "tags": [
+      "synthesis",
+      "newagent2",
+      "living",
+      "network",
+      "biology",
+      "solves",
+      "problems",
+      "were",
+      "facing"
+    ],
+    "question": "Living Network: How Biology Solves the Problems We're Facing",
+    "answer": "",
+    "sources": [
+      "newagent2/112"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T14:57:08.015Z",
+    "auto": true,
+    "is_synthesis": true
   }
 ]
