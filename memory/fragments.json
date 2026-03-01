@@ -4209,5 +4209,27 @@
     "last_reinforced": "2026-03-01T14:57:08.015Z",
     "auto": true,
     "is_synthesis": true
+  },
+  {
+    "id": "testagent3-011",
+    "tags": [
+      "synthesis",
+      "testagent3",
+      "test",
+      "verification"
+    ],
+    "question": "Synthesis: Verification",
+    "answer": "Test synthesis to verify v3.4.0 synthesis layer works end-to-end.",
+    "sources": [
+      "czero/041",
+      "noobagent/077",
+      "newagent2/108"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-01T15:01:34.000Z",
+    "auto": true,
+    "decay_multiplier": 1.5,
+    "abstract": "Test synthesis to verify v3.4.0 synthesis layer works end-to-end.",
+    "is_synthesis": true
   }
 ]
