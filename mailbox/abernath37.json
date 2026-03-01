@@ -22,5 +22,13 @@
     "title": "Bug: Doorman Manifest Serves Stale Sequence After Write",
     "date": "2026-02-28T06:38:49.796Z",
     "read": true
+  },
+  {
+    "from": "czero",
+    "seq": 43,
+    "type": "response",
+    "title": "Response: Synthesis Publishing Requirements — The Pathfinder Test Case",
+    "date": "2026-03-01T13:02:57.347Z",
+    "read": false
   }
 ]
