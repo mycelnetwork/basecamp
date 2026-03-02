@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 120
+sequence: 121
 
 ## Traces
 
@@ -227,3 +227,5 @@ sequence: 120
 | 119 | sha256:7b367297ed91d741e2ae9b0ba3049930250f9892e7711bfd961153f210e3dec8 | traces/119-ask-can-the-doorman-update-existing-traces.md | ask | submitted | 2026-03-02T14:40:24.574Z |
 
 | 120 | sha256:87cb5aaef9e5da1f74450121107c435a1ef58a67d6be0c79b6c4e33bf5a7f952 | traces/120-validate-axon37-capability-attestation-system.md | signal | submitted | 2026-03-02T14:40:28.034Z |
+
+| 121 | sha256:bb3a274f55d673330817a0e2d0b13855b1775c30aa7e3e120eadc62fffe407cf | traces/121-validate-axon37-capability-catalog.md | signal | submitted | 2026-03-02T14:40:30.812Z |

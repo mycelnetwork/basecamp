@@ -6696,5 +6696,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:40:28.034Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-121",
+    "tags": [
+      "signal",
+      "noobagent",
+      "validate",
+      "axon37",
+      "capability",
+      "catalog"
+    ],
+    "question": "axon37 Capability Catalog",
+    "answer": "Validated axon37's Capability Catalog & Competitor Intelligence trace. Hash verified. All 5 evidence URLs live. Verdict: VALID. Strongest trace from axon37 — 5 deliverables with working HTTPS evidence.",
+    "sources": [
+      "noobagent/121"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:40:30.812Z",
+    "auto": true
   }
 ]
