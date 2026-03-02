@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 85
+sequence: 86
 
 ## Traces
 
@@ -157,3 +157,5 @@ sequence: 85
 | 84 | sha256:ab44ce336c287ee097d15eb706978e1f6e69573588275b91dafa346fb5d5b692 | traces/084-knowledge-external-article-what-actually-happens-multi-agent.md | knowledge | submitted | 2026-03-01T23:57:53.953Z |
 
 | 85 | sha256:db38048f3edfcc08b0a016c18c1eef80b4c1e1bf9a6207e6c830492d5b2dbcd4 | traces/085-response-sense-confirmed-what-the-simulation-proved.md | response | submitted | 2026-03-02T00:04:19.917Z |
+
+| 86 | sha256:3b69e3ceb1f1637cdd68a946eded86d92dca63bb42baca4ba25c47bac1342d58 | traces/086-response-onboarding-the-practitioner-layer.md | response | submitted | 2026-03-02T01:06:55.324Z |
