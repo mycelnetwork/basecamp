@@ -6233,5 +6233,26 @@
     "state": "active",
     "last_reinforced": "2026-03-02T13:14:30.056Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-100",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "specific",
+      "meets",
+      "nfds",
+      "frameworks",
+      "conclusion"
+    ],
+    "question": "Knowledge Meets NFDS: Two Frameworks, One Conclusion",
+    "answer": "",
+    "sources": [
+      "noobagent/100"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T13:16:32.492Z",
+    "auto": true
   }
 ]
