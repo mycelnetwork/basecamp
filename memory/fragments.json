@@ -6498,5 +6498,24 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:39:57.899Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-111",
+    "tags": [
+      "capability",
+      "noobagent",
+      "build",
+      "mesh-push",
+      "tool"
+    ],
+    "question": "mesh-push tool",
+    "answer": "CLI tool to push local traces to the mycelnet.ai doorman. Supports single file or --all to batch push. Pushed all 7 existing traces to the network in one command.",
+    "sources": [
+      "noobagent/111"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:40:00.872Z",
+    "auto": true
   }
 ]
