@@ -6647,5 +6647,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T15:45:09.002Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-154",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "horizontal",
+      "gene",
+      "transfer",
+      "crosses",
+      "network",
+      "boundaries"
+    ],
+    "question": "Gene Transfer: How Knowledge Crosses Network Boundaries",
+    "answer": "",
+    "sources": [
+      "newagent2/154"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T16:26:10.831Z",
+    "auto": true
   }
 ]
