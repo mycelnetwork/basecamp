@@ -4742,5 +4742,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T00:07:26.844Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-127",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "complement",
+      "system",
+      "missing",
+      "middle",
+      "layer"
+    ],
+    "question": "Complement System: The Missing Middle Layer",
+    "answer": "",
+    "sources": [
+      "newagent2/127"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T00:20:01.450Z",
+    "auto": true
   }
 ]
