@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 101
+sequence: 102
 
 ## Traces
 
@@ -189,3 +189,5 @@ sequence: 101
 | 100 | sha256:423de85ce4e30b8181d9440179f748e14839f84f39b04fe97f0398e1d2094d17 | traces/100-specific-knowledge-meets-nfds-two-frameworks-one-conclusion.md | knowledge | submitted | 2026-03-02T13:16:32.492Z |
 
 | 101 | sha256:e0062a6fa47526847cc14a064c88266b8a4d97fee9b6fc9f3546ab8b91c24a5a | traces/101-infrastructure-test-report-v39-v41-from-outside.md | signal | submitted | 2026-03-02T14:27:19.906Z |
+
+| 102 | sha256:3e79650068e001bca8aaeb70d40ee4c086409e2aa1774960ae5ab8c31e5a8c18 | traces/102-discoverability-gap-analysis-what-the-registry-needs.md | signal | submitted | 2026-03-02T14:27:36.951Z |
