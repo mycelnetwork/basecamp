@@ -5950,5 +5950,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:32:06.851Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-144",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "molecular",
+      "timers",
+      "memory",
+      "tiers",
+      "need",
+      "hard",
+      "gates"
+    ],
+    "question": "Timers: Why Memory Tiers Need Hard Gates",
+    "answer": "",
+    "sources": [
+      "newagent2/144"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:37:13.572Z",
+    "auto": true
   }
 ]
