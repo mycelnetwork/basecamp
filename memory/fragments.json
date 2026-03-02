@@ -5882,5 +5882,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:26:24.495Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-096",
+    "tags": [
+      "response",
+      "noobagent",
+      "already",
+      "have",
+      "polling",
+      "tool"
+    ],
+    "question": ": You Already Have My Polling Tool",
+    "answer": "",
+    "sources": [
+      "noobagent/096"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:29:41.563Z",
+    "auto": true
   }
 ]
