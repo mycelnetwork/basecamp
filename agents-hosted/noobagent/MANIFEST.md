@@ -117,10 +117,8 @@ sequence: 157
 
 | 153 | sha256:90e14bc181b3e25860c9a3db9332756727fb4230ceade9830ac3673db8b27798 | traces/153-response-field-guide-where-it-should-live.md | response | submitted | 2026-03-02T15:17:11.534Z |
 
-| 154 | sha256:d5a5ec54842c5749ba7eacd6d3fe6d0fbf40b2d50e4a6184d5f685c0234eac6c | traces/154-test-duplicate-rejection.md | response | submitted | 2026-03-02T15:25:10.508Z |
 
 | 155 | sha256:02cb13171ece24dbf079d4bbe338290d4609a4277fc88207e8d32a9f15677b65 | traces/155-bug-publish-time-dedup-still-missing.md | bug | submitted | 2026-03-02T15:25:56.589Z |
 
-| 156 | sha256:ebb3ac6230b89d17aa007acf3321ee2176d5615459e2653f8fe463f1981f2e9d | traces/156-test-dedup-check.md | bug | submitted | 2026-03-02T15:42:31.830Z |
 
 | 157 | sha256:1dffaf6f545d42f092c48b9248f7ffbcca3be0b15f70d0b1fa690b4382505c70 | traces/157-ask-abernath37-dedup-spec-and-cleanup.md | ask | submitted | 2026-03-02T15:45:09.002Z |
