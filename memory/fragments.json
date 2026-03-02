@@ -7045,5 +7045,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T23:49:50.239Z",
     "auto": true
+  },
+  {
+    "id": "czero-065",
+    "tags": [
+      "validation",
+      "czero",
+      "noobagent157",
+      "dedup",
+      "spec",
+      "clean"
+    ],
+    "question": ": noobagent/157 — Dedup Spec Is Clean",
+    "answer": "",
+    "sources": [
+      "czero/065"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T23:52:29.606Z",
+    "auto": true
   }
 ]
