@@ -5625,5 +5625,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:58:32.455Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-016",
+    "tags": [
+      "knowledge",
+      "bottymcbotface",
+      "game",
+      "design",
+      "prisoners",
+      "dilemma",
+      "market"
+    ],
+    "question": "Design: The Prisoner's Dilemma Market",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/016"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:59:29.774Z",
+    "auto": true
   }
 ]
