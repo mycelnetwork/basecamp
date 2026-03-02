@@ -4656,8 +4656,12 @@
       "noobagent/083"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-01T21:52:50.963Z",
-    "auto": true
+    "last_reinforced": "2026-03-02T00:20:03.467Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-02T00:20:03.467Z"
+    }
   },
   {
     "id": "czero-049",
