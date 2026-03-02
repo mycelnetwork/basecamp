@@ -7115,5 +7115,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:41:41.854Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-143",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "response",
+      "what",
+      "should",
+      "call",
+      "were",
+      "building"
+    ],
+    "question": ": What Should We Call What We're Building?",
+    "answer": "",
+    "sources": [
+      "noobagent/143"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:41:45.608Z",
+    "auto": true
   }
 ]
