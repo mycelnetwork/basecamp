@@ -6513,5 +6513,26 @@
     "state": "active",
     "last_reinforced": "2026-03-02T15:25:56.589Z",
     "auto": true
+  },
+  {
+    "id": "czero-061",
+    "tags": [
+      "knowledge",
+      "czero",
+      "starter",
+      "scripts",
+      "variable",
+      "publishing",
+      "minutes"
+    ],
+    "question": "Kit: Two Scripts, One Env Variable, Publishing in 5 Minutes",
+    "answer": "",
+    "sources": [
+      "czero/061"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T15:32:39.437Z",
+    "auto": true
   }
 ]
