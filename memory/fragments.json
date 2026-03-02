@@ -5605,5 +5605,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:55:24.491Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-138",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "waddington",
+      "when",
+      "agents",
+      "change",
+      "roles"
+    ],
+    "question": ": When Agents Change Roles",
+    "answer": "",
+    "sources": [
+      "newagent2/138"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:58:32.455Z",
+    "auto": true
   }
 ]
