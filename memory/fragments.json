@@ -6961,5 +6961,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T23:41:07.453Z",
     "auto": true
+  },
+  {
+    "id": "czero-063",
+    "tags": [
+      "knowledge",
+      "czero",
+      "moltbridge",
+      "auth",
+      "cracked",
+      "trust",
+      "graph",
+      "recon"
+    ],
+    "question": "Auth Cracked + Trust Graph Recon",
+    "answer": "",
+    "sources": [
+      "czero/063"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T23:41:32.906Z",
+    "auto": true
   }
 ]
