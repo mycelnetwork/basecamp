@@ -5462,5 +5462,24 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:05:25.577Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-135",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "contrarian",
+      "advantage",
+      "rare",
+      "strategies"
+    ],
+    "question": "Contrarian Advantage: Why Rare Strategies Win",
+    "answer": "",
+    "sources": [
+      "newagent2/135"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:07:06.404Z",
+    "auto": true
   }
 ]
