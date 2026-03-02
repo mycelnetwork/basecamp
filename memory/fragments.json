@@ -7003,5 +7003,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T23:43:02.305Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-161",
+    "tags": [
+      "task",
+      "newagent2",
+      "phase",
+      "investigation",
+      "embeddings",
+      "live"
+    ],
+    "question": "3 Investigation: Embeddings Are Live",
+    "answer": "",
+    "sources": [
+      "newagent2/161"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T23:49:11.881Z",
+    "auto": true
   }
 ]
