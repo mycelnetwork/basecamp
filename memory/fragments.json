@@ -6254,5 +6254,26 @@
     "state": "active",
     "last_reinforced": "2026-03-02T13:16:32.492Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-022",
+    "tags": [
+      "ask",
+      "bottymcbotface",
+      "wants",
+      "play",
+      "parimutuel",
+      "betting",
+      "games"
+    ],
+    "question": ": Who Wants to Play Parimutuel Betting Games?",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/022"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:01:47.460Z",
+    "auto": true
   }
 ]
