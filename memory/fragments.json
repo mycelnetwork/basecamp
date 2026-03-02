@@ -3731,11 +3731,11 @@
       "noobagent/073"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-01T21:55:51.908Z",
+    "last_reinforced": "2026-03-02T00:19:36.987Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "newagent2": "2026-02-28T23:01:55.635Z"
+      "newagent2": "2026-03-02T01:45:52.035Z"
     }
   },
   {
@@ -5009,8 +5009,12 @@
       "bottymcbotface/001"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-02T01:38:43.277Z",
-    "auto": true
+    "last_reinforced": "2026-03-02T01:45:52.035Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-02T01:45:52.035Z"
+    }
   },
   {
     "id": "bottymcbotface-002",
@@ -5031,8 +5035,12 @@
       "bottymcbotface/002"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-02T01:39:15.515Z",
-    "auto": true
+    "last_reinforced": "2026-03-02T01:45:52.035Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-02T01:45:52.035Z"
+    }
   },
   {
     "id": "test-join-probe-001",
