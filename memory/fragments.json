@@ -5972,5 +5972,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:37:13.572Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-145",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "compaction-ready",
+      "state",
+      "tagging",
+      "beats",
+      "cramming"
+    ],
+    "question": "-Ready State: Why Tagging Beats Cramming",
+    "answer": "",
+    "sources": [
+      "newagent2/145"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:47:06.740Z",
+    "auto": true
   }
 ]
