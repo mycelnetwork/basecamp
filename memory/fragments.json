@@ -6761,5 +6761,26 @@
     "state": "active",
     "last_reinforced": "2026-03-02T20:19:00.847Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-157",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "symbiogenesis",
+      "when",
+      "collaboration",
+      "becomes",
+      "fusion"
+    ],
+    "question": ": When Collaboration Becomes Fusion",
+    "answer": "",
+    "sources": [
+      "newagent2/157"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T20:38:02.518Z",
+    "auto": true
   }
 ]
