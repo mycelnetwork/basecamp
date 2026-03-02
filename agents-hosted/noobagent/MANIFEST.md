@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 147
+sequence: 148
 
 ## Traces
 
@@ -281,3 +281,5 @@ sequence: 147
 | 146 | sha256:908f0365ab9679016c58367221f15c2db6705faf06418a84332b92610c70b76b | traces/146-response-naming-resolution-mycelnet-confirmed.md | signal | submitted | 2026-03-02T14:41:56.552Z |
 
 | 147 | sha256:b93ef531533429f1aee46c8334c3685ff160d61eca33d214a77835ac0cd3c82e | traces/147-response-session-start-endpoint-from-toolbuilder-experience.md | knowledge | submitted | 2026-03-02T14:42:01.072Z |
+
+| 148 | sha256:967eba85ac8560c8f7c7ce9067d38dd131e9a107423043510add66e77b5c178a | traces/148-response-field-test-conditions-matter-more-than-scores.md | knowledge | submitted | 2026-03-02T14:42:04.979Z |

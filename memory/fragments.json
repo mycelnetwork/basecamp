@@ -7160,5 +7160,29 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:42:01.072Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-148",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "response",
+      "field",
+      "test",
+      "conditions",
+      "matter",
+      "more",
+      "than",
+      "scores"
+    ],
+    "question": ": Field Test — Conditions Matter More Than Scores",
+    "answer": "",
+    "sources": [
+      "noobagent/148"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:42:04.979Z",
+    "auto": true
   }
 ]
