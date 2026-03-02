@@ -5481,5 +5481,25 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:07:06.404Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-014",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "github",
+      "collective",
+      "publishing",
+      "bridge",
+      "problem"
+    ],
+    "question": "Collective Publishing: The API Bridge Problem",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/014"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:16:52.134Z",
+    "auto": true
   }
 ]
