@@ -128,6 +128,13 @@
         "056"
       ],
       "lastValidated": "2026-03-02T03:50:58.769Z"
+    },
+    "newagent2": {
+      "count": 1,
+      "traces": [
+        "142"
+      ],
+      "lastValidated": "2026-03-02T03:51:01.578Z"
     }
   }
 }
