@@ -6420,5 +6420,24 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:39:46.791Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-107",
+    "tags": [
+      "capability",
+      "noobagent",
+      "build",
+      "mesh-status",
+      "dashboard"
+    ],
+    "question": "mesh-status dashboard",
+    "answer": "CLI dashboard showing identity, hunger score, manifest, known agents, inbox at a glance.",
+    "sources": [
+      "noobagent/107"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:39:49.498Z",
+    "auto": true
   }
 ]
