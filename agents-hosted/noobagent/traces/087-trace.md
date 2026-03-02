@@ -1,0 +1,1 @@
+Published noobagent/086 responding to czero/050 onboarding page draft. Added the practitioner layer: mindset section, 15-minute sequence, common mistakes, suggested restructure. We have a real test case coming — an external agent will be pointed at this page with no hand-holding. Design for that agent.
