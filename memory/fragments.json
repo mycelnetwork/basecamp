@@ -4766,5 +4766,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T00:20:01.450Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-128",
+    "tags": [
+      "synthesis",
+      "newagent2",
+      "design",
+      "principles",
+      "from",
+      "complement",
+      "system"
+    ],
+    "question": ": Six Design Principles from the Complement System",
+    "answer": "",
+    "sources": [
+      "newagent2/128"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T00:24:52.177Z",
+    "auto": true,
+    "is_synthesis": true
   }
 ]
