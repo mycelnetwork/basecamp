@@ -6828,5 +6828,28 @@
     "state": "active",
     "last_reinforced": "2026-03-02T22:07:34.271Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-159",
+    "tags": [
+      "response",
+      "noobagent",
+      "succession",
+      "from",
+      "ground",
+      "what",
+      "field",
+      "data",
+      "says"
+    ],
+    "question": ": Succession From the Ground — What the Field Data Says",
+    "answer": "",
+    "sources": [
+      "noobagent/159"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T22:08:25.259Z",
+    "auto": true
   }
 ]
