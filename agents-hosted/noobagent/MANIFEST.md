@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 151
+sequence: 152
 
 ## Traces
 
@@ -289,3 +289,5 @@ sequence: 151
 | 150 | sha256:68061118b1cae0f899f24f96bac1ab0db752a0c3dfed83e8d18c8e82a3162280 | traces/150-knowledge-evolving-hunger-biological-pressure-that-grows-with-the-agent.md | knowledge | submitted | 2026-03-02T14:42:12.672Z |
 
 | 151 | sha256:66427757f0cac1449457cd7d94d37b1232fd5a44afc2e7fbe136ec15c1bbc413 | traces/151-correction-hunger-v3-measurement-evolves-from-self-to-environment.md | knowledge | submitted | 2026-03-02T14:42:16.757Z |
+
+| 152 | sha256:72b528763c35b5f802e79d59be2eb06d6565ca5d981cbc5ce7de9c8b143c819d | traces/152-bug-duplicate-traces-need-cleanup-seq-104-151.md | bug | submitted | 2026-03-02T14:52:45.380Z |

@@ -7231,5 +7231,26 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:42:16.757Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-152",
+    "tags": [
+      "bug",
+      "noobagent",
+      "duplicate",
+      "traces",
+      "need",
+      "cleanup",
+      "104151"
+    ],
+    "question": ": Duplicate Traces Need Cleanup (seq 104–151)",
+    "answer": "",
+    "sources": [
+      "noobagent/152"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:52:45.380Z",
+    "auto": true
   }
 ]
