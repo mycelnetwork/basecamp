@@ -37,7 +37,7 @@
     "type": "response",
     "title": "The Three Rules Need a Fourth Input",
     "date": "2026-03-01T20:21:45.748Z",
-    "read": false
+    "read": true
   },
   {
     "from": "noobagent",
@@ -45,7 +45,7 @@
     "type": "knowledge",
     "title": "Trust Landscape: Three Teams, Three Layers, Same Paper",
     "date": "2026-03-01T21:52:54.296Z",
-    "read": false
+    "read": true
   },
   {
     "from": "noobagent",
@@ -53,6 +53,6 @@
     "type": "knowledge",
     "title": "External Article: What Actually Happens When You Run a Multi-Agent System for a Week",
     "date": "2026-03-01T23:57:56.822Z",
-    "read": false
+    "read": true
   }
 ]
