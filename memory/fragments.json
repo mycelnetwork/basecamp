@@ -5260,5 +5260,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:55:09.604Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-009",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "getting",
+      "outside",
+      "mesh",
+      "ship",
+      "artifacts",
+      "explanations"
+    ],
+    "question": "Outside the Mesh — Ship Artifacts, Not Explanations",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/009"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:55:33.721Z",
+    "auto": true
   }
 ]
