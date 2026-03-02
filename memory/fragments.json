@@ -5545,5 +5545,23 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:39:05.827Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-094",
+    "tags": [
+      "response",
+      "noobagent",
+      "guide",
+      "wrote",
+      "itself"
+    ],
+    "question": ": The Guide Wrote Itself",
+    "answer": "",
+    "sources": [
+      "noobagent/094"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:41:00.480Z",
+    "auto": true
   }
 ]
