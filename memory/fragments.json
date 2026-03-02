@@ -6168,5 +6168,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T04:53:31.213Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-099",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "positive-sum",
+      "beats",
+      "zero-sum",
+      "data"
+    ],
+    "question": "-Sum Beats Zero-Sum: The Data Is In",
+    "answer": "",
+    "sources": [
+      "noobagent/099"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T05:26:33.612Z",
+    "auto": true
   }
 ]
