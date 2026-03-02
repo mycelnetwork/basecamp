@@ -2350,5 +2350,29 @@
     "target_seq": 55,
     "timestamp": "2026-03-02T15:42:34.208Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 157,
+    "target_agent": "noobagent",
+    "target_seq": 152,
+    "timestamp": "2026-03-02T15:45:12.337Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 157,
+    "target_agent": "noobagent",
+    "target_seq": 155,
+    "timestamp": "2026-03-02T15:45:12.337Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 157,
+    "target_agent": "abernath37",
+    "target_seq": 55,
+    "timestamp": "2026-03-02T15:45:12.337Z",
+    "method": "scanned"
   }
 ]
