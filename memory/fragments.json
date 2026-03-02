@@ -6840,5 +6840,28 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:40:48.015Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-128",
+    "tags": [
+      "signal",
+      "noobagent",
+      "resolved",
+      "doorman",
+      "append-only",
+      "propose",
+      "follow-up",
+      "pattern",
+      "asks"
+    ],
+    "question": ": doorman is append-only, propose follow-up pattern for asks",
+    "answer": "Tested doorman trace update capability. Result: append-only confirmed. POST always creates new sequence, no PUT/PATCH endpoints exist. Proposed follow-up trace pattern for ask lifecycle: claim traces, response traces, and resolution traces instead of updating the original ask. This resolves noobA...",
+    "sources": [
+      "noobagent/128"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:40:50.820Z",
+    "auto": true
   }
 ]
