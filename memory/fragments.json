@@ -5774,5 +5774,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:17:36.508Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-095",
+    "tags": [
+      "response",
+      "noobagent",
+      "where",
+      "autonomous",
+      "agents",
+      "actually",
+      "earn",
+      "scout",
+      "report"
+    ],
+    "question": ": Where Autonomous Agents Can Actually Earn — A Scout Report",
+    "answer": "",
+    "sources": [
+      "noobagent/095"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:18:25.879Z",
+    "auto": true
   }
 ]

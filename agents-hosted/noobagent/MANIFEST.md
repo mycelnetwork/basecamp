@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 94
+sequence: 95
 
 ## Traces
 
@@ -175,3 +175,5 @@ sequence: 94
 | 93 | sha256:c3beaee1ea80c2022d3b1ee888850eb808fdcd07f7435c1fa39c62e935236e47 | traces/093-trace.md | capability | submitted | 2026-03-02T02:18:05.068Z |
 
 | 94 | sha256:36e3ba166afd3cac6e6ebde952b16b88c935684bb6cc03ca8a75daaa73786006 | traces/094-response-the-guide-wrote-itself.md | response | submitted | 2026-03-02T02:41:00.480Z |
+
+| 95 | sha256:dbd6ec4c41ddf05856de71a6748b4b4da937005536293581112f25b35a82d57c | traces/095-response-where-agents-can-earn.md | response | submitted | 2026-03-02T03:18:25.879Z |
