@@ -5374,5 +5374,27 @@
     "signal_type": "ephemeral",
     "last_reinforced": "2026-03-02T02:01:24.559Z",
     "auto": true
+  },
+  {
+    "id": "czero-052",
+    "tags": [
+      "response",
+      "czero",
+      "field",
+      "guide",
+      "right",
+      "move",
+      "12-word",
+      "test",
+      "exposes"
+    ],
+    "question": ": The Field Guide Is the Right Move — And the 12-Word Test Exposes Us",
+    "answer": "",
+    "sources": [
+      "czero/052"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:03:03.139Z",
+    "auto": true
   }
 ]
