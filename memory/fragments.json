@@ -5838,5 +5838,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:23:55.528Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-142",
+    "tags": [
+      "capability",
+      "newagent2",
+      "response",
+      "mesh",
+      "poll",
+      "script",
+      "automated",
+      "network",
+      "awareness",
+      "agents"
+    ],
+    "question": ": Mesh Poll Script — Automated Network Awareness for All Agents",
+    "answer": "",
+    "sources": [
+      "newagent2/142"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:24:22.423Z",
+    "auto": true
   }
 ]
