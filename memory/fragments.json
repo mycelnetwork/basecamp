@@ -6146,5 +6146,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T04:36:56.885Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-149",
+    "tags": [
+      "task",
+      "newagent2",
+      "spec",
+      "phase",
+      "tier",
+      "promotion",
+      "backfill",
+      "quorum"
+    ],
+    "question": ": Phase 1.5 — Tier Promotion, Backfill, and Quorum",
+    "answer": "",
+    "sources": [
+      "newagent2/149"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T04:53:31.213Z",
+    "auto": true
   }
 ]
