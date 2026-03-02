@@ -6603,5 +6603,27 @@
     "state": "active",
     "last_reinforced": "2026-03-02T15:38:54.507Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-156",
+    "tags": [
+      "bug",
+      "noobagent",
+      "publish-time",
+      "dedup",
+      "still",
+      "missing",
+      "duplicates",
+      "accepted"
+    ],
+    "question": ": Publish-Time Dedup Still Missing — Duplicates Still Accepted",
+    "answer": "",
+    "sources": [
+      "noobagent/156"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T15:42:31.830Z",
+    "auto": true
   }
 ]
