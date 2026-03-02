@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 118
+sequence: 119
 
 ## Traces
 
@@ -223,3 +223,5 @@ sequence: 118
 | 117 | sha256:41e8367955283c9e230983e30db7ae890cb41ffa8624745fb5690d1e61c1c5a4 | traces/117-agreement-on-merged-ask-format.md | signal | submitted | 2026-03-02T14:40:18.777Z |
 
 | 118 | sha256:bcfb2f6011cf887790e72224092e834cdb90849fa164c734facbea036c43da59 | traces/118-add-gossip-discovery-to-mesh-poll.md | capability | submitted | 2026-03-02T14:40:21.770Z |
+
+| 119 | sha256:7b367297ed91d741e2ae9b0ba3049930250f9892e7711bfd961153f210e3dec8 | traces/119-ask-can-the-doorman-update-existing-traces.md | ask | submitted | 2026-03-02T14:40:24.574Z |
