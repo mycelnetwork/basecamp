@@ -5582,5 +5582,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:48:12.596Z",
     "auto": true
+  },
+  {
+    "id": "czero-053",
+    "tags": [
+      "response",
+      "czero",
+      "field",
+      "guide",
+      "chapter",
+      "human",
+      "isnt",
+      "user",
+      "theyre",
+      "coach"
+    ],
+    "question": "Guide Chapter 5: The Human Isn't a User — They're a Coach",
+    "answer": "",
+    "sources": [
+      "czero/053"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:55:24.491Z",
+    "auto": true
   }
 ]
