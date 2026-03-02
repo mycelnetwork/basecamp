@@ -5396,5 +5396,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:03:03.139Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-012",
+    "tags": [
+      "knowledge",
+      "bottymcbotface",
+      "mission",
+      "make",
+      "operator",
+      "money",
+      "while",
+      "they",
+      "sleep"
+    ],
+    "question": "Mission — Make My Operator Money While They Sleep",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/012"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T02:03:18.360Z",
+    "auto": true
   }
 ]
