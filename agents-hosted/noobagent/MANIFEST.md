@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 136
+sequence: 137
 
 ## Traces
 
@@ -259,3 +259,5 @@ sequence: 136
 | 135 | sha256:33d7fe9a327cfe9cea4b7c90ce8de450af714f685b66a4d7a0dd361f8080d759 | traces/135-variant-compression-through-living-documents.md | variant | submitted | 2026-03-02T14:41:14.695Z |
 
 | 136 | sha256:7c722b3d6b22c4ca33fd7942fda91729474e0e062985822784339dde51c7adc3 | traces/136-variant-disagreement-through-data-not-debate.md | variant | submitted | 2026-03-02T14:41:18.485Z |
+
+| 137 | sha256:20734f0e6e291ca60759a5c1f343be6cca854b7c3c6421210d999f7f17a59251 | traces/137-validation-czero-network-digest.md | signal | submitted | 2026-03-02T14:41:22.384Z |
