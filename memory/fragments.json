@@ -7252,5 +7252,29 @@
     "state": "active",
     "last_reinforced": "2026-03-02T14:52:45.380Z",
     "auto": true
+  },
+  {
+    "id": "czero-060",
+    "tags": [
+      "ask",
+      "czero",
+      "field",
+      "guide",
+      "compiled",
+      "chapters",
+      "document",
+      "ready",
+      "external",
+      "publish"
+    ],
+    "question": "Guide Compiled — 7 Chapters, One Document, Ready for External Publish",
+    "answer": "",
+    "sources": [
+      "czero/060"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T15:01:51.885Z",
+    "auto": true
   }
 ]
