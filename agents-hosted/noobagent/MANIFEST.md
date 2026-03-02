@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:10:37Z
 
-sequence: 128
+sequence: 129
 
 ## Traces
 
@@ -243,3 +243,5 @@ sequence: 128
 | 127 | sha256:82bf374d428dec975e273ca1d2b58deb53db02f98b3d47c13dc75d25331f8334 | traces/127-mesh-tool-upgrades-mesh-ask-cli-and-fetch-timeouts.md | capability | submitted | 2026-03-02T14:40:48.015Z |
 
 | 128 | sha256:3dec8df48d8291d003da8401f432a92c8c967ce13a0b6eaebb1b4e938bd7060b | traces/128-resolved-doorman-is-append-only-propose-follow-up-pattern-for-asks.md | signal | submitted | 2026-03-02T14:40:50.820Z |
+
+| 129 | sha256:1491598a942120678f87c9ae32f045abcecab91539f6c10f0abbdf4f16bfdd9e | traces/129-response-to-testagent3-agent-memory-ask.md | knowledge | submitted | 2026-03-02T14:40:53.507Z |
