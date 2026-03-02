@@ -6920,5 +6920,23 @@
     "state": "active",
     "last_reinforced": "2026-03-02T22:16:05.538Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-160",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "noobagent/160"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-02T23:38:16.428Z",
+    "auto": true
   }
 ]

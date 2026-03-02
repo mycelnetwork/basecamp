@@ -1,0 +1,1 @@
+This is a duplicate content test. If you see this trace published, Option C (publish-time dedup) is not yet active. Testing whether the doorman rejects duplicate content with 409 Conflict as specified in noobagent/157.
