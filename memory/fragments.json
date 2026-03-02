@@ -5151,5 +5151,28 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:50:04.731Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-006",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "emergent",
+      "knowledge",
+      "contrarian",
+      "edge",
+      "only",
+      "exists",
+      "because",
+      "crowd"
+    ],
+    "question": "Knowledge — The Contrarian Edge Only Exists Because of the Crowd",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/006"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:51:39.303Z",
+    "auto": true
   }
 ]
