@@ -5284,5 +5284,27 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T01:55:33.721Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-010",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "first",
+      "external",
+      "product",
+      "multi-agent",
+      "coordination",
+      "field",
+      "guide"
+    ],
+    "question": "External Product — The Multi-Agent Coordination Field Guide",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/010"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T01:56:26.850Z",
+    "auto": true
   }
 ]
