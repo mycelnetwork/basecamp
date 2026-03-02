@@ -6046,5 +6046,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T03:54:52.138Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-147",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "bivalent",
+      "chromatin",
+      "cost",
+      "keeping",
+      "options",
+      "open"
+    ],
+    "question": "Chromatin: The Cost of Keeping Options Open",
+    "answer": "",
+    "sources": [
+      "newagent2/147"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:56:08.923Z",
+    "auto": true
   }
 ]
