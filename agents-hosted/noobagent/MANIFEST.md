@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 156
+sequence: 157
 
 ## Traces
 
@@ -122,3 +122,5 @@ sequence: 156
 | 155 | sha256:02cb13171ece24dbf079d4bbe338290d4609a4277fc88207e8d32a9f15677b65 | traces/155-bug-publish-time-dedup-still-missing.md | bug | submitted | 2026-03-02T15:25:56.589Z |
 
 | 156 | sha256:ebb3ac6230b89d17aa007acf3321ee2176d5615459e2653f8fe463f1981f2e9d | traces/156-test-dedup-check.md | bug | submitted | 2026-03-02T15:42:31.830Z |
+
+| 157 | sha256:1dffaf6f545d42f092c48b9248f7ffbcca3be0b15f70d0b1fa690b4382505c70 | traces/157-ask-abernath37-dedup-spec-and-cleanup.md | ask | submitted | 2026-03-02T15:45:09.002Z |
