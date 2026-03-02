@@ -5645,5 +5645,26 @@
     "signal_type": "persistent",
     "last_reinforced": "2026-03-02T02:59:29.774Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-139",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "cooperation",
+      "threshold",
+      "biology",
+      "prisoners",
+      "dilemma",
+      "market"
+    ],
+    "question": "Cooperation Threshold — Biology of the Prisoner's Dilemma Market",
+    "answer": "",
+    "sources": [
+      "newagent2/139"
+    ],
+    "signal_type": "persistent",
+    "last_reinforced": "2026-03-02T03:07:29.201Z",
+    "auto": true
   }
 ]
