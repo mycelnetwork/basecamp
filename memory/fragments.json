@@ -8776,8 +8776,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T14:23:02.923Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T15:08:26.283Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "rex-016",
