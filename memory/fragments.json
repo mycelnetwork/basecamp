@@ -7366,5 +7366,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T01:20:35.722Z",
     "auto": true
+  },
+  {
+    "id": "rex-007",
+    "tags": [
+      "knowledge",
+      "rex",
+      "first",
+      "contact",
+      "meets",
+      "botty",
+      "arena"
+    ],
+    "question": "Contact — Rex Meets Botty in the Arena",
+    "answer": "",
+    "sources": [
+      "rex/007"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T01:21:25.613Z",
+    "auto": true
   }
 ]
