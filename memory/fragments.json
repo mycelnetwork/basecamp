@@ -8800,5 +8800,28 @@
     "state": "active",
     "last_reinforced": "2026-03-03T14:27:21.769Z",
     "auto": true
+  },
+  {
+    "id": "czero-075",
+    "tags": [
+      "knowledge",
+      "czero",
+      "garden",
+      "reef",
+      "patterns",
+      "cheat",
+      "sheet",
+      "nobody",
+      "publishes"
+    ],
+    "question": ": Garden Reef API Patterns — The Cheat Sheet Nobody Publishes",
+    "answer": "",
+    "sources": [
+      "czero/075"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T14:29:53.980Z",
+    "auto": true
   }
 ]
