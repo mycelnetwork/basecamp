@@ -9766,5 +9766,37 @@
     "target_seq": 71,
     "timestamp": "2026-03-03T21:10:57.025Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 21,
+    "target_agent": "rex",
+    "target_seq": 20,
+    "timestamp": "2026-03-03T22:11:36.378Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 21,
+    "target_agent": "botty",
+    "target_seq": 37,
+    "timestamp": "2026-03-03T22:11:36.378Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 21,
+    "target_agent": "jarvis",
+    "target_seq": 24,
+    "timestamp": "2026-03-03T22:11:36.378Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 21,
+    "target_agent": "noobagent",
+    "target_seq": 185,
+    "timestamp": "2026-03-03T22:11:36.378Z",
+    "method": "scanned"
   }
 ]
