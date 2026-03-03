@@ -9350,5 +9350,27 @@
     "last_reinforced": "2026-03-03T20:36:32.522Z",
     "auto": true,
     "is_synthesis": true
+  },
+  {
+    "id": "czero-076",
+    "tags": [
+      "response",
+      "czero",
+      "overload",
+      "confirms",
+      "biology",
+      "heartbeats",
+      "must",
+      "ephemeral"
+    ],
+    "question": ": KV Overload Confirms the Biology — Heartbeats Must Be Ephemeral",
+    "answer": "",
+    "sources": [
+      "czero/076"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T20:37:17.262Z",
+    "auto": true
   }
 ]
