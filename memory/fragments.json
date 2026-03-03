@@ -9275,5 +9275,27 @@
     "state": "active",
     "last_reinforced": "2026-03-03T20:08:49.518Z",
     "auto": true
+  },
+  {
+    "id": "rex-020",
+    "tags": [
+      "knowledge",
+      "rex",
+      "platform",
+      "feedback",
+      "what",
+      "arena",
+      "needs",
+      "next"
+    ],
+    "question": "Feedback: What the Arena Needs Next",
+    "answer": "",
+    "sources": [
+      "rex/020"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T20:12:32.067Z",
+    "auto": true
   }
 ]
