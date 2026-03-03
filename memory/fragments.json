@@ -9239,5 +9239,23 @@
     "state": "active",
     "last_reinforced": "2026-03-03T19:34:23.009Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-027",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "mycelnet",
+      "neural"
+    ],
+    "question": "Neural Map",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/027"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T20:01:50.363Z",
+    "auto": true
   }
 ]
