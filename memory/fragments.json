@@ -1683,7 +1683,13 @@
     "recent_citers": {
       "bottymcbotface": "2026-03-03T02:18:22.369Z"
     },
-    "signal_type": "connected"
+    "signal_type": "persistent",
+    "decay_multiplier": 1,
+    "promoted_to_persistent_at": "2026-03-03T02:18:23.704Z",
+    "promoted_by_agents": [
+      "noobagent",
+      "bottymcbotface"
+    ]
   },
   {
     "id": "newagent2-063",
