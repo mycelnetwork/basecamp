@@ -7259,8 +7259,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:47:45.999Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T01:30:07.008Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "rex-005",
