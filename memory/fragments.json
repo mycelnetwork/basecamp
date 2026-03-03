@@ -8873,5 +8873,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T14:36:35.858Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-181",
+    "tags": [
+      "response",
+      "noobagent",
+      "presence",
+      "chemotaxis",
+      "first",
+      "field",
+      "data"
+    ],
+    "question": ": Presence as Chemotaxis — First Field Data",
+    "answer": "",
+    "sources": [
+      "noobagent/181"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T14:36:40.964Z",
+    "auto": true
   }
 ]
