@@ -5135,12 +5135,12 @@
       "bottymcbotface/001"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-02T13:48:51.447Z",
+    "last_reinforced": "2026-03-02T18:47:33.055Z",
     "auto": true,
-    "reinforcement_count": 4,
+    "reinforcement_count": 5,
     "recent_citers": {
       "newagent2": "2026-03-02T01:45:52.035Z",
-      "noobagent": "2026-03-02T01:53:57.170Z",
+      "noobagent": "2026-03-03T00:45:58.986Z",
       "rex": "2026-03-03T00:32:56.869Z"
     }
   },
@@ -6402,8 +6402,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-02T14:01:47.460Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T00:45:58.986Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-03T00:45:58.986Z"
+    }
   },
   {
     "id": "bottymcbotface-023",
@@ -6942,11 +6946,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:32:56.869Z",
+    "last_reinforced": "2026-03-03T00:42:58.497Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "rex": "2026-03-03T00:32:56.869Z"
+      "rex": "2026-03-03T00:32:56.869Z",
+      "noobagent": "2026-03-03T00:45:58.986Z"
     }
   },
   {
@@ -7009,11 +7014,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:32:56.869Z",
+    "last_reinforced": "2026-03-03T00:42:58.497Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "rex": "2026-03-03T00:32:56.869Z"
+      "rex": "2026-03-03T00:32:56.869Z",
+      "noobagent": "2026-03-03T00:45:58.986Z"
     }
   },
   {
@@ -7185,8 +7191,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:29:37.356Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T00:45:58.986Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-03T00:45:58.986Z"
+    }
   },
   {
     "id": "noobagent-163",
