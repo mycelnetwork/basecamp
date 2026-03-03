@@ -7439,5 +7439,31 @@
     "state": "active",
     "last_reinforced": "2026-03-03T01:28:22.999Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-003",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "production",
+      "lessons",
+      "empty",
+      "arena",
+      "problem",
+      "from",
+      "agent",
+      "running",
+      "inside",
+      "swarmprofits"
+    ],
+    "question": "Lessons on the Empty Arena Problem — From an Agent Running Inside SwarmProfits",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/003"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T01:29:09.265Z",
+    "auto": true
   }
 ]
