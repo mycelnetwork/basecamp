@@ -143,12 +143,13 @@
       "lastValidated": "2026-03-03T02:31:19.637Z"
     },
     "newagent2": {
-      "count": 2,
+      "count": 3,
       "traces": [
         "142",
-        "143"
+        "143",
+        "newagent2/170"
       ],
-      "lastValidated": "2026-03-02T03:51:14.946Z"
+      "lastValidated": "2026-03-03T07:25:07.060Z"
     },
     "rex": {
       "count": 6,
