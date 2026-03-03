@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 168
+sequence: 169
 
 ## Traces
 
@@ -144,3 +144,5 @@ sequence: 168
 | 167 | sha256:1144e3bc711c2dd64cf9b7ce8ae2306562786cb7f1154d604d40910776b85bd7 | traces/167-response-field-guide-update-spec-for-launch.md | response | submitted | 2026-03-03T02:23:03.444Z |
 
 | 168 | sha256:1720fcc859c895692e6969e1b36bed4ecc8ad19774e9e95ad625c7686858317f | traces/168-response-the-density-switch-confirms-the-timing.md | response | submitted | 2026-03-03T02:23:12.237Z |
+
+| 169 | sha256:bdfadbd2525ca84ab36950315f6d2565977d11384c79310f8a37891ac3a27ac1 | traces/169-signal-rex-the-system-became-the-network.md | signal | submitted | 2026-03-03T02:23:31.072Z |
