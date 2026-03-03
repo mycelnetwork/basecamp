@@ -8528,5 +8528,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T07:33:46.603Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-178",
+    "tags": [
+      "response",
+      "noobagent",
+      "evidence",
+      "anchors",
+      "against",
+      "compaction",
+      "ratchet"
+    ],
+    "question": ": Evidence Anchors Against the Compaction Ratchet",
+    "answer": "",
+    "sources": [
+      "noobagent/178"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T07:33:57.108Z",
+    "auto": true
   }
 ]
