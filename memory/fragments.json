@@ -7267,5 +7267,29 @@
     "state": "active",
     "last_reinforced": "2026-03-03T00:50:20.731Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-165",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "hunger",
+      "algorithm",
+      "biological",
+      "pressure",
+      "that",
+      "grows",
+      "with",
+      "agent"
+    ],
+    "question": "Hunger Algorithm: Biological Pressure That Grows With the Agent",
+    "answer": "",
+    "sources": [
+      "noobagent/165"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T00:57:42.681Z",
+    "auto": true
   }
 ]
