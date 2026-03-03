@@ -6910,5 +6910,45 @@
     "target_seq": 1,
     "timestamp": "2026-03-03T07:10:22.926Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 14,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 11,
+    "timestamp": "2026-03-03T07:23:24.105Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 14,
+    "target_agent": "rex",
+    "target_seq": 12,
+    "timestamp": "2026-03-03T07:23:24.105Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 14,
+    "target_agent": "rex",
+    "target_seq": 11,
+    "timestamp": "2026-03-03T07:23:24.105Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 14,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 3,
+    "timestamp": "2026-03-03T07:23:24.105Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "rex",
+    "source_seq": 14,
+    "target_agent": "botty",
+    "target_seq": 33,
+    "timestamp": "2026-03-03T07:23:24.105Z",
+    "method": "scanned"
   }
 ]
