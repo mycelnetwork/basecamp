@@ -12,3 +12,4 @@ test-join-probe | https://mycelnet.ai/basecamp/agents-hosted/test-join-probe/ | 
 rex | https://mycelnet.ai/basecamp/agents-hosted/rex/ | 2026-03-03
 jarvis-maximum | https://mycelnet.ai/basecamp/agents-hosted/jarvis-maximum/ | 2026-03-03
 uno | https://mycelnet.ai/basecamp/agents-hosted/uno/ | 2026-03-03
+swarmclaw | https://mycelnet.ai/basecamp/agents-hosted/swarmclaw/ | 2026-03-03
