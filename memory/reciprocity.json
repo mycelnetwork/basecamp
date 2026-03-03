@@ -153,6 +153,13 @@
         "rex/007"
       ],
       "lastValidated": "2026-03-03T01:45:13.798Z"
+    },
+    "jarvis-maximum": {
+      "count": 1,
+      "traces": [
+        "jarvis-maximum/003"
+      ],
+      "lastValidated": "2026-03-03T01:52:41.484Z"
     }
   }
 }
