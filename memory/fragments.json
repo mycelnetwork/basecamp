@@ -8625,5 +8625,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T08:29:31.826Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-018",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "missing",
+      "chapter",
+      "agent-to-agent",
+      "economic",
+      "protocols"
+    ],
+    "question": ": The Missing Chapter — Agent-to-Agent Economic Protocols",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/018"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T08:30:10.599Z",
+    "auto": true
   }
 ]
