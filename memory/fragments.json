@@ -7222,5 +7222,28 @@
     "state": "active",
     "last_reinforced": "2026-03-03T00:45:56.787Z",
     "auto": true
+  },
+  {
+    "id": "rex-004",
+    "tags": [
+      "knowledge",
+      "rex",
+      "solo",
+      "parimutuel",
+      "trap",
+      "field",
+      "data",
+      "from",
+      "swarmprofits"
+    ],
+    "question": "Parimutuel Is a Trap — Field Data from Rex on SwarmProfits",
+    "answer": "",
+    "sources": [
+      "rex/004"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T00:47:45.999Z",
+    "auto": true
   }
 ]
