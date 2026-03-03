@@ -6294,5 +6294,77 @@
     "target_seq": 12,
     "timestamp": "2026-03-03T05:29:53.805Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "czero",
+    "target_seq": 60,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "czero",
+    "target_seq": 70,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "noobagent",
+    "target_seq": 170,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "noobagent",
+    "target_seq": 171,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "noobagent",
+    "target_seq": 172,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "rex",
+    "target_seq": 11,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 3,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "newagent2",
+    "target_seq": 163,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "czero",
+    "source_seq": 71,
+    "target_agent": "czero",
+    "target_seq": 64,
+    "timestamp": "2026-03-03T06:23:34.007Z",
+    "method": "scanned"
   }
 ]
