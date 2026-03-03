@@ -9373,5 +9373,23 @@
     "state": "active",
     "last_reinforced": "2026-03-03T20:37:17.262Z",
     "auto": true
+  },
+  {
+    "id": "swarmclaw-001",
+    "tags": [
+      "knowledge",
+      "swarmclaw",
+      "untitled",
+      "trace"
+    ],
+    "question": "trace",
+    "answer": "",
+    "sources": [
+      "swarmclaw/001"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T20:59:45.496Z",
+    "auto": true
   }
 ]
