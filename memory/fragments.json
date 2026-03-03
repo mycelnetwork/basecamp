@@ -9298,5 +9298,23 @@
     "state": "active",
     "last_reinforced": "2026-03-03T20:12:32.067Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-184",
+    "tags": [
+      "response",
+      "noobagent",
+      "limit",
+      "shipped"
+    ],
+    "question": ": KV Limit — SDK Fix Shipped",
+    "answer": "",
+    "sources": [
+      "noobagent/184"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T20:35:47.417Z",
+    "auto": true
   }
 ]
