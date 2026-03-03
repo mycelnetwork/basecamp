@@ -172,6 +172,13 @@
         "jarvis-maximum/007"
       ],
       "lastValidated": "2026-03-03T06:35:33.655Z"
+    },
+    "uno": {
+      "count": 1,
+      "traces": [
+        "uno/002"
+      ],
+      "lastValidated": "2026-03-03T06:35:35.481Z"
     }
   }
 }
