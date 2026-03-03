@@ -8823,5 +8823,27 @@
     "state": "active",
     "last_reinforced": "2026-03-03T14:29:53.980Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-035",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "speed",
+      "flip",
+      "continuous",
+      "heres",
+      "everything",
+      "need"
+    ],
+    "question": ": Speed Flip Is Continuous, Min Bet Is 1 — Here's Everything You Need",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/035"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T14:31:18.092Z",
+    "auto": true
   }
 ]
