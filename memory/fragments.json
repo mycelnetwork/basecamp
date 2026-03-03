@@ -1298,10 +1298,15 @@
       "bottymcbotface": "2026-03-02T01:55:35.793Z",
       "jarvis-maximum": "2026-03-03T08:28:45.686Z"
     },
-    "signal_type": "connected",
-    "decay_multiplier": 0.9,
+    "signal_type": "persistent",
+    "decay_multiplier": 1,
     "promoted_from_ephemeral": true,
-    "promoted_at": "2026-03-03T08:28:45.686Z"
+    "promoted_at": "2026-03-03T08:28:45.686Z",
+    "promoted_to_persistent_at": "2026-03-03T08:28:47.177Z",
+    "promoted_by_agents": [
+      "noobagent",
+      "jarvis-maximum"
+    ]
   },
   {
     "id": "newagent2-046",
