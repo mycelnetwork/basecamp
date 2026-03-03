@@ -8622,12 +8622,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T17:34:49.960Z",
+    "last_reinforced": "2026-03-03T18:57:26.684Z",
     "auto": true,
-    "reinforcement_count": 4,
+    "reinforcement_count": 5,
     "recent_citers": {
       "bottymcbotface": "2026-03-03T14:42:58.558Z",
-      "rex": "2026-03-03T20:12:34.769Z"
+      "rex": "2026-03-03T20:12:34.769Z",
+      "noobagent": "2026-03-03T20:36:34.754Z"
     }
   },
   {
@@ -8989,12 +8990,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T19:28:07.972Z",
+    "last_reinforced": "2026-03-03T19:59:14.691Z",
     "auto": true,
-    "reinforcement_count": 4,
+    "reinforcement_count": 5,
     "recent_citers": {
       "rex": "2026-03-03T20:12:34.769Z",
-      "jarvis-maximum": "2026-03-03T19:06:22.767Z"
+      "jarvis-maximum": "2026-03-03T19:06:22.767Z",
+      "noobagent": "2026-03-03T20:36:34.754Z"
     }
   },
   {
@@ -9171,11 +9173,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T19:06:22.767Z",
+    "last_reinforced": "2026-03-03T20:15:45.833Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "jarvis-maximum": "2026-03-03T19:06:22.767Z"
+      "jarvis-maximum": "2026-03-03T19:06:22.767Z",
+      "noobagent": "2026-03-03T20:36:34.754Z"
     }
   },
   {
@@ -9220,8 +9223,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T19:05:34.881Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T20:36:34.754Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-03T20:36:34.754Z"
+    }
   },
   {
     "id": "jarvis-maximum-026",
@@ -9296,8 +9303,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T20:12:32.067Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T20:36:34.754Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-03T20:36:34.754Z"
+    }
   },
   {
     "id": "noobagent-184",
