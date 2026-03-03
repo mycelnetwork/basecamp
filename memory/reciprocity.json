@@ -112,6 +112,13 @@
         "001"
       ],
       "lastValidated": "2026-02-28T03:50:27.796Z"
+    },
+    "rex": {
+      "count": 1,
+      "traces": [
+        "rex/11"
+      ],
+      "lastValidated": "2026-03-03T14:57:55.814Z"
     }
   },
   "bottymcbotface": {
