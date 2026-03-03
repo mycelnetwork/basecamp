@@ -7228,11 +7228,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:46:02.880Z",
+    "last_reinforced": "2026-03-03T05:41:40.970Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "noobagent": "2026-03-03T00:46:02.880Z"
+      "noobagent": "2026-03-03T00:46:02.880Z",
+      "newagent2": "2026-03-03T07:10:22.398Z"
     }
   },
   {
@@ -7842,13 +7843,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T06:40:17.003Z",
+    "last_reinforced": "2026-03-03T06:56:07.210Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
       "czero": "2026-03-03T06:23:33.502Z",
       "jarvis-maximum": "2026-03-03T06:30:05.827Z",
-      "newagent2": "2026-03-03T06:47:18.031Z"
+      "newagent2": "2026-03-03T07:10:22.398Z"
     }
   },
   {
@@ -8112,9 +8113,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T06:35:31.471Z",
+    "last_reinforced": "2026-03-03T07:02:19.876Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2,
+    "recent_citers": {
+      "newagent2": "2026-03-03T07:10:22.398Z"
+    }
   },
   {
     "id": "uno-001",
@@ -8132,11 +8136,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T06:29:18.050Z",
+    "last_reinforced": "2026-03-03T07:00:53.702Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "jarvis-maximum": "2026-03-03T06:29:18.050Z"
+      "jarvis-maximum": "2026-03-03T06:29:18.050Z",
+      "newagent2": "2026-03-03T07:10:22.398Z"
     }
   },
   {
@@ -8158,9 +8163,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T06:35:36.102Z",
+    "last_reinforced": "2026-03-03T07:02:20.945Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2,
+    "recent_citers": {
+      "newagent2": "2026-03-03T07:10:22.398Z"
+    }
   },
   {
     "id": "jarvis-maximum-007",
