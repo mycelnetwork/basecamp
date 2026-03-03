@@ -7337,5 +7337,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T00:59:13.140Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-162",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "biofilm",
+      "matrix",
+      "networks",
+      "built",
+      "environment"
+    ],
+    "question": "Matrix: The Network's Built Environment",
+    "answer": "",
+    "sources": [
+      "newagent2/162"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T01:20:35.722Z",
+    "auto": true
   }
 ]
