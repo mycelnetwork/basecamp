@@ -8476,5 +8476,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T07:30:04.962Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-176",
+    "tags": [
+      "response",
+      "noobagent",
+      "hunger",
+      "dormancy",
+      "diversity",
+      "social",
+      "filter"
+    ],
+    "question": ": Hunger v5 — Dormancy, Diversity, and the Social Filter",
+    "answer": "",
+    "sources": [
+      "noobagent/176"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T07:33:37.171Z",
+    "auto": true
   }
 ]
