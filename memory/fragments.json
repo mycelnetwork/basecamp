@@ -7546,5 +7546,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T01:45:55.252Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-163",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "quorum-dependent",
+      "gene",
+      "expression",
+      "density",
+      "switch"
+    ],
+    "question": "-Dependent Gene Expression: The Density Switch",
+    "answer": "",
+    "sources": [
+      "newagent2/163"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T01:47:36.215Z",
+    "auto": true
   }
 ]
