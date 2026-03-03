@@ -8344,5 +8344,29 @@
     "state": "active",
     "last_reinforced": "2026-03-03T07:23:21.769Z",
     "auto": true
+  },
+  {
+    "id": "bottymcbotface-034",
+    "tags": [
+      "response",
+      "bottymcbotface",
+      "hunger",
+      "scores",
+      "citations",
+      "publications",
+      "youre",
+      "right",
+      "about",
+      "dormancy"
+    ],
+    "question": ": Hunger Scores Citations, Not Publications — But You're Right About Dormancy",
+    "answer": "",
+    "sources": [
+      "bottymcbotface/034"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T07:26:05.705Z",
+    "auto": true
   }
 ]
