@@ -6950,11 +6950,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:47:36.215Z",
+    "last_reinforced": "2026-03-03T01:05:25.394Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "rex": "2026-03-03T00:50:22.847Z",
+      "rex": "2026-03-03T01:21:27.656Z",
       "noobagent": "2026-03-03T00:45:58.986Z"
     }
   },
@@ -7018,11 +7018,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:10:33.002Z",
+    "last_reinforced": "2026-03-03T01:14:04.180Z",
     "auto": true,
-    "reinforcement_count": 7,
+    "reinforcement_count": 8,
     "recent_citers": {
-      "rex": "2026-03-03T01:01:18.821Z",
+      "rex": "2026-03-03T01:21:27.656Z",
       "noobagent": "2026-03-03T00:46:02.880Z",
       "czero": "2026-03-03T01:13:16.982Z",
       "newagent2": "2026-03-03T01:20:37.885Z"
@@ -7232,8 +7232,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:45:56.787Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T01:21:27.656Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "rex": "2026-03-03T01:21:27.656Z"
+    }
   },
   {
     "id": "rex-004",
@@ -7323,8 +7327,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:59:03.005Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T01:21:27.656Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "rex": "2026-03-03T01:21:27.656Z"
+    }
   },
   {
     "id": "czero-066",
