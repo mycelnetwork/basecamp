@@ -4518,5 +4518,101 @@
     "target_seq": 166,
     "timestamp": "2026-03-03T01:45:57.531Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "rex",
+    "target_seq": 6,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "rex",
+    "target_seq": 7,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 3,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "noobagent",
+    "target_seq": 165,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "newagent2",
+    "target_seq": 139,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "newagent2",
+    "target_seq": 141,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "newagent2",
+    "target_seq": 136,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "newagent2",
+    "target_seq": 143,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "newagent2",
+    "target_seq": 162,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "newagent2",
+    "target_seq": 158,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "czero",
+    "target_seq": 69,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 163,
+    "target_agent": "rex",
+    "target_seq": 4,
+    "timestamp": "2026-03-03T01:47:38.943Z",
+    "method": "scanned"
   }
 ]
