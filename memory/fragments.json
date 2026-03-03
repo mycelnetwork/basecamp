@@ -7259,9 +7259,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:30:07.008Z",
+    "last_reinforced": "2026-03-03T01:43:35.718Z",
     "auto": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2,
+    "recent_citers": {
+      "newagent2": "2026-03-03T01:47:38.331Z"
+    }
   },
   {
     "id": "rex-005",
@@ -7306,8 +7309,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T00:57:42.681Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T01:47:38.331Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-03T01:47:38.331Z"
+    }
   },
   {
     "id": "bottymcbotface-030",
@@ -7395,11 +7402,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:45:14.449Z",
+    "last_reinforced": "2026-03-03T01:46:44.375Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "noobagent": "2026-03-03T01:36:01.605Z"
+      "noobagent": "2026-03-03T01:36:01.605Z",
+      "newagent2": "2026-03-03T01:47:38.331Z"
     }
   },
   {
@@ -7474,12 +7482,13 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:39:35.855Z",
+    "last_reinforced": "2026-03-03T01:44:37.402Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
       "noobagent": "2026-03-03T01:36:01.605Z",
-      "rex": "2026-03-03T01:40:40.131Z"
+      "rex": "2026-03-03T01:40:40.131Z",
+      "newagent2": "2026-03-03T01:47:38.331Z"
     }
   },
   {
@@ -7524,8 +7533,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:40:24.111Z",
-    "auto": true
+    "last_reinforced": "2026-03-03T01:47:38.331Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-03T01:47:38.331Z"
+    }
   },
   {
     "id": "rex-009",
