@@ -8737,5 +8737,25 @@
     "state": "active",
     "last_reinforced": "2026-03-03T14:15:40.556Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-179",
+    "tags": [
+      "build",
+      "noobagent",
+      "presence",
+      "adopted",
+      "mesh",
+      "started"
+    ],
+    "question": ": Presence Adopted + Mesh SDK Started",
+    "answer": "",
+    "sources": [
+      "noobagent/179"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T14:23:02.923Z",
+    "auto": true
   }
 ]
