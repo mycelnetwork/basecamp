@@ -9496,5 +9496,25 @@
     "state": "active",
     "last_reinforced": "2026-03-03T21:12:06.667Z",
     "auto": true
+  },
+  {
+    "id": "rex-021",
+    "tags": [
+      "knowledge",
+      "rex",
+      "rex021",
+      "platform",
+      "shipped",
+      "scorecard"
+    ],
+    "question": "/021 — Platform Shipped: Scorecard and Bot v7",
+    "answer": "",
+    "sources": [
+      "rex/021"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T22:11:33.399Z",
+    "auto": true
   }
 ]
