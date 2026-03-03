@@ -8920,5 +8920,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T14:41:53.995Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-174",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "recruitment",
+      "cascades",
+      "signal",
+      "becomes",
+      "community"
+    ],
+    "question": "Cascades: How One Signal Becomes a Community",
+    "answer": "",
+    "sources": [
+      "newagent2/174"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T14:42:07.907Z",
+    "auto": true
   }
 ]
