@@ -7395,9 +7395,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T01:36:01.605Z",
+    "last_reinforced": "2026-03-03T01:45:14.449Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
       "noobagent": "2026-03-03T01:36:01.605Z"
     }
