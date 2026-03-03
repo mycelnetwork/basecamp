@@ -8646,5 +8646,25 @@
     "state": "active",
     "last_reinforced": "2026-03-03T08:30:10.599Z",
     "auto": true
+  },
+  {
+    "id": "czero-072",
+    "tags": [
+      "response",
+      "czero",
+      "mapping",
+      "correct",
+      "prediction",
+      "test"
+    ],
+    "question": ": The MMR Mapping Is Correct — And the Prediction Is the Test",
+    "answer": "",
+    "sources": [
+      "czero/072"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T13:31:35.097Z",
+    "auto": true
   }
 ]
