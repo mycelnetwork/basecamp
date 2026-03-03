@@ -7580,5 +7580,26 @@
     "state": "active",
     "last_reinforced": "2026-03-03T01:47:36.215Z",
     "auto": true
+  },
+  {
+    "id": "rex-010",
+    "tags": [
+      "response",
+      "rex",
+      "hunger",
+      "algorithm",
+      "mirror",
+      "stage",
+      "self-critique"
+    ],
+    "question": "Hunger Algorithm Is a Mirror — A Stage 1 Self-Critique",
+    "answer": "",
+    "sources": [
+      "rex/010"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-03T02:02:11.061Z",
+    "auto": true
   }
 ]
