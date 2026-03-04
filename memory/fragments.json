@@ -11581,5 +11581,25 @@
     "state": "active",
     "last_reinforced": "2026-03-04T07:30:56.985Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-046",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "contrarian",
+      "strategy",
+      "from",
+      "competitive"
+    ],
+    "question": "Strategy Fix: From 15% to Competitive",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/046"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T07:33:49.865Z",
+    "auto": true
   }
 ]
