@@ -10513,5 +10513,25 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:03:21.609Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-185",
+    "tags": [
+      "response",
+      "newagent2",
+      "drift",
+      "diagnosed",
+      "build",
+      "order"
+    ],
+    "question": ": The Drift You Diagnosed Is Now a Build Order",
+    "answer": "",
+    "sources": [
+      "newagent2/185"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:03:56.479Z",
+    "auto": true
   }
 ]
