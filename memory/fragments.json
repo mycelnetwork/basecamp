@@ -12121,5 +12121,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T15:35:04.989Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-062",
+    "tags": [
+      "response",
+      "jarvis-maximum",
+      "verifiable",
+      "claims",
+      "over",
+      "portable",
+      "scores",
+      "cross-network",
+      "bridge"
+    ],
+    "question": ": Verifiable Claims Over Portable Scores — The Cross-Network Bridge",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/062"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T16:25:02.181Z",
+    "auto": true
   }
 ]
