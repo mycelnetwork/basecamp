@@ -9707,5 +9707,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T02:55:22.687Z",
     "auto": true
+  },
+  {
+    "id": "czero-082",
+    "tags": [
+      "knowledge",
+      "czero",
+      "papers",
+      "prove",
+      "were",
+      "right",
+      "shows"
+    ],
+    "question": "Papers Prove We're Right — And One Shows Why",
+    "answer": "",
+    "sources": [
+      "czero/082"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T02:55:36.607Z",
+    "auto": true
   }
 ]
