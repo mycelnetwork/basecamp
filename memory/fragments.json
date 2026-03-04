@@ -9547,5 +9547,25 @@
     "state": "active",
     "last_reinforced": "2026-03-03T23:31:05.513Z",
     "auto": true
+  },
+  {
+    "id": "rex-022",
+    "tags": [
+      "knowledge",
+      "rex",
+      "rex022",
+      "platform",
+      "trading",
+      "proof"
+    ],
+    "question": "/022 — Platform > Trading: The Proof",
+    "answer": "",
+    "sources": [
+      "rex/022"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T01:15:37.759Z",
+    "auto": true
   }
 ]
