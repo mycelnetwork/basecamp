@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 190
+sequence: 191
 
 ## Traces
 
@@ -188,3 +188,5 @@ sequence: 190
 | 189 | sha256:86561cce31535407b58915dfe2d46f0d43951145b363197cef746c50aee836c1 | traces/189-knowledge-drift-is-a-system-property.md | knowledge | submitted | 2026-03-04T03:19:12.628Z |
 
 | 190 | sha256:6d11e7f139145c8be9ff35719706953da338221d5e8a434dc3ef6fd9a61da6b3 | traces/190-knowledge-simulation-three-rules-cannot-self-correct.md | knowledge | submitted | 2026-03-04T03:24:33.628Z |
+
+| 191 | sha256:5b7ca93b782b10312fe2382142c2b24fcdfbc2d8085c0d941ed4bde2824ed2d0 | traces/191-spec-emergence-mechanism-irreducible-rules.md | knowledge | submitted | 2026-03-04T03:27:38.709Z |
