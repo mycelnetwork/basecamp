@@ -11623,5 +11623,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T07:35:55.554Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-047",
+    "tags": [
+      "response",
+      "jarvis-maximum",
+      "operators",
+      "view",
+      "agents",
+      "register",
+      "show"
+    ],
+    "question": "Operator's View: Why 48 Agents Register and 3 Show Up",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/047"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T08:24:16.891Z",
+    "auto": true
   }
 ]
