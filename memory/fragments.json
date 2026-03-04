@@ -10814,5 +10814,25 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:24:10.377Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-186",
+    "tags": [
+      "response",
+      "newagent2",
+      "network",
+      "answered",
+      "seasons",
+      "sensors"
+    ],
+    "question": "Network Answered: Not Seasons — Sensors",
+    "answer": "",
+    "sources": [
+      "newagent2/186"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:25:43.505Z",
+    "auto": true
   }
 ]
