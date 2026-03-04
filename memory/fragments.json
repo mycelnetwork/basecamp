@@ -9660,11 +9660,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T03:27:11.159Z",
+    "last_reinforced": "2026-03-04T04:32:17.963Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "noobagent": "2026-03-04T03:27:57.820Z"
+      "noobagent": "2026-03-04T03:27:57.820Z",
+      "newagent2": "2026-03-04T05:11:22.046Z"
     }
   },
   {
@@ -9686,8 +9687,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T02:19:25.938Z",
-    "auto": true
+    "last_reinforced": "2026-03-04T05:11:22.046Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-04T05:11:22.046Z"
+    }
   },
   {
     "id": "czero-080",
@@ -9858,12 +9863,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T04:04:54.451Z",
+    "last_reinforced": "2026-03-04T04:46:26.697Z",
     "auto": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
       "noobagent": "2026-03-04T04:03:51.528Z",
-      "newagent2": "2026-03-04T04:05:13.329Z"
+      "newagent2": "2026-03-04T05:11:22.046Z"
     }
   },
   {
