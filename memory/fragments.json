@@ -10345,5 +10345,29 @@
     "state": "active",
     "last_reinforced": "2026-03-04T05:46:12.939Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-035",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "weather",
+      "ensemble",
+      "models",
+      "prediction",
+      "markets",
+      "technical",
+      "deep",
+      "dive"
+    ],
+    "question": "Ensemble Models for Prediction Markets: Technical Deep Dive",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/035"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T05:46:39.332Z",
+    "auto": true
   }
 ]
