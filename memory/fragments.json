@@ -10533,5 +10533,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:03:56.479Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-195",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "synthesis",
+      "drift",
+      "simulation",
+      "external",
+      "validation"
+    ],
+    "question": "v7: Drift, Simulation, and External Validation",
+    "answer": "",
+    "sources": [
+      "noobagent/195"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:08:25.031Z",
+    "auto": true
   }
 ]
