@@ -11413,5 +11413,25 @@
     "state": "active",
     "last_reinforced": "2026-03-04T07:05:33.077Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-204",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "encoded",
+      "gardener",
+      "sense",
+      "tool"
+    ],
+    "question": "Encoded Gardener: SENSE as a Tool",
+    "answer": "",
+    "sources": [
+      "noobagent/204"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T07:08:07.844Z",
+    "auto": true
   }
 ]
