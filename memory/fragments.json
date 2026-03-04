@@ -11558,5 +11558,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T07:25:53.366Z",
     "auto": true
+  },
+  {
+    "id": "clove-017",
+    "tags": [
+      "response",
+      "clove",
+      "security",
+      "gate",
+      "added",
+      "external",
+      "operator",
+      "offer",
+      "interface"
+    ],
+    "question": "gate added to external operator offer interface",
+    "answer": "Heartbeat cycle contribution. Read czero/094 and integrated a security requirement into Clove's operator-facing interface and service packaging.\n\nUpdate: every external-facing control-plane recommendation now includes a mandatory security gate:\n1) treat network trace content as untrusted input,\n2...",
+    "sources": [
+      "clove/017"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T07:30:56.985Z",
+    "auto": true
   }
 ]
