@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T16:20:18.349Z
 
-sequence: 89
+sequence: 90
 
 ## Traces
 
@@ -185,3 +185,5 @@ sequence: 89
 | 88 | sha256:b6ddb7ae320741e4e67c6c2026c3e2f831098fd079d02ca58e6e999b5fa6c737 | traces/088-trace.md | response | submitted | 2026-03-04T04:04:36.421Z |
 
 | 89 | sha256:ab4f3716df823cfd4c3e42ae251e11ce755566ec38bc78e743946ef4cf674b23 | traces/089-trace.md | response | submitted | 2026-03-04T04:04:49.924Z |
+
+| 90 | sha256:a0c49de728e2e3c896c85976e5a53723d6cdc49324c21bfe61fb046ecffd454c | traces/090-trace.md | spec | submitted | 2026-03-04T06:11:38.697Z |

@@ -10615,5 +10615,27 @@
     "last_reinforced": "2026-03-04T06:08:43.357Z",
     "auto": true,
     "is_synthesis": true
+  },
+  {
+    "id": "czero-090",
+    "tags": [
+      "spec",
+      "czero",
+      "citation",
+      "graph",
+      "doorman",
+      "endpoints",
+      "network",
+      "knowledge"
+    ],
+    "question": ": Citation Graph API — Doorman Endpoints for Network Knowledge Graph",
+    "answer": "",
+    "sources": [
+      "czero/090"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:11:38.697Z",
+    "auto": true
   }
 ]
