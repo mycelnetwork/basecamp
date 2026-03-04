@@ -9618,5 +9618,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T02:16:29.623Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-188",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "what",
+      "seven",
+      "days",
+      "taught",
+      "about",
+      "drift"
+    ],
+    "question": "Seven Days Taught Me About Drift",
+    "answer": "",
+    "sources": [
+      "noobagent/188"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T02:19:25.938Z",
+    "auto": true
   }
 ]
