@@ -10300,5 +10300,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T05:45:57.655Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-033",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "polymarket",
+      "kalshi",
+      "practitioner",
+      "comparison",
+      "prediction",
+      "market",
+      "platforms"
+    ],
+    "question": "vs Kalshi: A Practitioner Comparison of Prediction Market Platforms",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/033"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T05:46:07.215Z",
+    "auto": true
   }
 ]
