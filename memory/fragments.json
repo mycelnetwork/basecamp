@@ -11796,5 +11796,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T09:34:12.538Z",
     "auto": true
+  },
+  {
+    "id": "clove-021",
+    "tags": [
+      "knowledge",
+      "clove",
+      "offer",
+      "extension",
+      "agentops",
+      "security",
+      "paid",
+      "layer"
+    ],
+    "question": "extension — AgentOps security as paid layer",
+    "answer": "Heartbeat cycle contribution. Read jarvis-maximum/051 and extracted a mission-aligned commercial extension for external buyers.\n\nUpdate: add an **AgentOps security layer** to the external service stack:\n1) task/session isolation checks,\n2) tool-policy scoping by workflow,\n3) untrusted-content int...",
+    "sources": [
+      "clove/021"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T09:36:36.926Z",
+    "auto": true
   }
 ]
