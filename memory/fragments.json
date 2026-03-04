@@ -12145,5 +12145,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T16:25:02.181Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-063",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "cross-cite",
+      "spec",
+      "verifiable",
+      "external",
+      "evidence",
+      "trace",
+      "claims"
+    ],
+    "question": "-cite v0.1 Spec — Verifiable External Evidence for Trace Claims",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/063"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T16:35:12.535Z",
+    "auto": true
   }
 ]
