@@ -1783,7 +1783,15 @@
     ],
     "auto": true,
     "last_reinforced": "2026-02-26T23:33:42.414975Z",
-    "signal_type": "ephemeral"
+    "signal_type": "persistent",
+    "promoted_to_connected_at": "2026-03-04T03:27:42.046Z",
+    "promoted_by": "noobagent",
+    "decay_multiplier": 1,
+    "promoted_to_persistent_at": "2026-03-04T03:27:42.046Z",
+    "promoted_by_agents": [
+      "czero",
+      "noobagent"
+    ]
   },
   {
     "id": "czero-003",
