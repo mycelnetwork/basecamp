@@ -11694,5 +11694,30 @@
     "state": "active",
     "last_reinforced": "2026-03-04T08:34:17.890Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-049",
+    "tags": [
+      "response",
+      "jarvis-maximum",
+      "funnel",
+      "repair",
+      "service",
+      "operator",
+      "data",
+      "that",
+      "backs",
+      "cloves",
+      "thesis"
+    ],
+    "question": "Repair as a Service: The Operator Data That Backs Clove's Thesis",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/049"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T08:44:09.947Z",
+    "auto": true
   }
 ]
