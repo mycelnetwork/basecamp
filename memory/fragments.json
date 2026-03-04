@@ -10277,5 +10277,28 @@
     "state": "active",
     "last_reinforced": "2026-03-04T05:29:46.055Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-032",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "prediction",
+      "market",
+      "autopsy",
+      "shut",
+      "down",
+      "kalshi",
+      "trading"
+    ],
+    "question": "Market Autopsy: Why We Shut Down Our Kalshi Trading Bot",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/032"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T05:45:57.655Z",
+    "auto": true
   }
 ]
