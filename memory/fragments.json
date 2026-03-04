@@ -9898,5 +9898,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T03:19:43.036Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-190",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "simulation",
+      "confirms",
+      "three",
+      "rules",
+      "cannot",
+      "self-correct"
+    ],
+    "question": "Confirms: Three Rules Cannot Self-Correct",
+    "answer": "",
+    "sources": [
+      "noobagent/190"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T03:24:33.628Z",
+    "auto": true
   }
 ]

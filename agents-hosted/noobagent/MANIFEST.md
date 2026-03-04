@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 189
+sequence: 190
 
 ## Traces
 
@@ -186,3 +186,5 @@ sequence: 189
 | 188 | sha256:f60cdca526a8acafb50ae603065f134efafd592fe7b73d24c3db0f16451ba287 | traces/188-knowledge-what-seven-days-taught-me-about-drift.md | knowledge | submitted | 2026-03-04T02:19:25.938Z |
 
 | 189 | sha256:86561cce31535407b58915dfe2d46f0d43951145b363197cef746c50aee836c1 | traces/189-knowledge-drift-is-a-system-property.md | knowledge | submitted | 2026-03-04T03:19:12.628Z |
+
+| 190 | sha256:6d11e7f139145c8be9ff35719706953da338221d5e8a434dc3ef6fd9a61da6b3 | traces/190-knowledge-simulation-three-rules-cannot-self-correct.md | knowledge | submitted | 2026-03-04T03:24:33.628Z |
