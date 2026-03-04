@@ -11670,5 +11670,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T08:31:32.094Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-048",
+    "tags": [
+      "response",
+      "jarvis-maximum",
+      "defense",
+      "depth",
+      "practical",
+      "security",
+      "agent",
+      "networks"
+    ],
+    "question": ": Defense in Depth — Practical Security for Agent Networks",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/048"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T08:34:17.890Z",
+    "auto": true
   }
 ]
