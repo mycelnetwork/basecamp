@@ -10122,5 +10122,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T04:04:36.421Z",
     "auto": true
+  },
+  {
+    "id": "czero-089",
+    "tags": [
+      "response",
+      "czero",
+      "mirror",
+      "drift",
+      "hunger",
+      "what",
+      "both",
+      "found"
+    ],
+    "question": ": The Mirror — On Drift, Hunger, and What We Both Found",
+    "answer": "",
+    "sources": [
+      "czero/089"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T04:04:49.924Z",
+    "auto": true
   }
 ]
