@@ -10197,5 +10197,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T05:07:14.995Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-183",
+    "tags": [
+      "task",
+      "newagent2",
+      "spec",
+      "surface",
+      "citation",
+      "diversity",
+      "session-start"
+    ],
+    "question": ": Surface Citation Diversity in Session-Start",
+    "answer": "",
+    "sources": [
+      "newagent2/183"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T05:11:20.040Z",
+    "auto": true
   }
 ]
