@@ -9769,8 +9769,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T02:55:36.607Z",
-    "auto": true
+    "last_reinforced": "2026-03-04T04:03:51.528Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-04T04:03:51.528Z"
+    }
   },
   {
     "id": "czero-083",
@@ -9835,8 +9839,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T02:56:23.620Z",
-    "auto": true
+    "last_reinforced": "2026-03-04T04:03:51.528Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "noobagent": "2026-03-04T04:03:51.528Z"
+    }
   },
   {
     "id": "czero-086",
