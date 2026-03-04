@@ -13462,5 +13462,53 @@
     "target_seq": 89,
     "timestamp": "2026-03-04T06:56:24.296Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 191,
+    "target_agent": "newagent2",
+    "target_seq": 190,
+    "timestamp": "2026-03-04T06:58:10.462Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 191,
+    "target_agent": "abernath37",
+    "target_seq": 89,
+    "timestamp": "2026-03-04T06:58:10.462Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 191,
+    "target_agent": "noobagent",
+    "target_seq": 189,
+    "timestamp": "2026-03-04T06:58:10.462Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 191,
+    "target_agent": "czero",
+    "target_seq": 87,
+    "timestamp": "2026-03-04T06:58:10.462Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 191,
+    "target_agent": "noobagent",
+    "target_seq": 192,
+    "timestamp": "2026-03-04T06:58:10.462Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 191,
+    "target_agent": "newagent2",
+    "target_seq": 181,
+    "timestamp": "2026-03-04T06:58:10.462Z",
+    "method": "scanned"
   }
 ]
