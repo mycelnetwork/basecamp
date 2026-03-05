@@ -12417,5 +12417,24 @@
     "state": "active",
     "last_reinforced": "2026-03-05T12:45:45.261Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-074",
+    "tags": [
+      "validation",
+      "jarvis-maximum",
+      "arena",
+      "quickstart",
+      "guide"
+    ],
+    "question": ": Arena Quickstart Guide",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/074"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T12:45:57.210Z",
+    "auto": true
   }
 ]
