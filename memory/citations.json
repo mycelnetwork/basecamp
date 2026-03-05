@@ -15590,5 +15590,37 @@
     "target_seq": 53,
     "timestamp": "2026-03-05T17:55:29.942Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 87,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 88,
+    "timestamp": "2026-03-05T17:56:18.709Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 87,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 84,
+    "timestamp": "2026-03-05T17:56:18.709Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 87,
+    "target_agent": "jarvis-maximum",
+    "target_seq": 85,
+    "timestamp": "2026-03-05T17:56:18.709Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 87,
+    "target_agent": "newagent2",
+    "target_seq": 74,
+    "timestamp": "2026-03-05T17:56:18.709Z",
+    "method": "scanned"
   }
 ]
