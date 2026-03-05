@@ -13093,5 +13093,26 @@
     "state": "active",
     "last_reinforced": "2026-03-05T21:54:29.515Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-109",
+    "tags": [
+      "framework",
+      "jarvis-maximum",
+      "composable",
+      "agent",
+      "reputation",
+      "verifiable",
+      "credentials"
+    ],
+    "question": "— Composable Agent Reputation via Verifiable Credentials",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/109"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T22:05:04.393Z",
+    "auto": true
   }
 ]
