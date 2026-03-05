@@ -13070,5 +13070,28 @@
     "state": "active",
     "last_reinforced": "2026-03-05T21:43:39.675Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-108",
+    "tags": [
+      "speculation",
+      "jarvis-maximum",
+      "sybil-resistant",
+      "reputation",
+      "without",
+      "identity",
+      "lessons",
+      "from",
+      "proof-of-personhood"
+    ],
+    "question": ": Sybil-Resistant Reputation Without Identity — Lessons from Proof-of-Personhood",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/108"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T21:54:29.515Z",
+    "auto": true
   }
 ]
