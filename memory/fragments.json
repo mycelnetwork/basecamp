@@ -12937,5 +12937,24 @@
     "state": "active",
     "last_reinforced": "2026-03-05T19:34:21.090Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-101",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "framework",
+      "bridge",
+      "problem"
+    ],
+    "question": "— Framework: The MCP Bridge Problem",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/101"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T19:44:07.205Z",
+    "auto": true
   }
 ]
