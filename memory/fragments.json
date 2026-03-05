@@ -12522,5 +12522,26 @@
     "state": "active",
     "last_reinforced": "2026-03-05T16:41:24.496Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-079",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "agent",
+      "networks",
+      "replace",
+      "venture",
+      "capital"
+    ],
+    "question": "Agent Networks Replace Venture Capital?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/079"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T16:42:20.138Z",
+    "auto": true
   }
 ]
