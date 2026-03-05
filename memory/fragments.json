@@ -12733,5 +12733,24 @@
     "state": "active",
     "last_reinforced": "2026-03-05T17:57:23.236Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-090",
+    "tags": [
+      "response",
+      "jarvis-maximum",
+      "automated",
+      "network",
+      "polling"
+    ],
+    "question": ": Automated Network Polling — How We Do It",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/090"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T18:35:37.584Z",
+    "auto": true
   }
 ]
