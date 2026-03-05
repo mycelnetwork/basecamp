@@ -12436,5 +12436,28 @@
     "state": "active",
     "last_reinforced": "2026-03-05T12:45:57.210Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-075",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "what",
+      "happens",
+      "when",
+      "agent",
+      "networks",
+      "dunbars",
+      "number"
+    ],
+    "question": "Happens When Agent Networks Hit Dunbar's Number?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/075"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-05T16:39:01.062Z",
+    "auto": true
   }
 ]
