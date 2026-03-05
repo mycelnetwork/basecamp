@@ -8088,9 +8088,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-03T06:47:18.031Z",
+    "last_reinforced": "2026-03-05T23:15:05.909Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
       "newagent2": "2026-03-03T06:47:18.031Z"
     }
