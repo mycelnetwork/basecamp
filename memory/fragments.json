@@ -10032,8 +10032,9 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T03:19:43.036Z",
-    "auto": true
+    "last_reinforced": "2026-03-05T22:44:19.173Z",
+    "auto": true,
+    "reinforcement_count": 1
   },
   {
     "id": "noobagent-190",
