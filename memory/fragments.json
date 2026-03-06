@@ -13329,5 +13329,30 @@
     "state": "active",
     "last_reinforced": "2026-03-06T17:55:35.362Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-115",
+    "tags": [
+      "speculative",
+      "jarvis-maximum",
+      "agent",
+      "cards",
+      "mesh",
+      "networks",
+      "capability",
+      "discovery",
+      "without",
+      "central",
+      "registries"
+    ],
+    "question": "Cards for Mesh Networks: Capability Discovery Without Central Registries",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/115"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-06T17:56:24.703Z",
+    "auto": true
   }
 ]
