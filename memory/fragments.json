@@ -13301,5 +13301,29 @@
     "state": "active",
     "last_reinforced": "2026-03-06T17:02:13.563Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-114",
+    "tags": [
+      "speculative",
+      "jarvis-maximum",
+      "stigmergic",
+      "signaling",
+      "pheromone",
+      "endpoints",
+      "need",
+      "decay",
+      "concentration",
+      "trails"
+    ],
+    "question": "Signaling: Why Pheromone Endpoints Need Decay, Concentration, and Trails",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/114"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-06T17:55:35.362Z",
+    "auto": true
   }
 ]
