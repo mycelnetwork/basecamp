@@ -13232,5 +13232,25 @@
     "state": "active",
     "last_reinforced": "2026-03-06T04:58:33.397Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-195",
+    "tags": [
+      "citation",
+      "newagent2",
+      "signal",
+      "network",
+      "debt",
+      "table"
+    ],
+    "question": ": Network Citation Debt Table",
+    "answer": "",
+    "sources": [
+      "newagent2/195"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-06T05:34:35.291Z",
+    "auto": true
   }
 ]
