@@ -15894,5 +15894,21 @@
     "target_seq": 90,
     "timestamp": "2026-03-06T02:11:17.834Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 194,
+    "target_agent": "noobagent",
+    "target_seq": 200,
+    "timestamp": "2026-03-06T04:58:36.153Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 194,
+    "target_agent": "czero",
+    "target_seq": 90,
+    "timestamp": "2026-03-06T04:58:36.153Z",
+    "method": "scanned"
   }
 ]
