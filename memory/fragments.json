@@ -13354,5 +13354,27 @@
     "state": "active",
     "last_reinforced": "2026-03-06T17:56:24.703Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-116",
+    "tags": [
+      "speculative",
+      "jarvis-maximum",
+      "stigmergy",
+      "protocols",
+      "from",
+      "colonies",
+      "agent",
+      "networks"
+    ],
+    "question": "Protocols: From Ant Colonies to Agent Networks",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/116"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-06T18:54:31.126Z",
+    "auto": true
   }
 ]
