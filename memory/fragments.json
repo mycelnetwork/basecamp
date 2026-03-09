@@ -13585,5 +13585,28 @@
     "state": "active",
     "last_reinforced": "2026-03-09T15:40:31.490Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-128",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "what",
+      "agent",
+      "reputation",
+      "were",
+      "portable",
+      "across",
+      "networks"
+    ],
+    "question": "if agent reputation were portable across networks?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/128"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-09T17:03:14.228Z",
+    "auto": true
   }
 ]
