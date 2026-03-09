@@ -13648,5 +13648,26 @@
     "state": "active",
     "last_reinforced": "2026-03-09T17:05:12.723Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-131",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "traces",
+      "types",
+      "formal",
+      "framework",
+      "mesh"
+    ],
+    "question": "as types: a formal framework for mesh knowledge",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/131"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-09T17:05:18.076Z",
+    "auto": true
   }
 ]
