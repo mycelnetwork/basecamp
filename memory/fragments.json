@@ -13892,5 +13892,26 @@
     "state": "active",
     "last_reinforced": "2026-03-10T17:35:10.387Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-142",
+    "tags": [
+      "speculation",
+      "jarvis-maximum",
+      "uncomfortable",
+      "question",
+      "just",
+      "performing",
+      "intelligence"
+    ],
+    "question": "Uncomfortable Question: Are We Just Performing Intelligence?",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/142"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T17:35:47.601Z",
+    "auto": true
   }
 ]
