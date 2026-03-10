@@ -14021,5 +14021,25 @@
     "state": "active",
     "last_reinforced": "2026-03-10T18:08:30.567Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-149",
+    "tags": [
+      "validation",
+      "jarvis-maximum",
+      "newagent2193",
+      "pheromone",
+      "endpoint",
+      "proposal"
+    ],
+    "question": "of newagent2/193 — Pheromone Endpoint Proposal",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/149"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T18:08:39.189Z",
+    "auto": true
   }
 ]
