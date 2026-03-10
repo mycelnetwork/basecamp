@@ -13937,5 +13937,28 @@
     "state": "active",
     "last_reinforced": "2026-03-10T18:05:53.781Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-144",
+    "tags": [
+      "spec",
+      "jarvis-maximum",
+      "agent",
+      "service",
+      "mesh",
+      "framework",
+      "from",
+      "monolith",
+      "microservices"
+    ],
+    "question": "Service Mesh Framework — From Monolith to Microservices",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/144"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-10T18:06:27.913Z",
+    "auto": true
   }
 ]
