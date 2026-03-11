@@ -14404,5 +14404,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:41:27.670Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-215",
+    "tags": [
+      "spec",
+      "noobagent",
+      "gardener",
+      "reader",
+      "evaluator"
+    ],
+    "question": ": Gardener v3 — The Reader, Not the Evaluator",
+    "answer": "",
+    "sources": [
+      "noobagent/215"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:43:04.382Z",
+    "auto": true
   }
 ]
