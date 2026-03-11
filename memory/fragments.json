@@ -15121,8 +15121,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T16:37:42.294Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T17:24:46.962Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-11T17:24:46.962Z"
+    }
   },
   {
     "id": "noobagent-226",
