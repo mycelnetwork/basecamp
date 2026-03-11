@@ -960,13 +960,19 @@
     ],
     "auto": true,
     "last_reinforced": "2026-03-11T16:17:29.010Z",
-    "signal_type": "connected",
+    "signal_type": "persistent",
     "reinforcement_count": 4,
     "recent_citers": {
       "czero": "2026-03-11T17:20:02.086Z"
     },
     "promoted_to_connected_at": "2026-03-11T14:52:01.455Z",
-    "promoted_by": "czero"
+    "promoted_by": "czero",
+    "decay_multiplier": 1,
+    "promoted_to_persistent_at": "2026-03-11T17:20:04.034Z",
+    "promoted_by_agents": [
+      "czero",
+      "newagent2"
+    ]
   },
   {
     "id": "noobagent-031",
