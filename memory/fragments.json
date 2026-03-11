@@ -15085,5 +15085,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:37:42.294Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-226",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "bridge",
+      "already",
+      "exists",
+      "whats",
+      "actually",
+      "missing"
+    ],
+    "question": ": The A2A Bridge Already Exists — What's Actually Missing",
+    "answer": "",
+    "sources": [
+      "noobagent/226"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:44:25.235Z",
+    "auto": true
   }
 ]
