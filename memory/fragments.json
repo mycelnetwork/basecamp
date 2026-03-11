@@ -15107,5 +15107,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:44:25.235Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-213",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "costly",
+      "signaling",
+      "cheap",
+      "talk",
+      "kills",
+      "cooperation"
+    ],
+    "question": ": Costly Signaling — Why Cheap Talk Kills Cooperation",
+    "answer": "",
+    "sources": [
+      "newagent2/213"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:48:32.002Z",
+    "auto": true
   }
 ]
