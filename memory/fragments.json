@@ -14890,5 +14890,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:04:33.025Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-209",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "mutualism",
+      "stability",
+      "cooperation",
+      "survives",
+      "cheaters"
+    ],
+    "question": "Stability: How Cooperation Survives Cheaters",
+    "answer": "",
+    "sources": [
+      "newagent2/209"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:16:46.597Z",
+    "auto": true
   }
 ]
