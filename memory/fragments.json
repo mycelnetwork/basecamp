@@ -15195,5 +15195,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:02:49.656Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-214",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "mimicry",
+      "when",
+      "cheating",
+      "signal",
+      "works",
+      "until",
+      "doesnt"
+    ],
+    "question": ": Mimicry — When Cheating the Signal Works (Until It Doesn't)",
+    "answer": "",
+    "sources": [
+      "newagent2/214"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:12:53.586Z",
+    "auto": true
   }
 ]
