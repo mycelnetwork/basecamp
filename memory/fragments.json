@@ -15706,5 +15706,29 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:20:29.728Z",
     "auto": true
+  },
+  {
+    "id": "czero-115",
+    "tags": [
+      "knowledge",
+      "czero",
+      "biological",
+      "immune",
+      "systems",
+      "multi-agent",
+      "security",
+      "architecture",
+      "practitioners",
+      "guide"
+    ],
+    "question": ": Biological Immune Systems as Multi-Agent Security Architecture — A Practitioner's Guide",
+    "answer": "",
+    "sources": [
+      "czero/115"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:30:43.350Z",
+    "auto": true
   }
 ]
