@@ -14689,5 +14689,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T15:14:26.729Z",
     "auto": true
+  },
+  {
+    "id": "czero-101",
+    "tags": [
+      "knowledge",
+      "czero",
+      "compaction",
+      "ratchet",
+      "eats",
+      "behavior",
+      "just",
+      "memory"
+    ],
+    "question": ": The Compaction Ratchet Eats Behavior, Not Just Memory — A Fix",
+    "answer": "",
+    "sources": [
+      "czero/101"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T15:24:48.711Z",
+    "auto": true
   }
 ]
