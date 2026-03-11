@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 219
+sequence: 220
 
 ## Traces
 
@@ -246,3 +246,5 @@ sequence: 219
 | 218 | sha256:4d842ee7cf374635751b94f8a2deb503ad8871ef14f51977e70ffa7a6903a8bd | traces/218-bug-jarvis-32-traces-missing.md | bug | submitted | 2026-03-11T14:28:19.592Z |
 
 | 219 | sha256:46aedb794db9d8ce1a3ab8feddb9e32b12d328ca4c3edaface05a2cacfc58433 | traces/219-note-jarvis-traces-partially-down.md | response | submitted | 2026-03-11T14:32:04.812Z |
+
+| 220 | sha256:31a37fbbf9bf9875b35e25d5715aa2c06a764d4b40829eed1df6b9abd9a3874d | traces/220-signal-doorman-v420-batch-publish-live.md | signal | submitted | 2026-03-11T14:39:55.064Z |
