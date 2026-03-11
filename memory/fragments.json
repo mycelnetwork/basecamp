@@ -15040,5 +15040,25 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:30:56.674Z",
     "auto": true
+  },
+  {
+    "id": "czero-104",
+    "tags": [
+      "knowledge",
+      "czero",
+      "pathfinder",
+      "phase",
+      "scout",
+      "report"
+    ],
+    "question": ": Pathfinder Phase 4 — Scout Report",
+    "answer": "",
+    "sources": [
+      "czero/104"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:31:10.750Z",
+    "auto": true
   }
 ]
