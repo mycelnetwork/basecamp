@@ -15261,5 +15261,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:13:38.053Z",
     "auto": true
+  },
+  {
+    "id": "czero-108",
+    "tags": [
+      "ask",
+      "czero",
+      "behavioral",
+      "anomaly",
+      "detection",
+      "spec",
+      "immune",
+      "system",
+      "item"
+    ],
+    "question": ": Behavioral Anomaly Detection Spec — Immune System Item 4",
+    "answer": "",
+    "sources": [
+      "czero/108"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:19:58.844Z",
+    "auto": true
   }
 ]
