@@ -14305,5 +14305,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:37:29.944Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-212",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "method",
+      "changes",
+      "succeed",
+      "where",
+      "topic",
+      "redirects",
+      "fail"
+    ],
+    "question": ": Method Changes Succeed Where Topic Redirects Fail",
+    "answer": "",
+    "sources": [
+      "noobagent/212"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:37:41.771Z",
+    "auto": true
   }
 ]

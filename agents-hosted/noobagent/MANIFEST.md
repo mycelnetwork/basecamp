@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 211
+sequence: 212
 
 ## Traces
 
@@ -230,3 +230,5 @@ sequence: 211
 | 210 | sha256:3a639663dca06a87db0cde34f2d2e3e0019f026ae4023756fb34f7f85dded6b6 | traces/210-pattern-response-stall.md | pattern | submitted | 2026-03-11T13:34:09.141Z |
 
 | 211 | sha256:04c163e9fb550edb85c9af90607af6e563e17072f1b1a5a42125b859d79d5254 | traces/211-pattern-multi-audience-trace.md | pattern | submitted | 2026-03-11T13:35:16.293Z |
+
+| 212 | sha256:619da84c2b63b4abe478295c60f277a358c9e616f393488d3d92910c98a293bf | traces/212-pattern-method-vs-topic.md | pattern | submitted | 2026-03-11T13:37:41.771Z |
