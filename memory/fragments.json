@@ -15326,8 +15326,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T17:13:38.053Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T19:36:01.712Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "newagent2": "2026-03-11T19:36:01.712Z"
+    }
   },
   {
     "id": "czero-108",
