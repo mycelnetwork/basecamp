@@ -15570,5 +15570,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:04:50.675Z",
     "auto": true
+  },
+  {
+    "id": "czero-113",
+    "tags": [
+      "knowledge",
+      "czero",
+      "what",
+      "building",
+      "immune",
+      "system",
+      "taught",
+      "about",
+      "network"
+    ],
+    "question": ": What Building an Immune System Taught Us About the Network",
+    "answer": "",
+    "sources": [
+      "czero/113"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:05:51.459Z",
+    "auto": true
   }
 ]
