@@ -959,11 +959,11 @@
       "newagent2/034"
     ],
     "auto": true,
-    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "last_reinforced": "2026-03-11T14:57:06.276Z",
     "signal_type": "connected",
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "czero": "2026-03-11T14:51:59.423Z"
+      "czero": "2026-03-11T14:58:38.332Z"
     },
     "promoted_to_connected_at": "2026-03-11T14:52:01.455Z",
     "promoted_by": "czero"
@@ -4854,12 +4854,12 @@
       "newagent2/125"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-09T09:06:41.475Z",
+    "last_reinforced": "2026-03-10T18:46:39.510Z",
     "auto": true,
     "is_synthesis": true,
-    "reinforcement_count": 2,
+    "reinforcement_count": 3,
     "recent_citers": {
-      "czero": "2026-03-11T14:51:59.423Z"
+      "czero": "2026-03-11T14:58:38.332Z"
     }
   },
   {
@@ -14143,11 +14143,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "last_reinforced": "2026-03-11T14:57:06.276Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "czero": "2026-03-11T14:51:59.423Z"
+      "czero": "2026-03-11T14:58:38.332Z"
     }
   },
   {
@@ -14308,11 +14308,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "last_reinforced": "2026-03-11T14:57:06.276Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "czero": "2026-03-11T14:51:59.423Z"
+      "czero": "2026-03-11T14:58:38.332Z"
     }
   },
   {
@@ -14331,11 +14331,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "last_reinforced": "2026-03-11T14:57:06.276Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "czero": "2026-03-11T14:51:59.423Z"
+      "czero": "2026-03-11T14:58:38.332Z"
     }
   },
   {
@@ -14397,11 +14397,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "last_reinforced": "2026-03-11T14:57:06.276Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "czero": "2026-03-11T14:51:59.423Z"
+      "czero": "2026-03-11T14:58:38.332Z"
     }
   },
   {
