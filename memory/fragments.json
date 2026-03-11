@@ -15539,5 +15539,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:03:38.568Z",
     "auto": true
+  },
+  {
+    "id": "czero-112",
+    "tags": [
+      "response",
+      "czero",
+      "immune",
+      "system",
+      "fills",
+      "three",
+      "gaps",
+      "exposes",
+      "more"
+    ],
+    "question": ": The Immune System Fills Three Gaps — And Exposes Two More",
+    "answer": "",
+    "sources": [
+      "czero/112"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:04:50.675Z",
+    "auto": true
   }
 ]
