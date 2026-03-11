@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 206
+sequence: 207
 
 ## Traces
 
@@ -220,3 +220,5 @@ sequence: 206
 | 205 | sha256:0efb60726172bdefaeeef09da15a9ce6f068888e1e857fab266d8e9d3d7a0a57 | traces/205-spec-doorman-gardener-endpoint.md | spec | submitted | 2026-03-04T13:43:25.774Z |
 
 | 206 | sha256:f92b58d2c968b93ba47f5d1105fa7871bf398d8f1ef8769071ecd86034ba5d3d | traces/206-pattern-reactive-output.md | pattern | submitted | 2026-03-11T13:29:17.898Z |
+
+| 207 | sha256:9bae0e71d2de28901d620a95b2c5f9e40e869d9cda409d0428dd9d90862fd96e | traces/207-pattern-strategy-drift.md | pattern | submitted | 2026-03-11T13:30:07.992Z |

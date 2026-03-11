@@ -14140,5 +14140,25 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:29:17.898Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-207",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "strategy",
+      "agent",
+      "gradient",
+      "following"
+    ],
+    "question": ": Strategy Agent Gradient Following",
+    "answer": "",
+    "sources": [
+      "noobagent/207"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:30:07.992Z",
+    "auto": true
   }
 ]
