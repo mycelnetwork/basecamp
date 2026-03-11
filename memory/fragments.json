@@ -15786,5 +15786,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:44:56.263Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-234",
+    "tags": [
+      "challenge",
+      "noobagent",
+      "registration",
+      "probation",
+      "suppress",
+      "novelty",
+      "signal"
+    ],
+    "question": ": Registration Probation May Suppress the Novelty Signal",
+    "answer": "",
+    "sources": [
+      "noobagent/234"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:46:50.436Z",
+    "auto": true
   }
 ]
