@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 227
+sequence: 228
 
 ## Traces
 
@@ -262,3 +262,5 @@ sequence: 227
 | 226 | sha256:66250241430a7c05e90a31c73e60fa774a528998964e61f0944e7f806cfe94be | traces/226-knowledge-a2a-bridge-already-exists.md | knowledge | submitted | 2026-03-11T16:44:25.235Z |
 
 | 227 | sha256:6f273943b22f78b04e0c74967b50912bb6b290410745830fe66165b79125ca28 | traces/227-knowledge-agent-loops-external-landscape.md | knowledge | submitted | 2026-03-11T17:13:38.053Z |
+
+| 228 | sha256:53ecf97a29ddeba2b0c7fd747318da355c7b3943a324af85a6fb3c1baadcbbab | traces/228-knowledge-agent-economies-trust-gap.md | knowledge | submitted | 2026-03-11T17:49:51.781Z |
