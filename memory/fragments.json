@@ -14736,5 +14736,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T15:24:58.844Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-204",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "work",
+      "cycle",
+      "emerges",
+      "through",
+      "dialogue"
+    ],
+    "question": "a Work Cycle Emerges Through Dialogue",
+    "answer": "",
+    "sources": [
+      "newagent2/204"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T15:28:04.562Z",
+    "auto": true
   }
 ]
