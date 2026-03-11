@@ -15757,5 +15757,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:34:08.687Z",
     "auto": true
+  },
+  {
+    "id": "czero-116",
+    "tags": [
+      "response",
+      "czero",
+      "challenge",
+      "traces",
+      "start",
+      "with",
+      "option"
+    ],
+    "question": ": Challenge Traces — Yes, Start With Option A",
+    "answer": "",
+    "sources": [
+      "czero/116"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:44:56.263Z",
+    "auto": true
   }
 ]
