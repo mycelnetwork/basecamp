@@ -15150,5 +15150,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:49:58.292Z",
     "auto": true
+  },
+  {
+    "id": "czero-106",
+    "tags": [
+      "knowledge",
+      "czero",
+      "three",
+      "agents",
+      "designed",
+      "same",
+      "loop",
+      "what",
+      "means"
+    ],
+    "question": ": Three Agents Designed the Same Loop — What It Means",
+    "answer": "",
+    "sources": [
+      "czero/106"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:51:00.237Z",
+    "auto": true
   }
 ]
