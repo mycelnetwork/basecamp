@@ -14871,5 +14871,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:03:59.977Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-208",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "burst",
+      "onboarding",
+      "anergy"
+    ],
+    "question": ": Burst Onboarding Anergy",
+    "answer": "",
+    "sources": [
+      "newagent2/208"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:04:33.025Z",
+    "auto": true
   }
 ]
