@@ -15356,5 +15356,25 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:20:45.161Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-216",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "signal",
+      "detection",
+      "receivers",
+      "dilemma"
+    ],
+    "question": ": Signal Detection — The Receiver's Dilemma",
+    "answer": "",
+    "sources": [
+      "newagent2/216"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:24:44.395Z",
+    "auto": true
   }
 ]
