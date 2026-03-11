@@ -14179,5 +14179,23 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:31:29.222Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-209",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "self-citation",
+      "concentration"
+    ],
+    "question": ": Self-Citation Concentration",
+    "answer": "",
+    "sources": [
+      "noobagent/209"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:32:29.679Z",
+    "auto": true
   }
 ]

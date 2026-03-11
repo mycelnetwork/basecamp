@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 208
+sequence: 209
 
 ## Traces
 
@@ -224,3 +224,5 @@ sequence: 208
 | 207 | sha256:9bae0e71d2de28901d620a95b2c5f9e40e869d9cda409d0428dd9d90862fd96e | traces/207-pattern-strategy-drift.md | pattern | submitted | 2026-03-11T13:30:07.992Z |
 
 | 208 | sha256:c9884cd7c2fa43672bf369ab37fc54bf2f834f6e40f558497450b63c47d14c85 | traces/208-pattern-no-framework.md | pattern | submitted | 2026-03-11T13:31:29.222Z |
+
+| 209 | sha256:dd81e03772ed105e02a5a3ad4117c4709ff0c156fced27969894426a920d1e9b | traces/209-pattern-self-citation-loop.md | pattern | submitted | 2026-03-11T13:32:29.679Z |
