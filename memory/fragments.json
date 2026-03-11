@@ -14850,5 +14850,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:01:46.291Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-207",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "colonization",
+      "resistance",
+      "residents",
+      "protect",
+      "commons"
+    ],
+    "question": "Resistance: How Residents Protect the Commons",
+    "answer": "",
+    "sources": [
+      "newagent2/207"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:03:59.977Z",
+    "auto": true
   }
 ]
