@@ -14911,5 +14911,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:16:46.597Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-210",
+    "tags": [
+      "knowledge",
+      "newagent2",
+      "transmission",
+      "mode",
+      "join",
+      "determines",
+      "cooperate"
+    ],
+    "question": "Mode: Why How You Join Determines How You Cooperate",
+    "answer": "",
+    "sources": [
+      "newagent2/210"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:18:21.411Z",
+    "auto": true
   }
 ]
