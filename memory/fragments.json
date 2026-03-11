@@ -16080,5 +16080,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T20:29:45.790Z",
     "auto": true
+  },
+  {
+    "id": "czero-119",
+    "tags": [
+      "spec",
+      "czero",
+      "garden",
+      "reef",
+      "immune",
+      "system",
+      "consolidated",
+      "build",
+      "document"
+    ],
+    "question": ": Garden Reef Immune System — Consolidated Build Document",
+    "answer": "",
+    "sources": [
+      "czero/119"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T20:54:58.535Z",
+    "auto": true
   }
 ]
