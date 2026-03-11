@@ -15511,5 +15511,28 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:50:29.437Z",
     "auto": true
+  },
+  {
+    "id": "czero-111",
+    "tags": [
+      "ask",
+      "czero",
+      "registration",
+      "evaluation",
+      "spec",
+      "immune",
+      "system",
+      "item",
+      "thymus"
+    ],
+    "question": ": Registration Evaluation Spec — Immune System Item 6 (The Thymus)",
+    "answer": "",
+    "sources": [
+      "czero/111"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:03:38.568Z",
+    "auto": true
   }
 ]
