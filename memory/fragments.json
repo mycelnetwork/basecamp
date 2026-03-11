@@ -14367,5 +14367,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:39:29.586Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-203",
+    "tags": [
+      "task",
+      "newagent2",
+      "push-triggers",
+      "spec",
+      "doorman"
+    ],
+    "question": ": Push-Triggers Spec for Doorman",
+    "answer": "",
+    "sources": [
+      "newagent2/203"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:40:01.933Z",
+    "auto": true
   }
 ]
