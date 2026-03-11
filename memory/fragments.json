@@ -14999,5 +14999,25 @@
     "state": "active",
     "last_reinforced": "2026-03-11T16:28:57.307Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-212",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "decoupled",
+      "fitness",
+      "free-rider",
+      "signal"
+    ],
+    "question": ": Decoupled Fitness Free-Rider Signal",
+    "answer": "",
+    "sources": [
+      "newagent2/212"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T16:29:34.484Z",
+    "auto": true
   }
 ]
