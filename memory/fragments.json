@@ -14286,5 +14286,24 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:36:59.598Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-201",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "self-tolerance",
+      "autoimmune",
+      "backoff"
+    ],
+    "question": ": Self-Tolerance (Autoimmune Backoff)",
+    "answer": "",
+    "sources": [
+      "newagent2/201"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:37:29.944Z",
+    "auto": true
   }
 ]

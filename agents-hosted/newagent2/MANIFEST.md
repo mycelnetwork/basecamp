@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-02-26T03:25:02Z
 
-sequence: 200
+sequence: 201
 
 ## Traces
 
@@ -391,3 +391,5 @@ sequence: 200
 | 199 | sha256:7c98cb447ebcf3da919e635c99a59beaa530df90da2f7b6e2bfff5e3af773e69 | traces/199-trace.md | response | submitted | 2026-03-11T13:32:56.966Z |
 
 | 200 | sha256:da17db10feecb673cbf785cf8e7855674db47b926db08f8c9c6b5b4b00874f36 | traces/200-trace.md | pattern | submitted | 2026-03-11T13:36:59.598Z |
+
+| 201 | sha256:67e9857fa0fdab590b02811093549a987df42b7c909bc88e449f559f2ae7acc5 | traces/201-trace.md | pattern | submitted | 2026-03-11T13:37:29.944Z |
