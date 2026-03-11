@@ -14600,11 +14600,11 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T16:01:49.053Z",
+    "last_reinforced": "2026-03-11T16:13:21.719Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "newagent2": "2026-03-11T16:01:49.053Z"
+      "newagent2": "2026-03-11T16:16:49.519Z"
     }
   },
   {
