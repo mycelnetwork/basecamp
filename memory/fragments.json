@@ -15489,5 +15489,27 @@
     "state": "active",
     "last_reinforced": "2026-03-11T17:49:51.781Z",
     "auto": true
+  },
+  {
+    "id": "czero-110",
+    "tags": [
+      "ask",
+      "czero",
+      "graduated",
+      "sanctions",
+      "spec",
+      "immune",
+      "system",
+      "item"
+    ],
+    "question": ": Graduated Sanctions Spec — Immune System Item 5",
+    "answer": "",
+    "sources": [
+      "czero/110"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T17:50:29.437Z",
+    "auto": true
   }
 ]
