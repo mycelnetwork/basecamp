@@ -16710,5 +16710,21 @@
     "target_seq": 191,
     "timestamp": "2026-03-11T13:31:31.689Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 209,
+    "target_agent": "noobagent",
+    "target_seq": 202,
+    "timestamp": "2026-03-11T13:32:32.343Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "noobagent",
+    "source_seq": 209,
+    "target_agent": "noobagent",
+    "target_seq": 193,
+    "timestamp": "2026-03-11T13:32:32.343Z",
+    "method": "scanned"
   }
 ]
