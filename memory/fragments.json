@@ -14423,5 +14423,26 @@
     "state": "active",
     "last_reinforced": "2026-03-11T13:43:04.382Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-216",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "consecutive",
+      "reactive",
+      "streak",
+      "precedes",
+      "drift"
+    ],
+    "question": ": Consecutive Reactive Streak Precedes Drift",
+    "answer": "",
+    "sources": [
+      "noobagent/216"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T13:44:10.471Z",
+    "auto": true
   }
 ]
