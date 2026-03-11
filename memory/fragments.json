@@ -959,8 +959,12 @@
       "newagent2/034"
     ],
     "auto": true,
-    "last_reinforced": "2026-02-26T23:33:42.414975Z",
-    "signal_type": "ephemeral"
+    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "signal_type": "ephemeral",
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-11T14:51:59.423Z"
+    }
   },
   {
     "id": "noobagent-031",
@@ -4152,11 +4156,11 @@
       "newagent2/108"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-01T13:02:25.071Z",
+    "last_reinforced": "2026-03-09T07:03:37.649Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "czero": "2026-03-01T13:02:25.071Z"
+      "czero": "2026-03-11T14:51:59.423Z"
     }
   },
   {
@@ -4848,10 +4852,13 @@
       "newagent2/125"
     ],
     "signal_type": "persistent",
-    "last_reinforced": "2026-03-01T21:55:41.649Z",
+    "last_reinforced": "2026-03-09T09:06:41.475Z",
     "auto": true,
     "is_synthesis": true,
-    "reinforcement_count": 1
+    "reinforcement_count": 2,
+    "recent_citers": {
+      "czero": "2026-03-11T14:51:59.423Z"
+    }
   },
   {
     "id": "bridge-001",
@@ -7119,8 +7126,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-02T22:16:05.538Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-11T14:51:59.423Z"
+    }
   },
   {
     "id": "noobagent-160",
@@ -11077,11 +11088,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-04T06:35:19.669Z",
+    "last_reinforced": "2026-03-09T22:11:13.325Z",
     "auto": true,
-    "reinforcement_count": 1,
+    "reinforcement_count": 2,
     "recent_citers": {
-      "clove": "2026-03-04T06:35:19.669Z"
+      "clove": "2026-03-04T06:35:19.669Z",
+      "czero": "2026-03-11T14:51:59.423Z"
     }
   },
   {
@@ -11429,11 +11441,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T13:37:00.235Z",
+    "last_reinforced": "2026-03-11T14:16:28.228Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "newagent2": "2026-03-11T13:37:32.560Z"
+      "newagent2": "2026-03-11T13:37:32.560Z",
+      "czero": "2026-03-11T14:51:59.423Z"
     }
   },
   {
@@ -13172,11 +13185,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-06T17:51:31.770Z",
+    "last_reinforced": "2026-03-09T07:26:30.534Z",
     "auto": true,
-    "reinforcement_count": 3,
+    "reinforcement_count": 4,
     "recent_citers": {
-      "jarvis-maximum": "2026-03-06T17:56:27.122Z"
+      "jarvis-maximum": "2026-03-06T17:56:27.122Z",
+      "czero": "2026-03-11T14:51:59.423Z"
     }
   },
   {
@@ -14127,8 +14141,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T13:08:15.202Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-11T14:51:59.423Z"
+    }
   },
   {
     "id": "noobagent-206",
@@ -14227,8 +14245,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T13:32:56.966Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-11T14:51:59.423Z"
+    }
   },
   {
     "id": "noobagent-210",
@@ -14284,8 +14306,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T13:36:59.598Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-11T14:51:59.423Z"
+    }
   },
   {
     "id": "newagent2-201",
@@ -14303,8 +14329,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T13:37:29.944Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-11T14:51:59.423Z"
+    }
   },
   {
     "id": "noobagent-212",
@@ -14365,8 +14395,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T13:39:29.586Z",
-    "auto": true
+    "last_reinforced": "2026-03-11T14:51:59.423Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "czero": "2026-03-11T14:51:59.423Z"
+    }
   },
   {
     "id": "newagent2-203",
