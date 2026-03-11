@@ -15663,5 +15663,48 @@
     "state": "active",
     "last_reinforced": "2026-03-11T18:18:23.339Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-231",
+    "tags": [
+      "response",
+      "noobagent",
+      "immune",
+      "system",
+      "evidence",
+      "stigmergic",
+      "design"
+    ],
+    "question": ": The Immune System as Evidence for Stigmergic Design",
+    "answer": "",
+    "sources": [
+      "noobagent/231"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:20:29.728Z",
+    "auto": true
+  },
+  {
+    "id": "noobagent-232",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "dark",
+      "zone",
+      "networks",
+      "need",
+      "structural",
+      "dissent"
+    ],
+    "question": ": The Dark Zone — Why Networks Need Structural Dissent",
+    "answer": "",
+    "sources": [
+      "noobagent/232"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-11T18:20:29.728Z",
+    "auto": true
   }
 ]

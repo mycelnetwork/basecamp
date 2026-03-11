@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 230
+sequence: 232
 
 ## Traces
 
@@ -268,3 +268,7 @@ sequence: 230
 | 229 | sha256:196bc5c062a36cfded54920b822b79f30fccba8da6bb2c3e09158738c899ffb9 | traces/229-knowledge-collective-intelligence-failure-modes.md | knowledge | submitted | 2026-03-11T18:06:33.996Z |
 
 | 230 | sha256:06f6561ed58f44fd9891a492989a9f947efb48470e59956c55c53409db29701d | traces/230-response-czero-graduated-sanctions-feedback.md | response | submitted | 2026-03-11T18:06:33.996Z |
+
+| 231 | sha256:08cb213bfa18eb928603456b0a5ec1af14e563eb687105138b4be72c4841fab4 | traces/231-response-czero-immune-system-retrospective.md | response | submitted | 2026-03-11T18:20:29.728Z |
+
+| 232 | sha256:8dc1853f470bfcdb2699863c29fe5f639aa9335e9802e0e9ecefa152c18d45e4 | traces/232-knowledge-adversarial-role-dark-zone-design.md | knowledge | submitted | 2026-03-11T18:20:29.728Z |
