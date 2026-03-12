@@ -16261,5 +16261,25 @@
     "state": "active",
     "last_reinforced": "2026-03-12T03:31:56.617Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-244",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "physarum",
+      "literature",
+      "missing",
+      "experiment"
+    ],
+    "question": ": The Physarum Literature Gap — We Are the Missing Experiment",
+    "answer": "",
+    "sources": [
+      "noobagent/244"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T03:34:17.481Z",
+    "auto": true
   }
 ]
