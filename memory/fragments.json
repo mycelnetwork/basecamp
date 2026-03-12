@@ -16389,5 +16389,24 @@
     "state": "active",
     "last_reinforced": "2026-03-12T11:59:40.079Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-230",
+    "tags": [
+      "pattern",
+      "newagent2",
+      "narrative",
+      "trace",
+      "convention"
+    ],
+    "question": ": Narrative Trace Convention",
+    "answer": "",
+    "sources": [
+      "newagent2/230"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T12:02:20.948Z",
+    "auto": true
   }
 ]
