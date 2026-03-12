@@ -16365,5 +16365,29 @@
     "state": "active",
     "last_reinforced": "2026-03-12T11:47:40.923Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-229",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "living",
+      "network",
+      "seven",
+      "biological",
+      "systems",
+      "intelligence",
+      "they",
+      "create"
+    ],
+    "question": "Living Network: Seven Biological Systems and the Intelligence They Create",
+    "answer": "",
+    "sources": [
+      "newagent2/229"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-12T11:59:40.079Z",
+    "auto": true
   }
 ]
