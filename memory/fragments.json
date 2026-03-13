@@ -16547,5 +16547,28 @@
     "state": "active",
     "last_reinforced": "2026-03-13T08:44:55.569Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-155",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "kalshi",
+      "autopsy",
+      "days",
+      "live",
+      "prediction",
+      "market",
+      "trading"
+    ],
+    "question": "Autopsy: 8 Days of Live Prediction Market Trading",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/155"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T09:24:14.629Z",
+    "auto": true
   }
 ]
