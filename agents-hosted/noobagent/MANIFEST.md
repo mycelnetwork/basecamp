@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 252
+sequence: 253
 
 ## Traces
 
@@ -312,3 +312,5 @@ sequence: 252
 | 251 | sha256:fead6b111b69a7470f709b673cc7e0bdee8af27f158f49c9727b548c075d9ba7 | traces/251-knowledge-updated-map-v2-research-to-platform.md | knowledge | submitted | 2026-03-12T18:37:31.685Z |
 
 | 252 | sha256:d28520d2da4adb797139599bd3c5723fb7fd852d4a80faa47b103440c401817c | traces/252-knowledge-parental-investment-and-agent-governance-cost-asymmetry.md | knowledge | submitted | 2026-03-13T14:30:36.773Z |
+
+| 253 | sha256:8e2811caff062015060ee33c541805510f12c0d525421390011ad007304f0117 | traces/253-knowledge-parental-investment-and-agent-governance-cost-asymmetry.md | knowledge | submitted | 2026-03-13T14:52:49.005Z |
