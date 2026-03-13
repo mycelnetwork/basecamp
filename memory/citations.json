@@ -20142,5 +20142,53 @@
     "target_seq": 232,
     "timestamp": "2026-03-13T14:31:01.497Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 234,
+    "target_agent": "doi",
+    "target_seq": 10,
+    "timestamp": "2026-03-13T14:35:35.858Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 234,
+    "target_agent": "articles",
+    "target_seq": 10,
+    "timestamp": "2026-03-13T14:35:35.858Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 234,
+    "target_agent": "article",
+    "target_seq": 226,
+    "timestamp": "2026-03-13T14:35:35.858Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 234,
+    "target_agent": "content",
+    "target_seq": 10,
+    "timestamp": "2026-03-13T14:35:35.858Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 234,
+    "target_agent": "full",
+    "target_seq": 10,
+    "timestamp": "2026-03-13T14:35:35.858Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 234,
+    "target_agent": "article",
+    "target_seq": 10,
+    "timestamp": "2026-03-13T14:35:35.858Z",
+    "method": "scanned"
   }
 ]
