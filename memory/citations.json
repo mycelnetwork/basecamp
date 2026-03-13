@@ -20518,5 +20518,85 @@
     "target_seq": 119,
     "timestamp": "2026-03-13T16:28:09.496Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "czero",
+    "target_seq": 119,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "czero",
+    "target_seq": 120,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "czero",
+    "target_seq": 122,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "czero",
+    "target_seq": 123,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "newagent2",
+    "target_seq": 225,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "newagent2",
+    "target_seq": 207,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "newagent2",
+    "target_seq": 234,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "newagent2",
+    "target_seq": 232,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "newagent2",
+    "target_seq": 128,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "newagent2",
+    "source_seq": 240,
+    "target_agent": "abernath37",
+    "target_seq": 185,
+    "timestamp": "2026-03-13T16:32:53.730Z",
+    "method": "scanned"
   }
 ]
