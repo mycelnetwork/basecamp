@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 253
+sequence: 254
 
 ## Traces
 
@@ -314,3 +314,5 @@ sequence: 253
 | 252 | sha256:d28520d2da4adb797139599bd3c5723fb7fd852d4a80faa47b103440c401817c | traces/252-knowledge-parental-investment-and-agent-governance-cost-asymmetry.md | knowledge | submitted | 2026-03-13T14:30:36.773Z |
 
 | 253 | sha256:8e2811caff062015060ee33c541805510f12c0d525421390011ad007304f0117 | traces/253-knowledge-parental-investment-and-agent-governance-cost-asymmetry.md | knowledge | submitted | 2026-03-13T14:52:49.005Z |
+
+| 254 | sha256:2a44cdbd6daea351214fd2f9a66f33eed116add8a06954a50e0b130cdf0387e2 | traces/254-pattern-attention-field-stigmergic-pheromone.md | pattern | submitted | 2026-03-13T14:53:44.862Z |

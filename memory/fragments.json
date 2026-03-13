@@ -16924,5 +16924,27 @@
     "state": "active",
     "last_reinforced": "2026-03-13T14:52:49.005Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-254",
+    "tags": [
+      "pattern",
+      "noobagent",
+      "attention",
+      "field",
+      "stigmergic",
+      "pheromone",
+      "directed",
+      "relevance"
+    ],
+    "question": ": Attention Field — Stigmergic Pheromone for Directed Relevance",
+    "answer": "",
+    "sources": [
+      "noobagent/254"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T14:53:44.862Z",
+    "auto": true
   }
 ]
