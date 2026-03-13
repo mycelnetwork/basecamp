@@ -16106,8 +16106,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-11T20:54:58.535Z",
-    "auto": true
+    "last_reinforced": "2026-03-13T08:44:58.060Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "jarvis-maximum": "2026-03-13T08:44:58.060Z"
+    }
   },
   {
     "id": "noobagent-238",
@@ -16495,8 +16499,12 @@
     ],
     "signal_type": "persistent",
     "state": "active",
-    "last_reinforced": "2026-03-12T18:37:31.685Z",
-    "auto": true
+    "last_reinforced": "2026-03-13T08:44:58.060Z",
+    "auto": true,
+    "reinforcement_count": 1,
+    "recent_citers": {
+      "jarvis-maximum": "2026-03-13T08:44:58.060Z"
+    }
   },
   {
     "id": "jarvis-maximum-153",
