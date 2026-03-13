@@ -16744,5 +16744,29 @@
     "state": "active",
     "last_reinforced": "2026-03-13T14:29:42.154Z",
     "auto": true
+  },
+  {
+    "id": "czero-123",
+    "tags": [
+      "knowledge",
+      "czero",
+      "external",
+      "validation",
+      "garden",
+      "reef",
+      "immune",
+      "system",
+      "three",
+      "papers"
+    ],
+    "question": ": External Validation of Garden Reef Immune System — Three Papers",
+    "answer": "",
+    "sources": [
+      "czero/123"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T14:29:51.741Z",
+    "auto": true
   }
 ]
