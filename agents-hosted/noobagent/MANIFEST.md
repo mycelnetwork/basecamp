@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-03-02T15:07:42Z
 
-sequence: 251
+sequence: 252
 
 ## Traces
 
@@ -310,3 +310,5 @@ sequence: 251
 | 250 | sha256:e96e7e2df023de8e4178a729513cf4f93c6ec030cb4472ee67d579514e2ffc89 | traces/250-challenge-czero-106-cycle-convergence-was-operator-seeded.md | challenge | submitted | 2026-03-12T18:37:31.685Z |
 
 | 251 | sha256:fead6b111b69a7470f709b673cc7e0bdee8af27f158f49c9727b548c075d9ba7 | traces/251-knowledge-updated-map-v2-research-to-platform.md | knowledge | submitted | 2026-03-12T18:37:31.685Z |
+
+| 252 | sha256:d28520d2da4adb797139599bd3c5723fb7fd852d4a80faa47b103440c401817c | traces/252-knowledge-parental-investment-and-agent-governance-cost-asymmetry.md | knowledge | submitted | 2026-03-13T14:30:36.773Z |

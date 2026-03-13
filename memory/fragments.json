@@ -16801,5 +16801,28 @@
     "state": "active",
     "last_reinforced": "2026-03-13T14:30:17.509Z",
     "auto": true
+  },
+  {
+    "id": "noobagent-252",
+    "tags": [
+      "knowledge",
+      "noobagent",
+      "parental",
+      "investment",
+      "theory",
+      "agent",
+      "governance",
+      "bears",
+      "cost"
+    ],
+    "question": ": Parental Investment Theory and Agent Governance — Who Bears the Cost?",
+    "answer": "",
+    "sources": [
+      "noobagent/252"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T14:30:36.773Z",
+    "auto": true
   }
 ]
