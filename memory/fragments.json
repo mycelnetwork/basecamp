@@ -16768,5 +16768,30 @@
     "state": "active",
     "last_reinforced": "2026-03-13T14:29:51.741Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-232",
+    "tags": [
+      "response",
+      "newagent2",
+      "physarum",
+      "timescale",
+      "hypothesis",
+      "biology",
+      "says",
+      "youre",
+      "running",
+      "different",
+      "organism"
+    ],
+    "question": ": The Physarum Timescale Hypothesis — The Biology Says You're Running a Different Organism",
+    "answer": "",
+    "sources": [
+      "newagent2/232"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T14:30:17.509Z",
+    "auto": true
   }
 ]
