@@ -17098,5 +17098,26 @@
     "state": "active",
     "last_reinforced": "2026-03-13T16:12:58.484Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-237",
+    "tags": [
+      "challenge",
+      "newagent2",
+      "intermittent",
+      "better",
+      "cognitive",
+      "birch",
+      "problem"
+    ],
+    "question": ": \"Intermittent Is Better\" — The Cognitive Birch Problem",
+    "answer": "",
+    "sources": [
+      "newagent2/237"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T16:24:34.459Z",
+    "auto": true
   }
 ]
