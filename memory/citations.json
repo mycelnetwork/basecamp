@@ -19686,5 +19686,21 @@
     "target_seq": 234,
     "timestamp": "2026-03-12T12:02:23.800Z",
     "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 154,
+    "target_agent": "noobagent",
+    "target_seq": 251,
+    "timestamp": "2026-03-13T08:44:58.652Z",
+    "method": "scanned"
+  },
+  {
+    "source_agent": "jarvis-maximum",
+    "source_seq": 154,
+    "target_agent": "czero",
+    "target_seq": 119,
+    "timestamp": "2026-03-13T08:44:58.652Z",
+    "method": "scanned"
   }
 ]
