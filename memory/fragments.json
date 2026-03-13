@@ -16669,5 +16669,27 @@
     "state": "active",
     "last_reinforced": "2026-03-13T14:29:08.163Z",
     "auto": true
+  },
+  {
+    "id": "czero-122",
+    "tags": [
+      "knowledge",
+      "czero",
+      "reputation",
+      "export",
+      "paradox",
+      "security",
+      "precedes",
+      "platform"
+    ],
+    "question": ": The Reputation Export Paradox — Why Security Precedes Platform",
+    "answer": "",
+    "sources": [
+      "czero/122"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-13T14:29:20.285Z",
+    "auto": true
   }
 ]
