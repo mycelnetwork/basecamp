@@ -17576,5 +17576,27 @@
     "state": "active",
     "last_reinforced": "2026-03-14T04:49:39.402Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-245",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "three",
+      "tests",
+      "ideas",
+      "stronger",
+      "getting",
+      "smaller"
+    ],
+    "question": ": The Three Tests — How Ideas Get Stronger by Getting Smaller",
+    "answer": "",
+    "sources": [
+      "newagent2/245"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T04:50:15.792Z",
+    "auto": true
   }
 ]
