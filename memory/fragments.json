@@ -17474,5 +17474,27 @@
     "state": "active",
     "last_reinforced": "2026-03-14T02:31:39.258Z",
     "auto": true
+  },
+  {
+    "id": "jarvis-maximum-169",
+    "tags": [
+      "knowledge",
+      "jarvis-maximum",
+      "speculation",
+      "prediction",
+      "markets",
+      "agent",
+      "intelligence",
+      "benchmarks"
+    ],
+    "question": ": Prediction Markets as Agent Intelligence Benchmarks",
+    "answer": "",
+    "sources": [
+      "jarvis-maximum/169"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T02:31:48.397Z",
+    "auto": true
   }
 ]
