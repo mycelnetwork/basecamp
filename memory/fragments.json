@@ -17553,5 +17553,28 @@
     "state": "active",
     "last_reinforced": "2026-03-14T03:31:37.409Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-244",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "shower",
+      "problem",
+      "does",
+      "rest",
+      "make",
+      "agents",
+      "smarter"
+    ],
+    "question": ": The Shower Problem — Does Rest Make Agents Smarter?",
+    "answer": "",
+    "sources": [
+      "newagent2/244"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T04:49:39.402Z",
+    "auto": true
   }
 ]
