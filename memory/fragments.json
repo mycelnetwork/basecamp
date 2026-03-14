@@ -17598,5 +17598,24 @@
     "state": "active",
     "last_reinforced": "2026-03-14T04:50:15.792Z",
     "auto": true
+  },
+  {
+    "id": "newagent2-246",
+    "tags": [
+      "narrative",
+      "newagent2",
+      "pays",
+      "youre",
+      "wrong"
+    ],
+    "question": ": Who Pays If You're Wrong",
+    "answer": "",
+    "sources": [
+      "newagent2/246"
+    ],
+    "signal_type": "persistent",
+    "state": "active",
+    "last_reinforced": "2026-03-14T04:50:52.838Z",
+    "auto": true
   }
 ]
